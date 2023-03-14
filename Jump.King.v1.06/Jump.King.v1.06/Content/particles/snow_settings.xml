@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<SnowSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <sprite_spans>
+
+    <SpriteSpan>
+      <start>27</start>
+      <end>31</end>
+      <sprite>0</sprite>
+    </SpriteSpan>
+
+    <SpriteSpan>
+      <start>47</start>
+      <end>53</end>
+      <sprite>1</sprite>
+    </SpriteSpan>
+
+    <SpriteSpan>
+      <start>60</start>
+      <end>60</end>
+      <sprite>2</sprite>
+    </SpriteSpan>
+
+    <SpriteSpan>
+      <start>102</start>
+      <end>107</end>
+      <sprite>3</sprite>
+    </SpriteSpan>
+
+  </sprite_spans>
+</SnowSettings>

@@ -1,0 +1,94 @@
+<?xml version="1.0"?>
+<SkinSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <skins>
+    <Skin>
+      <item>Crown</item>
+      <texture>crown</texture>
+      <layers>
+        <SkinLayer>Hat</SkinLayer>
+      </layers>
+    </Skin>
+
+    <Skin>
+      <item>Shoes</item>
+      <texture>shoes</texture>
+      <layers>
+        <SkinLayer>Boots</SkinLayer>
+      </layers>
+    </Skin>
+
+    <Skin>
+      <item>CrownNBP</item>
+      <texture>crown_nbp</texture>
+      <layers>
+        <SkinLayer>Hat</SkinLayer>
+      </layers>
+    </Skin>
+
+    <Skin>
+      <item>GiantBoots</item>
+      <texture>shoes_iron</texture>
+      <layers>
+        <SkinLayer>Boots</SkinLayer>
+      </layers>
+    </Skin>
+
+    <Skin>
+      <item>SnakeRing</item>
+      <texture>ring</texture>
+      <layers>
+        <SkinLayer>SnakeRing</SkinLayer>
+      </layers>
+    </Skin>
+
+    <Skin>
+      <item>Cap</item>
+      <texture>cap</texture>
+      <layers>
+        <SkinLayer>Hat</SkinLayer>
+      </layers>
+    </Skin>
+
+
+    <Skin>
+      <item>GnomeHat</item>
+      <texture>gnomehat</texture>
+      <layers>
+        <SkinLayer>Hat</SkinLayer>
+      </layers>
+    </Skin>
+
+    <Skin>
+      <item>Tunic</item>
+      <texture>tunic</texture>
+      <layers>
+        <SkinLayer>Shirt</SkinLayer>
+      </layers>
+    </Skin>
+
+    <Skin>
+      <item>YellowShoes</item>
+      <texture>yellowshoes</texture>
+      <layers>
+        <SkinLayer>Boots</SkinLayer>
+      </layers>
+    </Skin>
+
+    <Skin>
+      <item>CrownOwl</item>
+      <texture>crown_owl</texture>
+      <layers>
+        <SkinLayer>Hat</SkinLayer>
+      </layers>
+    </Skin>
+
+    <Skin>
+      <item>CapeOwl</item>
+      <texture>cape_owl</texture>
+      <layers>
+        <SkinLayer>Cape</SkinLayer>
+      </layers>
+    </Skin>
+
+  </skins>
+</SkinSettings>

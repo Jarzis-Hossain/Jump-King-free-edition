@@ -1,0 +1,405 @@
+<?xml version="1.0"?>
+<MerchantSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+  <sale_item>GiantBoots</sale_item>
+  <currency_type>Silver</currency_type>
+  <price_increase>10</price_increase>
+
+  <sale_achievements>
+    <SaleAchievement>
+      <sell_amount>10</sell_amount>
+      <code>BUY_GIANTBOOTS</code>
+    </SaleAchievement>
+  </sale_achievements>
+
+  <sale_lines>
+    <OldManQuote>
+      <lines>
+        <string>MERCHANT_NBP_DID_YOU_GET_SILVER_LINE_0</string>
+      </lines>
+    </OldManQuote>
+
+    <OldManQuote>
+      <lines>
+        <string>MERCHANT_NBP_HERE_FOR_BOOTS_LINE_0</string>
+        <string>MERCHANT_NBP_HERE_FOR_BOOTS_LINE_1</string>
+        <string>MERCHANT_NBP_HERE_FOR_BOOTS_LINE_2</string>
+      </lines>
+    </OldManQuote>
+
+    <OldManQuote>
+      <lines>
+        <string>MERCHANT_NBP_STINGY_BOOTS_LINE_0</string>
+        <string>MERCHANT_NBP_STINGY_BOOTS_LINE_1</string>
+        <string>MERCHANT_NBP_STINGY_BOOTS_LINE_2</string>
+        <string>MERCHANT_NBP_STINGY_BOOTS_LINE_3</string>
+      </lines>
+    </OldManQuote>
+
+    <OldManQuote>
+      <lines>
+        <string>MERCHANT_NBP_CANT_STOP_THINKING_BOOTS_LINE_0</string>
+        <string>MERCHANT_NBP_CANT_STOP_THINKING_BOOTS_LINE_1</string>
+        <string>MERCHANT_NBP_CANT_STOP_THINKING_BOOTS_LINE_2</string>
+      </lines>
+    </OldManQuote>
+
+    <OldManQuote>
+      <lines>
+        <string>MERCHANT_NBP_ALL_ABOUT_BOOTS_LINE_0</string>
+        <string>MERCHANT_NBP_ALL_ABOUT_BOOTS_LINE_1</string>
+        <string>MERCHANT_NBP_ALL_ABOUT_BOOTS_LINE_2</string>
+      </lines>
+    </OldManQuote>
+
+   </sale_lines>
+
+
+
+  <sell_quote>
+    <lines>
+      <string>MERCHANT_NBP_HAVE_SILVER_DEAL_LINE_0</string>
+      <string>MERCHANT_NBP_HAVE_SILVER_DEAL_LINE_1</string>
+    </lines>
+  </sell_quote>
+
+  <sold_lines>
+    <OldManQuote>
+      <lines>
+        <string>MERCHANT_NBP_SCRATCH_SILVER_DEAL_LINE_0</string>
+        <string>MERCHANT_NBP_SCRATCH_SILVER_DEAL_LINE_1</string>
+        <string>MERCHANT_NBP_SCRATCH_SILVER_DEAL_LINE_2</string>
+        <string>MERCHANT_NBP_SCRATCH_SILVER_DEAL_LINE_3</string>
+      </lines>
+    </OldManQuote>
+
+  </sold_lines>
+
+  <no_gold_lines>
+
+    <OldManQuote>
+      <lines>
+        <string>MERCHANT_NBP_DONT_HAVE_SILVER_SWEAT_LINE_0</string>
+        <string>MERCHANT_NBP_DONT_HAVE_SILVER_SWEAT_LINE_1</string>
+        <string>MERCHANT_NBP_DONT_HAVE_SILVER_SWEAT_LINE_2</string>
+      </lines>
+    </OldManQuote>
+
+    <OldManQuote>
+      <lines>
+        <string>MERCHANT_NBP_DONT_HAVE_SILVER_NO_LUCK_LINE_0</string>
+        <string>MERCHANT_NBP_DONT_HAVE_SILVER_NO_LUCK_LINE_1</string>
+      </lines>
+    </OldManQuote>
+
+    <OldManQuote>
+      <lines>
+        <string>MERCHANT_NBP_NOT_ENOUGH_SILVER_LINE_0</string>
+        <string>MERCHANT_NBP_NOT_ENOUGH_SILVER_LINE_1</string>
+        <string>MERCHANT_NBP_NOT_ENOUGH_SILVER_LINE_2</string>
+      </lines>
+    </OldManQuote>
+
+    <OldManQuote>
+      <lines>
+        <string>MERCHANT_NBP_NOT_ENOUGH_NO_BIG_DEAL_LINE_0</string>
+        <string>MERCHANT_NBP_NOT_ENOUGH_NO_BIG_DEAL_LINE_1</string>
+        <string>MERCHANT_NBP_NOT_ENOUGH_NO_BIG_DEAL_LINE_2</string>
+      </lines>
+    </OldManQuote>
+
+    <OldManQuote>
+      <lines>
+        <string>MERCHANT_NBP_NOT_EVERYONE_IS_RICH_LINE_0</string>
+        <string>MERCHANT_NBP_NOT_EVERYONE_IS_RICH_LINE_1</string>
+      </lines>
+    </OldManQuote>
+
+    <OldManQuote>
+      <lines>
+        <string>MERCHANT_NBP_BROADER_PERSPECTIVE_LINE_0</string>
+        <string>MERCHANT_NBP_BROADER_PERSPECTIVE_LINE_1</string>
+      </lines>
+    </OldManQuote>
+
+    <OldManQuote>
+      <lines>
+        <string>MERCHANT_NBP_TIMES_ARE_HARD_LINE_0</string>
+        <string>MERCHANT_NBP_TIMES_ARE_HARD_LINE_1</string>
+      </lines>
+    </OldManQuote>
+
+    <OldManQuote>
+      <lines>
+        <string>MERCHANT_NBP_NOT_ENOUGH_TROLL_LINE_0</string>
+        <string>MERCHANT_NBP_NOT_ENOUGH_TROLL_LINE_1</string>
+        <string>MERCHANT_NBP_NOT_ENOUGH_TROLL_LINE_2</string>
+      </lines>
+    </OldManQuote>
+
+  </no_gold_lines>
+
+  <!-- _________________________________________________________________________________ -->
+
+  <settings>
+  <!-- ??? -->
+  <name>merchant_nbp</name>
+  <sprite_cells>
+    <X>4</X>
+    <Y>2</Y>
+  </sprite_cells>
+  <random_count>6</random_count>
+  <position>
+    <X>152</X>
+    <Y>120</Y>
+  </position>
+  <home_screen>71</home_screen>
+  <text_layer>Midground</text_layer>
+
+  <talk_animation>
+  	<frames>
+  		<AnimationFrame>
+  			<sprite_index>0</sprite_index>
+  			<duration>0.2</duration>
+  		</AnimationFrame>
+  		<AnimationFrame>
+  			<sprite_index>7</sprite_index>
+  			<duration>0.2</duration>
+  		</AnimationFrame>
+  	</frames>
+  </talk_animation>
+
+  <busy_animation>
+  	<frames>
+
+  		<AnimationFrame>
+  			<sprite_index>0</sprite_index>
+  			<duration>1</duration>
+  		</AnimationFrame>
+  		<AnimationFrame>
+  			<sprite_index>1</sprite_index>
+  			<duration>0.4</duration>
+  		</AnimationFrame>
+  		<AnimationFrame>
+  			<sprite_index>2</sprite_index>
+  			<duration>0.4</duration>
+  		</AnimationFrame>
+  		<AnimationFrame>
+  			<sprite_index>1</sprite_index>
+  			<duration>0.4</duration>
+  		</AnimationFrame>
+  		<AnimationFrame>
+  			<sprite_index>5</sprite_index>
+  			<duration>2</duration>
+  		</AnimationFrame>
+  		<AnimationFrame>
+  			<sprite_index>0</sprite_index>
+  			<duration>1</duration>
+  		</AnimationFrame>
+  		<AnimationFrame>
+  			<sprite_index>3</sprite_index>
+  			<duration>0.5</duration>
+  		</AnimationFrame>
+  		<AnimationFrame>
+  			<sprite_index>4</sprite_index>
+  			<duration>0.3</duration>
+  		</AnimationFrame>
+  		<AnimationFrame>
+  			<sprite_index>3</sprite_index>
+  			<duration>0.5</duration>
+  		</AnimationFrame>
+  		<AnimationFrame>
+  			<sprite_index>5</sprite_index>
+  			<duration>2</duration>
+  		</AnimationFrame>
+
+
+
+  	</frames>
+  </busy_animation>
+
+  <bubble_format>
+    <direction>Left</direction>
+    <anchor>
+      <X>Right</X>
+      <Y>Down</Y>
+    </anchor>
+    <width>120</width>
+  </bubble_format>
+
+  <trigger_box>
+    <screen_rect>
+      <X>96</X>
+      <Y>91</Y>
+      <Width>72</Width>
+      <Height>29</Height>
+    </screen_rect>
+  </trigger_box>
+
+  <talk_delay>1</talk_delay>
+  <talking_speed>0.05</talking_speed>
+
+  <intro_quote>
+  	<lines>
+  		<string>MERCHANT_NBP_SELL_THESE_BOOTS_LINE_0</string> 
+      <string>MERCHANT_NBP_SELL_THESE_BOOTS_LINE_1</string>
+      <string>MERCHANT_NBP_SELL_THESE_BOOTS_LINE_2</string>
+      <string>MERCHANT_NBP_SELL_THESE_BOOTS_LINE_3</string>
+      <string>MERCHANT_NBP_SELL_THESE_BOOTS_LINE_4</string>
+      <string>MERCHANT_NBP_SELL_THESE_BOOTS_LINE_5</string>
+      <string>MERCHANT_NBP_SELL_THESE_BOOTS_LINE_6</string>
+      <string>MERCHANT_NBP_SELL_THESE_BOOTS_LINE_7</string>
+  	</lines>
+  </intro_quote>
+
+  <flag_quotes>
+    <OldManFlagQuote>
+      <flag>CompletedNBP</flag>
+      <quotes>
+        <OldManQuote>
+          <lines>
+              <string>MERCHANT_NBP_CROWN_FOR_BOOTS_LINE_0</string>
+              <string>MERCHANT_NBP_CROWN_FOR_BOOTS_LINE_1</string>
+              <string>MERCHANT_NBP_CROWN_FOR_BOOTS_LINE_2</string>
+              <string>MERCHANT_NBP_CROWN_FOR_BOOTS_LINE_3</string>
+              <string>MERCHANT_NBP_CROWN_FOR_BOOTS_LINE_4</string>
+      			<string>MERCHANT_NBP_CROWN_FOR_BOOTS_LINE_5</string>
+      			<string>MERCHANT_NBP_CROWN_FOR_BOOTS_LINE_6</string>
+          </lines>
+        </OldManQuote>
+      </quotes>
+    </OldManFlagQuote>
+  </flag_quotes>
+
+  <!--achievements>
+    <OldmanTalkAchievement>
+      <code>TALK_MERCHANT_10</code>
+      <talk_times>4</talk_times>
+    </OldmanTalkAchievement>
+  </achievements-->
+
+  <screens>
+
+    <OldManScreen>
+      <screen>71</screen>
+      <quotes>
+
+        <OldManQuote>
+          <lines>
+            <string>MERCHANT_NBP_MONEY_GARBAGE_FANCY_LINE_0</string>
+            <string>MERCHANT_NBP_MONEY_GARBAGE_FANCY_LINE_1</string>
+          </lines>
+        </OldManQuote>
+
+        <OldManQuote>
+          <lines>
+            <string>MERCHANT_NBP_EASY_MONEY_QUALITY_LINE_0</string>
+            <string>MERCHANT_NBP_EASY_MONEY_QUALITY_LINE_1</string>
+            <string>MERCHANT_NBP_EASY_MONEY_QUALITY_LINE_2</string>
+          </lines>
+        </OldManQuote>
+
+        <OldManQuote>
+          <lines>
+            <string>MERCHANT_NBP_TRADE_HORSE_FOR_A_TREE_LINE_0</string>
+            <string>MERCHANT_NBP_TRADE_HORSE_FOR_A_TREE_LINE_1</string>
+            <string>MERCHANT_NBP_TRADE_HORSE_FOR_A_TREE_LINE_2</string>
+            <string>MERCHANT_NBP_TRADE_HORSE_FOR_A_TREE_LINE_3</string>
+          </lines>
+        </OldManQuote>
+
+      </quotes>
+    </OldManScreen>
+
+    <OldManScreen>
+      <screen>72</screen>
+      <quotes>
+
+        <OldManQuote>
+          <lines>
+            <string>MERCHANT_NBP_TRADE_CHAINS_LINE_0</string>
+            <string>MERCHANT_NBP_TRADE_CHAINS_LINE_1</string>
+            <string>MERCHANT_NBP_TRADE_CHAINS_LINE_2</string>
+            <string>MERCHANT_NBP_TRADE_CHAINS_LINE_3</string>
+            <string>MERCHANT_NBP_TRADE_CHAINS_LINE_4</string>
+          </lines>
+        </OldManQuote>
+
+        <OldManQuote>
+          <lines>
+            <string>MERCHANT_NBP_MONOPOLY_LINE_0</string>
+            <string>MERCHANT_NBP_MONOPOLY_LINE_1</string>
+          </lines>
+        </OldManQuote>
+
+        <OldManQuote>
+          <lines>
+            <string>MERCHANT_NBP_APPLE_1_COPPER_FARMER_LINE_0</string>
+            <string>MERCHANT_NBP_APPLE_1_COPPER_FARMER_LINE_1</string>
+            <string>MERCHANT_NBP_APPLE_1_COPPER_FARMER_LINE_2</string>
+            <string>MERCHANT_NBP_APPLE_1_COPPER_FARMER_LINE_3</string>
+            <string>MERCHANT_NBP_APPLE_1_COPPER_FARMER_LINE_4</string>
+          </lines>
+        </OldManQuote>
+
+      </quotes>
+    </OldManScreen>
+
+    <OldManScreen>
+      <screen>73</screen>
+      <quotes>
+
+        <OldManQuote>
+          <lines>
+            <string>MERCHANT_NBP_TRADED_HAM_FOR_GOLD_LINE_0</string>
+            <string>MERCHANT_NBP_TRADED_HAM_FOR_GOLD_LINE_1</string>
+            <string>MERCHANT_NBP_TRADED_HAM_FOR_GOLD_LINE_2</string>
+          </lines>
+        </OldManQuote>
+
+        <OldManQuote>
+          <lines>
+            <string>MERCHANT_NBP_OVERPRICED_LINE_0</string>
+            <string>MERCHANT_NBP_OVERPRICED_LINE_1</string>
+            <string>MERCHANT_NBP_OVERPRICED_LINE_2</string>
+            <string>MERCHANT_NBP_OVERPRICED_LINE_3</string>
+          </lines>
+        </OldManQuote>
+
+      </quotes>
+    </OldManScreen>
+
+    <OldManScreen>
+      <screen>75</screen>
+      <quotes>
+
+        <OldManQuote>
+          <lines>
+            <string>MERCHANT_NBP_LIAR_SELECTIVE_FACTS_LINE_0</string>
+            <string>MERCHANT_NBP_LIAR_SELECTIVE_FACTS_LINE_1</string>
+            <string>MERCHANT_NBP_LIAR_SELECTIVE_FACTS_LINE_2</string>
+          </lines>
+        </OldManQuote>
+
+      </quotes>
+    </OldManScreen>
+
+    <OldManScreen>
+      <screen>80</screen>
+      <quotes>
+
+        <OldManQuote>
+          <lines>
+            <string>MERCHANT_NBP_TROLLS_LIKE_SHINY_LINE_0</string>
+            <string>MERCHANT_NBP_TROLLS_LIKE_SHINY_LINE_1</string>
+            <string>MERCHANT_NBP_TROLLS_LIKE_SHINY_LINE_2</string>
+          </lines>
+        </OldManQuote>
+
+      </quotes>
+    </OldManScreen>
+
+
+  </screens>
+  </settings>
+</MerchantSettings>

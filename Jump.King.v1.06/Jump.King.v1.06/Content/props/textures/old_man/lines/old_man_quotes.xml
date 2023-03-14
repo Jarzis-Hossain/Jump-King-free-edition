@@ -1,0 +1,698 @@
+<?xml version="1.0"?>
+<OldManSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+  <!-- ??? -->
+  <name>old_man</name>
+  <sprite_cells>
+    <X>3</X>
+    <Y>3</Y>
+  </sprite_cells>
+  <random_count>5</random_count>
+  <position>
+    <X>335</X>
+    <Y>328</Y>
+  </position>
+  <home_screen>1</home_screen>
+
+  <talk_animation>
+  	<frames>
+  		<AnimationFrame>
+  			<sprite_index>0</sprite_index>
+  			<duration>0.2</duration>
+  		</AnimationFrame>
+  		<AnimationFrame>
+  			<sprite_index>4</sprite_index>
+  			<duration>0.2</duration>
+  		</AnimationFrame>
+  	</frames>
+  </talk_animation>
+
+  <busy_animation>
+  	<frames>
+  		<AnimationFrame>
+  			<sprite_index>5</sprite_index>
+  			<duration>0.6</duration>
+  		</AnimationFrame>
+  		<AnimationFrame>
+  			<sprite_index>6</sprite_index>
+  			<duration>0.4</duration>
+  		</AnimationFrame>
+  		<AnimationFrame>
+  			<sprite_index>7</sprite_index>
+  			<duration>0.6</duration>
+  		</AnimationFrame>
+  		<AnimationFrame>
+  			<sprite_index>8</sprite_index>
+  			<duration>0.4</duration>
+  		</AnimationFrame>
+  	</frames>
+  </busy_animation>
+
+  <bubble_format>
+    <direction>Left</direction>
+    <anchor>
+      <X>Right</X>
+      <Y>Down</Y>
+    </anchor>
+    <width>160</width>
+  </bubble_format>
+
+  <trigger_box>
+    <center_x>0.5</center_x>
+    <center_y>0.5</center_y>
+    <width>1000</width>
+    <height>20</height>
+  </trigger_box>
+
+  <talk_delay>1</talk_delay>
+  <talking_speed>0.09</talking_speed>
+
+  <intro_quote>
+  	<lines>
+  		<string>OLD_MAN_QUOTES_GET_THAT_BABE_LINE_0
+</string>
+      <string>OLD_MAN_QUOTES_GET_THAT_BABE_LINE_1
+</string>
+      <string>OLD_MAN_QUOTES_GET_THAT_BABE_LINE_2
+</string>
+      <string>OLD_MAN_QUOTES_GET_THAT_BABE_LINE_3
+</string>
+  	</lines>
+  </intro_quote>
+
+  <flag_quotes>
+    <OldManFlagQuote>
+      <flag>CompletedNormalGame</flag>
+      <quotes>
+        <OldManQuote>
+          <lines>
+              <string>OLD_MAN_QUOTES_YELLOW_HAT_LINE_0
+</string>
+              <string>OLD_MAN_QUOTES_YELLOW_HAT_LINE_1
+</string>
+              <string>OLD_MAN_QUOTES_YELLOW_HAT_LINE_2
+</string>
+              <string>OLD_MAN_QUOTES_YELLOW_HAT_LINE_3
+</string>
+              <string>OLD_MAN_QUOTES_YELLOW_HAT_LINE_4
+</string>
+          </lines>
+        </OldManQuote>
+      </quotes>
+    </OldManFlagQuote>
+  </flag_quotes>
+
+  <achievements>
+  	<OldmanTalkAchievement>
+      <code>TALK_OLDMAN_10</code>
+      <talk_times>10</talk_times>
+    </OldmanTalkAchievement>
+
+    <OldmanTalkAchievement>
+      <code>TALK_OLDMAN_ALL</code>
+      <talk_times>40</talk_times>
+    </OldmanTalkAchievement>
+
+  </achievements>
+
+  <screens>
+
+    <OldManScreen>
+      <screen>2</screen>
+      <quotes>
+
+        <OldManQuote>
+          <lines><string>OLD_MAN_QUOTES_A_BEAUTY_LINE_0
+</string>
+          <string>OLD_MAN_QUOTES_A_BEAUTY_LINE_1
+</string>
+          <string>OLD_MAN_QUOTES_A_BEAUTY_LINE_2
+</string></lines>
+        </OldManQuote>
+
+        <OldManQuote>
+          <lines><string>OLD_MAN_QUOTES_WHY_STOP_JUMPING_LINE_0
+</string>
+          <string>OLD_MAN_QUOTES_WHY_STOP_JUMPING_LINE_1
+</string>
+          <string>OLD_MAN_QUOTES_WHY_STOP_JUMPING_LINE_2
+</string></lines>
+        </OldManQuote>
+
+        <OldManQuote>
+          <lines><string>OLD_MAN_QUOTES_GET_A_GLANCE_LINE_0
+</string>
+          <string>OLD_MAN_QUOTES_GET_A_GLANCE_LINE_1
+</string>
+          <string>OLD_MAN_QUOTES_GET_A_GLANCE_LINE_2
+</string></lines>
+        </OldManQuote>
+
+         <OldManQuote>
+          <lines><string>OLD_MAN_QUOTES_COMFY_TENT_LINE_0
+</string>
+          <string>OLD_MAN_QUOTES_COMFY_TENT_LINE_1
+</string>
+          <string>OLD_MAN_QUOTES_COMFY_TENT_LINE_2
+</string></lines>
+        </OldManQuote>
+
+        <OldManQuote>
+          <lines><string>OLD_MAN_QUOTES_WHAT_DO_YOU_EAT_LINE_0
+</string>
+          <string>OLD_MAN_QUOTES_WHAT_DO_YOU_EAT_LINE_1
+</string>
+          <string>OLD_MAN_QUOTES_WHAT_DO_YOU_EAT_LINE_2
+</string></lines>
+        </OldManQuote>
+
+        <OldManQuote>
+          <lines><string>OLD_MAN_QUOTES_MUMBLE_LINE_0
+</string>
+          <string>OLD_MAN_QUOTES_MUMBLE_LINE_1
+</string>
+          <string>OLD_MAN_QUOTES_MUMBLE_LINE_2
+</string>
+          <string>OLD_MAN_QUOTES_MUMBLE_LINE_3
+</string>
+          <string>OLD_MAN_QUOTES_MUMBLE_LINE_4
+</string>
+          <string>OLD_MAN_QUOTES_MUMBLE_LINE_5
+</string>
+          <string>OLD_MAN_QUOTES_MUMBLE_LINE_6
+</string>
+          <string>OLD_MAN_QUOTES_MUMBLE_LINE_7
+</string>
+          <string>OLD_MAN_QUOTES_MUMBLE_LINE_8
+</string>
+          <string>OLD_MAN_QUOTES_MUMBLE_LINE_9
+</string></lines>
+        </OldManQuote>
+
+      </quotes>
+    </OldManScreen>
+
+    <OldManScreen>
+      <screen>3</screen>
+      <quotes>
+
+        <OldManQuote>
+          <lines><string>OLD_MAN_QUOTES_CAUGHT_A_FAIRY_ONCE_LINE_0
+</string>
+          <string>OLD_MAN_QUOTES_CAUGHT_A_FAIRY_ONCE_LINE_1
+</string>
+          <string>OLD_MAN_QUOTES_CAUGHT_A_FAIRY_ONCE_LINE_2
+</string>
+          <string>OLD_MAN_QUOTES_CAUGHT_A_FAIRY_ONCE_LINE_3
+</string>
+          <string>OLD_MAN_QUOTES_CAUGHT_A_FAIRY_ONCE_LINE_4
+</string></lines>
+        </OldManQuote>
+
+        <OldManQuote>
+          <lines>
+          <string>OLD_MAN_QUOTES_REACHED_BABE_ONCE_LINE_0
+</string>
+          <string>OLD_MAN_QUOTES_REACHED_BABE_ONCE_LINE_1
+</string></lines>
+        </OldManQuote>
+
+        <OldManQuote>
+          <lines><string>OLD_MAN_QUOTES_FEEL_GOOD_LINE_0
+</string>
+          <string>OLD_MAN_QUOTES_FEEL_GOOD_LINE_1
+</string>
+          <string>OLD_MAN_QUOTES_FEEL_GOOD_LINE_2
+</string></lines>
+        </OldManQuote>
+
+        <OldManQuote>
+          <lines><string>OLD_MAN_QUOTES_WISH_I_WAS_YOUNG_LINE_0
+</string>
+          <string>OLD_MAN_QUOTES_WISH_I_WAS_YOUNG_LINE_1
+</string>
+          <string>OLD_MAN_QUOTES_WISH_I_WAS_YOUNG_LINE_2
+</string></lines>
+        </OldManQuote>
+
+      </quotes>
+    </OldManScreen>
+
+    <OldManScreen>
+      <screen>4</screen>
+      <quotes>
+
+        <OldManQuote>
+          <lines><string>OLD_MAN_QUOTES_SAFE_PLACE_ABOVE_TREE_LINE_0
+</string>
+          <string>OLD_MAN_QUOTES_SAFE_PLACE_ABOVE_TREE_LINE_1
+</string></lines>
+        </OldManQuote>
+
+        <OldManQuote>
+          <lines><string>OLD_MAN_QUOTES_LEARNED_FROM_MY_MISTAKE_LINE_0
+</string>
+          <string>OLD_MAN_QUOTES_LEARNED_FROM_MY_MISTAKE_LINE_1
+</string>
+          <string>OLD_MAN_QUOTES_LEARNED_FROM_MY_MISTAKE_LINE_2
+</string></lines>
+        </OldManQuote>
+
+        <OldManQuote>
+          <lines><string>OLD_MAN_QUOTES_A_MAN_CAN_DREAM_LINE_0
+</string>
+          <string>OLD_MAN_QUOTES_A_MAN_CAN_DREAM_LINE_1
+</string>
+          <string>OLD_MAN_QUOTES_A_MAN_CAN_DREAM_LINE_2
+</string></lines>
+        </OldManQuote>
+
+        <OldManQuote>
+          <lines><string>OLD_MAN_QUOTES_GIVE_IT_ANOTHER_GO_LINE_0
+</string>
+          <string>OLD_MAN_QUOTES_GIVE_IT_ANOTHER_GO_LINE_1
+</string></lines>
+        </OldManQuote>
+
+      </quotes>
+    </OldManScreen>
+
+    <OldManScreen>
+      <screen>5</screen>
+      <quotes>
+
+        <OldManQuote>
+          <lines><string>OLD_MAN_QUOTES_FORGET_ABOUT_THE_BABE_LINE_0
+</string>
+          <string>OLD_MAN_QUOTES_FORGET_ABOUT_THE_BABE_LINE_1
+</string>
+          <string>OLD_MAN_QUOTES_FORGET_ABOUT_THE_BABE_LINE_2
+</string></lines>
+        </OldManQuote>
+
+        <OldManQuote>
+          <lines><string>OLD_MAN_QUOTES_I_BELIEVE_YOU_WILL_MAKE_IT_LINE_0
+</string>
+          <string>OLD_MAN_QUOTES_I_BELIEVE_YOU_WILL_MAKE_IT_LINE_1
+</string>
+          <string>OLD_MAN_QUOTES_I_BELIEVE_YOU_WILL_MAKE_IT_LINE_2
+</string>
+          <string>OLD_MAN_QUOTES_I_BELIEVE_YOU_WILL_MAKE_IT_LINE_3
+</string></lines>
+        </OldManQuote>
+
+        <OldManQuote>
+          <lines><string>OLD_MAN_QUOTES_SPECIAL_POWERS_POTION_LINE_0
+</string>
+          <string>OLD_MAN_QUOTES_SPECIAL_POWERS_POTION_LINE_1
+</string>
+          <string>OLD_MAN_QUOTES_SPECIAL_POWERS_POTION_LINE_2
+</string></lines>
+        </OldManQuote>
+
+        <OldManQuote>
+          <lines><string>OLD_MAN_QUOTES_HELMET_HANDY_LINE_0
+</string>
+          <string>OLD_MAN_QUOTES_HELMET_HANDY_LINE_1
+</string>
+          <string>OLD_MAN_QUOTES_HELMET_HANDY_LINE_2
+</string></lines>
+        </OldManQuote>
+
+        <OldManQuote>
+          <lines><string>OLD_MAN_QUOTES_HAIR_LEAVES_RED_LINE_0
+</string>
+          <string>OLD_MAN_QUOTES_HAIR_LEAVES_RED_LINE_1
+</string>
+          <string>OLD_MAN_QUOTES_HAIR_LEAVES_RED_LINE_2
+</string></lines>
+        </OldManQuote>
+
+        <OldManQuote>
+          <lines><string>OLD_MAN_QUOTES_BRING_RED_LEAVES_LINE_0
+</string>
+          <string>OLD_MAN_QUOTES_BRING_RED_LEAVES_LINE_1
+</string>
+          <string>OLD_MAN_QUOTES_BRING_RED_LEAVES_LINE_2
+</string></lines>
+        </OldManQuote>
+
+      </quotes>
+    </OldManScreen>
+
+    <OldManScreen>
+      <screen>6</screen>
+      <quotes>
+
+        <OldManQuote>
+          <lines><string>OLD_MAN_QUOTES_SEWERS_SO_CLEAN_LINE_0
+</string>
+          <string>OLD_MAN_QUOTES_SEWERS_SO_CLEAN_LINE_1
+</string>
+          <string>OLD_MAN_QUOTES_SEWERS_SO_CLEAN_LINE_2
+</string>
+          <string>OLD_MAN_QUOTES_SEWERS_SO_CLEAN_LINE_3
+</string></lines>
+        </OldManQuote>
+
+        <OldManQuote>
+          <lines><string>OLD_MAN_QUOTES_FLOWERS_TOP_OF_TREE_LINE_0
+</string>
+          <string>OLD_MAN_QUOTES_FLOWERS_TOP_OF_TREE_LINE_1
+</string>
+          <string>OLD_MAN_QUOTES_FLOWERS_TOP_OF_TREE_LINE_2
+</string></lines>
+        </OldManQuote>
+
+        <OldManQuote>
+          <lines><string>OLD_MAN_QUOTES_ONE_LEAP_TOP_LINE_0
+</string>
+          <string>OLD_MAN_QUOTES_ONE_LEAP_TOP_LINE_1
+</string>
+          <string>OLD_MAN_QUOTES_ONE_LEAP_TOP_LINE_2
+</string></lines>
+        </OldManQuote>
+
+        <OldManQuote>
+          <lines><string>OLD_MAN_QUOTES_REACHED_YOUR_PEAK_LINE_0
+</string>
+          <string>OLD_MAN_QUOTES_REACHED_YOUR_PEAK_LINE_1
+</string></lines>
+        </OldManQuote>
+
+      </quotes>
+    </OldManScreen>
+
+    <OldManScreen>
+      <screen>7</screen>
+      <quotes>
+
+        <OldManQuote>
+          <lines><string>OLD_MAN_QUOTES_CABIN_ABOVE_SEWERS_LINE_0
+</string>
+          <string>OLD_MAN_QUOTES_CABIN_ABOVE_SEWERS_LINE_1
+</string>
+          <string>OLD_MAN_QUOTES_CABIN_ABOVE_SEWERS_LINE_2
+</string></lines>
+        </OldManQuote>
+
+        <OldManQuote>
+          <lines><string>OLD_MAN_QUOTES_MUD_ON_FACE_LINE_0
+</string>
+          <string>OLD_MAN_QUOTES_MUD_ON_FACE_LINE_1
+</string>
+          <string>OLD_MAN_QUOTES_MUD_ON_FACE_LINE_2
+</string></lines>
+        </OldManQuote>
+
+        <OldManQuote>
+          <lines><string>OLD_MAN_QUOTES_SEEN_HER_PAH_LINE_0
+</string>
+          <string>OLD_MAN_QUOTES_SEEN_HER_PAH_LINE_1
+</string>
+          <string>OLD_MAN_QUOTES_SEEN_HER_PAH_LINE_2
+</string></lines>
+        </OldManQuote>
+
+        <OldManQuote>
+          <lines><string>OLD_MAN_QUOTES_GREAT_CHEST_LINE_0
+</string>
+          <string>OLD_MAN_QUOTES_GREAT_CHEST_LINE_1
+</string>
+          <string>OLD_MAN_QUOTES_GREAT_CHEST_LINE_2
+</string></lines>
+        </OldManQuote>
+
+      </quotes>
+    </OldManScreen>
+
+    <OldManScreen>
+      <screen>8</screen>
+      <quotes>
+
+        <OldManQuote>
+          <lines><string>OLD_MAN_QUOTES_LOT_OF_CRAP_LINE_0
+</string>
+          <string>OLD_MAN_QUOTES_LOT_OF_CRAP_LINE_1
+</string></lines>
+        </OldManQuote>
+
+      </quotes>
+    </OldManScreen>
+
+    <OldManScreen>
+      <screen>9</screen>
+      <quotes>
+
+        <OldManQuote>
+          <lines><string>OLD_MAN_QUOTES_BIG_HOUSE_HAUNTED_LINE_0
+</string>
+          <string>OLD_MAN_QUOTES_BIG_HOUSE_HAUNTED_LINE_1
+</string>
+          <string>OLD_MAN_QUOTES_BIG_HOUSE_HAUNTED_LINE_2
+</string>
+          <string>OLD_MAN_QUOTES_BIG_HOUSE_HAUNTED_LINE_3
+</string></lines>
+        </OldManQuote>
+
+        <OldManQuote>
+          <lines><string>OLD_MAN_QUOTES_TAKE_A_BREAK_LINE_0
+</string>
+          <string>OLD_MAN_QUOTES_TAKE_A_BREAK_LINE_1
+</string>
+          <string>OLD_MAN_QUOTES_TAKE_A_BREAK_LINE_2
+</string></lines>
+        </OldManQuote>
+
+        <OldManQuote>
+          <lines><string>OLD_MAN_QUOTES_WHIFF_OF_HER_LINE_0
+</string>
+          <string>OLD_MAN_QUOTES_WHIFF_OF_HER_LINE_1
+</string>
+          <string>OLD_MAN_QUOTES_WHIFF_OF_HER_LINE_2
+</string></lines>
+        </OldManQuote>
+
+      </quotes>
+    </OldManScreen>
+
+    <OldManScreen>
+      <screen>10</screen>
+      <quotes>
+
+        <OldManQuote>
+          <lines><string>OLD_MAN_QUOTES_AVOID_OLD_CASTLE_OUTSIDE_LINE_0
+</string>
+          <string>OLD_MAN_QUOTES_AVOID_OLD_CASTLE_OUTSIDE_LINE_1
+</string>
+          <string>OLD_MAN_QUOTES_AVOID_OLD_CASTLE_OUTSIDE_LINE_2
+</string></lines>
+        </OldManQuote>
+
+      </quotes>
+    </OldManScreen>
+
+    <OldManScreen>
+      <screen>11</screen>
+      <quotes>
+
+        <OldManQuote>
+          <lines><string>OLD_MAN_QUOTES_FALL_100_TIMES_GLAD_NOT_ME_LINE_0
+</string>
+          <string>OLD_MAN_QUOTES_FALL_100_TIMES_GLAD_NOT_ME_LINE_1
+</string>
+          <string>OLD_MAN_QUOTES_FALL_100_TIMES_GLAD_NOT_ME_LINE_2
+</string></lines>
+        </OldManQuote>
+
+      </quotes>
+    </OldManScreen>
+
+    <OldManScreen>
+      <screen>12</screen>
+      <quotes>
+
+        <OldManQuote>
+          <lines><string>OLD_MAN_QUOTES_MEADOWS_ABOVE_FORT_LINE_0
+</string>
+          <string>OLD_MAN_QUOTES_MEADOWS_ABOVE_FORT_LINE_1
+</string>
+          <string>OLD_MAN_QUOTES_MEADOWS_ABOVE_FORT_LINE_2
+</string></lines>
+        </OldManQuote>
+
+        <OldManQuote>
+          <lines><string>OLD_MAN_QUOTES_NICE_WALK_IN_FIELDS_LINE_0
+</string>
+          <string>OLD_MAN_QUOTES_NICE_WALK_IN_FIELDS_LINE_1
+</string>
+          <string>OLD_MAN_QUOTES_NICE_WALK_IN_FIELDS_LINE_2
+</string></lines>
+        </OldManQuote>
+
+        <OldManQuote>
+          <lines><string>OLD_MAN_QUOTES_TOP_RIGHT_ABOVE_MEADOW_LINE_0
+</string>
+          <string>OLD_MAN_QUOTES_TOP_RIGHT_ABOVE_MEADOW_LINE_1
+</string>
+          <string>OLD_MAN_QUOTES_TOP_RIGHT_ABOVE_MEADOW_LINE_2
+</string></lines>
+        </OldManQuote>
+
+        <OldManQuote>
+          <lines><string>OLD_MAN_QUOTES_WHAT_YOU_DO_CRY_MAYBE_LINE_0
+</string>
+          <string>OLD_MAN_QUOTES_WHAT_YOU_DO_CRY_MAYBE_LINE_1
+</string>
+          <string>OLD_MAN_QUOTES_WHAT_YOU_DO_CRY_MAYBE_LINE_2
+</string></lines>
+        </OldManQuote>
+
+      </quotes>
+    </OldManScreen>
+
+    <OldManScreen>
+      <screen>13</screen>
+      <quotes>
+
+
+
+        <OldManQuote>
+          <lines><string>OLD_MAN_QUOTES_INSTEAD_FALLING_JUMP_UP_LINE_0
+</string>
+          <string>OLD_MAN_QUOTES_INSTEAD_FALLING_JUMP_UP_LINE_1
+</string>
+          <string>OLD_MAN_QUOTES_INSTEAD_FALLING_JUMP_UP_LINE_2
+</string></lines>
+        </OldManQuote>
+
+      </quotes>
+    </OldManScreen>
+
+    <OldManScreen>
+      <screen>14</screen>
+      <quotes>
+
+        <OldManQuote>
+          <lines><string>OLD_MAN_QUOTES_HAVENT_SEEN_THAT_MAGPIE_LINE_0
+</string>
+          <string>OLD_MAN_QUOTES_HAVENT_SEEN_THAT_MAGPIE_LINE_1
+</string>
+          <string>OLD_MAN_QUOTES_HAVENT_SEEN_THAT_MAGPIE_LINE_2
+</string></lines>
+        </OldManQuote>
+
+      </quotes>
+    </OldManScreen>
+
+    <OldManScreen>
+      <screen>15</screen>
+      <quotes>
+
+        <OldManQuote>
+          <lines><string>OLD_MAN_QUOTES_SOUR_GUY_STRATEGY_LINE_0
+</string>
+          <string>OLD_MAN_QUOTES_SOUR_GUY_STRATEGY_LINE_1
+</string>
+          <string>OLD_MAN_QUOTES_SOUR_GUY_STRATEGY_LINE_2
+</string>
+          <string>OLD_MAN_QUOTES_SOUR_GUY_STRATEGY_LINE_3
+</string>
+          <string>OLD_MAN_QUOTES_SOUR_GUY_STRATEGY_LINE_4
+</string></lines>
+        </OldManQuote>
+
+        <OldManQuote>
+          <lines><string>OLD_MAN_QUOTES_STRATEGY_DONT_FALL_LINE_0
+</string>
+          <string>OLD_MAN_QUOTES_STRATEGY_DONT_FALL_LINE_1
+</string>
+          <string>OLD_MAN_QUOTES_STRATEGY_DONT_FALL_LINE_2
+</string>
+          <string>OLD_MAN_QUOTES_STRATEGY_DONT_FALL_LINE_3
+</string>
+          <string>OLD_MAN_QUOTES_STRATEGY_DONT_FALL_LINE_4
+</string></lines>
+        </OldManQuote>
+
+        <OldManQuote>
+          <lines><string>OLD_MAN_QUOTES_NEW_STRATEGY_DONT_FALL_LINE_0
+</string>
+          <string>OLD_MAN_QUOTES_NEW_STRATEGY_DONT_FALL_LINE_1
+</string>
+          <string>OLD_MAN_QUOTES_NEW_STRATEGY_DONT_FALL_LINE_2
+</string></lines>
+        </OldManQuote>
+
+      </quotes>
+    </OldManScreen>
+
+    <OldManScreen>
+      <screen>16</screen>
+      <quotes>
+
+      </quotes>
+    </OldManScreen>
+
+    <OldManScreen>
+      <screen>17</screen>
+      <quotes>
+
+      </quotes>
+    </OldManScreen>
+
+    <OldManScreen>
+      <screen>18</screen>
+      <quotes>
+
+        <OldManQuote>
+          <lines><string>OLD_MAN_QUOTES_RING_BELL_NORTHERN_TOWER_LINE_0
+</string>
+          <string>OLD_MAN_QUOTES_RING_BELL_NORTHERN_TOWER_LINE_1
+</string>
+          <string>OLD_MAN_QUOTES_RING_BELL_NORTHERN_TOWER_LINE_2
+</string>
+          <string>OLD_MAN_QUOTES_RING_BELL_NORTHERN_TOWER_LINE_3
+</string></lines>
+        </OldManQuote>
+
+      </quotes>
+    </OldManScreen>
+
+    <OldManScreen>
+      <screen>19</screen>
+      <quotes>
+
+        <OldManQuote>
+          <lines><string>OLD_MAN_QUOTES_CARNIVAL_YET_LINE_0
+</string>
+          <string>OLD_MAN_QUOTES_CARNIVAL_YET_LINE_1
+</string>
+          <string>OLD_MAN_QUOTES_CARNIVAL_YET_LINE_2
+</string></lines>
+        </OldManQuote>
+
+      </quotes>
+    </OldManScreen>
+
+    <OldManScreen>
+      <screen>24</screen>
+      <quotes>
+
+        <OldManQuote>
+          <lines><string>OLD_MAN_QUOTES_WHATS_BEHIND_YOU_GHOSTS_LINE_0
+</string>
+          <string>OLD_MAN_QUOTES_WHATS_BEHIND_YOU_GHOSTS_LINE_1
+</string>
+          <string>OLD_MAN_QUOTES_WHATS_BEHIND_YOU_GHOSTS_LINE_2
+</string>
+          <string>OLD_MAN_QUOTES_WHATS_BEHIND_YOU_GHOSTS_LINE_3
+</string></lines>
+        </OldManQuote>
+
+      </quotes>
+    </OldManScreen>
+
+  </screens>
+</OldManSettings>
+

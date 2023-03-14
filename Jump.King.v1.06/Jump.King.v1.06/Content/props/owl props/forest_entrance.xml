@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<PropCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+  <!-- Bonfire, DungeonTorch, Candle -->
+
+  <screen>3</screen>
+
+  <Props>
+
+    <PropData>
+      <type>owl_entrance</type>
+      <Position>
+        <X>296</X>
+        <Y>41</Y>
+      </Position>
+      <flipped>false</flipped>
+    </PropData>
+
+    <PropData>
+      <type>light_particle</type>
+      <Position>
+        <X>368</X>
+        <Y>64</Y>
+      </Position>
+      <flipped>true</flipped>
+    </PropData>
+
+    <!--PropData>
+      <type>nbp_entrance</type>
+      <Position>
+        <X>368</X>
+        <Y>64</Y>
+      </Position>
+      <flipped>true</flipped>
+    </PropData-->
+
+  </Props>
+</PropCollection>

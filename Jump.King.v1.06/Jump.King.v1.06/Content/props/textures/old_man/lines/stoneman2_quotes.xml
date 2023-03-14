@@ -1,0 +1,115 @@
+<?xml version="1.0"?>
+<OldManSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+  <!-- ??? -->
+  <name>stoneman2</name>
+  <sprite_cells>
+    <X>2</X>
+    <Y>1</Y>
+  </sprite_cells>
+  <random_count>1</random_count>
+  <position>
+    <X>23</X>
+    <Y>320</Y>
+  </position>
+  <home_screen>67</home_screen>
+  <font>Default</font>
+
+  <talk_animation>
+  	<frames>
+  		<AnimationFrame>
+  			<sprite_index>0</sprite_index>
+  			<duration>0.2</duration>
+  		</AnimationFrame>
+  		<AnimationFrame>
+  			<sprite_index>1</sprite_index>
+  			<duration>0.2</duration>
+  		</AnimationFrame>
+  	</frames>
+  </talk_animation>
+
+  <busy_animation>
+  	<frames>
+  		<AnimationFrame>
+  			<sprite_index>0</sprite_index>
+  			<duration>1</duration>
+  		</AnimationFrame>
+  	</frames>
+  </busy_animation>
+
+  <bubble_format>
+    <direction>Right</direction>
+    <anchor>
+      <X>Left</X>
+      <Y>Down</Y>
+    </anchor>
+    <width>100</width>
+  </bubble_format>
+
+  <trigger_box>
+    <screen_rect>
+      <X>8</X>
+      <Y>293</Y>
+      <Width>55</Width>
+      <Height>27</Height>
+    </screen_rect>
+  </trigger_box>
+
+  <talk_delay>1</talk_delay>
+  <talking_speed>0.09</talking_speed>
+
+  <intro_quote>
+  	<lines>
+      <string>STONEMAN2_QUOTES_HELLO_MY_ROOM_LINE_0</string>
+      <string>STONEMAN2_QUOTES_HELLO_MY_ROOM_LINE_1</string>
+      <string>STONEMAN2_QUOTES_HELLO_MY_ROOM_LINE_2</string>
+  	</lines>
+  </intro_quote>
+
+  <!--victory_quote>
+    <lines>
+      <string>STONEMAN2_QUOTES_HIHIHI_LINE_0</string>
+    </lines>
+  </victory_quote-->
+
+  <achievements>
+  </achievements>
+
+  <looping_lines>
+    <OldManQuote>
+      <lines>
+        <string>STONEMAN2_QUOTES_WIND_GETTING_IN_LINE_0</string>
+        <string>STONEMAN2_QUOTES_WIND_GETTING_IN_LINE_1</string>
+      </lines>
+    </OldManQuote>
+
+    <OldManQuote>
+      <lines>
+        <string>STONEMAN2_QUOTES_ITCHY_BACK_LINE_0</string>
+        <string>STONEMAN2_QUOTES_ITCHY_BACK_LINE_1</string>
+        <string>STONEMAN2_QUOTES_ITCHY_BACK_LINE_2</string>
+      </lines>
+    </OldManQuote>
+
+    <OldManQuote>
+      <lines>
+        <string>STONEMAN2_QUOTES_TRYING_TO_GET_TO_BABE_LINE_0</string>
+        <string>STONEMAN2_QUOTES_TRYING_TO_GET_TO_BABE_LINE_1</string>
+      </lines>
+    </OldManQuote>
+  </looping_lines>
+
+  <screens>
+
+    <!--OldManScreen>
+      <screen>67</screen>
+      <quotes>
+
+        
+
+      </quotes>
+    </OldManScreen-->
+
+  </screens>
+</OldManSettings>
+

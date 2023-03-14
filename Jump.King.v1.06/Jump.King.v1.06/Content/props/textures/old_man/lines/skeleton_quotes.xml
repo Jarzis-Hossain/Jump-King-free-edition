@@ -1,0 +1,206 @@
+<?xml version="1.0"?>
+<OldManSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+  <!-- ??? -->
+  <name>skeleton</name>
+  <sprite_cells>
+    <X>2</X>
+    <Y>1</Y>
+  </sprite_cells>
+  <random_count>1</random_count>
+  <position>
+    <X>405</X>
+    <Y>265</Y>
+  </position>
+  <home_screen>9</home_screen>
+
+  <talking_speed>0.09</talking_speed>
+
+  <bubble_format>
+    <direction>Right</direction>
+    <anchor>
+      <X>Right</X>
+      <Y>Up</Y>
+    </anchor>
+    <width>120</width>
+  </bubble_format>
+
+  <trigger_box>
+    <center_x>0.5</center_x>
+    <center_y>1</center_y>
+    <width>32</width>
+    <height>80</height>
+  </trigger_box>
+
+  <talk_animation>
+  	<frames>
+  		<AnimationFrame>
+  			<sprite_index>1</sprite_index>
+  			<duration>0.2</duration>
+  		</AnimationFrame>
+  	</frames>
+  </talk_animation>
+
+  <busy_animation>
+  	<frames>
+  		<AnimationFrame>
+  			<sprite_index>0</sprite_index>
+  			<duration>1</duration>
+  		</AnimationFrame>
+  	</frames>
+  </busy_animation>
+
+  <!--intro_quote>
+    <lines>
+      <string>SKELETON_QUOTES_SENSE_HER_EACH_STEP_LINE_0</string>
+      <string>SKELETON_QUOTES_SENSE_HER_EACH_STEP_LINE_1</string>
+      <string>SKELETON_QUOTES_SENSE_HER_EACH_STEP_LINE_2</string>
+      <string>SKELETON_QUOTES_SENSE_HER_EACH_STEP_LINE_3</string>
+    </lines>
+  </intro_quote-->
+
+  <!--victory_quote>
+    <lines>
+        <string>SKELETON_QUOTES_WOMAN_IT_REEKS_LINE_0</string>
+        <string>SKELETON_QUOTES_WOMAN_IT_REEKS_LINE_1</string>
+        <string>SKELETON_QUOTES_WOMAN_IT_REEKS_LINE_2</string>
+        <string>SKELETON_QUOTES_WOMAN_IT_REEKS_LINE_3</string>
+        <string>SKELETON_QUOTES_WOMAN_IT_REEKS_LINE_4</string>
+    </lines>
+  </victory_quote-->
+
+  <achievements>
+    <!--OldmanTalkAchievement>
+      <code>TALK_HERMIT_10</code>
+      <talk_times>10</talk_times>
+    </OldmanTalkAchievement-->
+  </achievements>
+
+  <screens>
+
+    <OldManScreen>
+      <screen>10</screen>
+      <quotes>
+
+        <OldManQuote>
+          <lines>
+            <string>SKELETON_QUOTES_FEEL_HER_TOUCH_LINE_0</string>
+            <string>SKELETON_QUOTES_FEEL_HER_TOUCH_LINE_1</string>
+            <string>SKELETON_QUOTES_FEEL_HER_TOUCH_LINE_2</string>
+            <string>SKELETON_QUOTES_FEEL_HER_TOUCH_LINE_3</string>
+          </lines>
+        </OldManQuote>
+
+        <OldManQuote>
+          <lines>
+            <string>SKELETON_QUOTES_SENSE_HER_SO_CLEAR_LINE_0</string>
+            <string>SKELETON_QUOTES_SENSE_HER_SO_CLEAR_LINE_1</string>
+            <string>SKELETON_QUOTES_SENSE_HER_SO_CLEAR_LINE_2</string>
+            <string>SKELETON_QUOTES_SENSE_HER_SO_CLEAR_LINE_3</string>
+          </lines>
+        </OldManQuote>
+
+        <OldManQuote>
+          <lines>
+            <string>SKELETON_QUOTES_CAN_IT_BE_ANOTHER_DREAM_LINE_0</string>
+            <string>SKELETON_QUOTES_CAN_IT_BE_ANOTHER_DREAM_LINE_1</string>
+            <string>SKELETON_QUOTES_CAN_IT_BE_ANOTHER_DREAM_LINE_2</string>
+            <string>SKELETON_QUOTES_CAN_IT_BE_ANOTHER_DREAM_LINE_3</string>
+          </lines>
+        </OldManQuote>
+
+        <OldManQuote>
+          <lines>
+            <string>SKELETON_QUOTES_FILTHY_BEARD_SENILE_LINE_0</string>
+            <string>SKELETON_QUOTES_FILTHY_BEARD_SENILE_LINE_1</string>
+            <string>SKELETON_QUOTES_FILTHY_BEARD_SENILE_LINE_2</string>
+          </lines>
+        </OldManQuote>
+
+        <OldManQuote>
+          <lines>
+            <string>SKELETON_QUOTES_THE_LIGHT_THAT_LIGHT_LINE_0</string>
+            <string>SKELETON_QUOTES_THE_LIGHT_THAT_LIGHT_LINE_1</string>
+            <string>SKELETON_QUOTES_THE_LIGHT_THAT_LIGHT_LINE_2</string>
+          </lines>
+        </OldManQuote>
+
+        <OldManQuote>
+          <lines>
+            <string>SKELETON_QUOTES_NOISE_VOICE_SOOTHE_LINE_0</string>
+            <string>SKELETON_QUOTES_NOISE_VOICE_SOOTHE_LINE_1</string>
+            <string>SKELETON_QUOTES_NOISE_VOICE_SOOTHE_LINE_2</string>
+            <string>SKELETON_QUOTES_NOISE_VOICE_SOOTHE_LINE_3</string>
+          </lines>
+        </OldManQuote>
+
+        <OldManQuote>
+          <lines>
+            <string>SKELETON_QUOTES_EYES_PIERCING_LINE_0</string>
+            <string>SKELETON_QUOTES_EYES_PIERCING_LINE_1</string>
+            <string>SKELETON_QUOTES_EYES_PIERCING_LINE_2</string>
+          </lines>
+        </OldManQuote>
+
+        <OldManQuote>
+          <lines>
+            <string>SKELETON_QUOTES_LONG_LEGS_LINE_0</string>
+            <string>SKELETON_QUOTES_LONG_LEGS_LINE_1</string>
+            <string>SKELETON_QUOTES_LONG_LEGS_LINE_2</string>
+          </lines>
+        </OldManQuote>
+
+        <OldManQuote>
+          <lines>
+            <string>SKELETON_QUOTES_HER_CHEST_HAUNTS_LINE_0</string>
+            <string>SKELETON_QUOTES_HER_CHEST_HAUNTS_LINE_1</string>
+            <string>SKELETON_QUOTES_HER_CHEST_HAUNTS_LINE_2</string>
+          </lines>
+        </OldManQuote>
+
+        <OldManQuote>
+          <lines>
+            <string>SKELETON_QUOTES_BABE_OF_LEGEND_LINE_0</string>
+            <string>SKELETON_QUOTES_BABE_OF_LEGEND_LINE_1</string>
+            <string>SKELETON_QUOTES_BABE_OF_LEGEND_LINE_2</string>
+            <string>SKELETON_QUOTES_BABE_OF_LEGEND_LINE_3</string>
+          </lines>
+        </OldManQuote>
+
+        <OldManQuote>
+          <lines>
+            <string>SKELETON_QUOTES_MINE_BEGONE_FOREVER_LINE_0</string>
+            <string>SKELETON_QUOTES_MINE_BEGONE_FOREVER_LINE_1</string>
+            <string>SKELETON_QUOTES_MINE_BEGONE_FOREVER_LINE_2</string>
+          </lines>
+        </OldManQuote>
+
+        <OldManQuote>
+          <lines>
+            <string>SKELETON_QUOTES_BEHIND_HER_PUNGENT_LINE_0</string>
+            <string>SKELETON_QUOTES_BEHIND_HER_PUNGENT_LINE_1</string>
+            <string>SKELETON_QUOTES_BEHIND_HER_PUNGENT_LINE_2</string>
+          </lines>
+        </OldManQuote>
+
+      </quotes>
+    </OldManScreen>
+
+    <OldManScreen>
+      <screen>24</screen>
+      <quotes>
+
+        <OldManQuote>
+          <lines>
+            <string>SKELETON_QUOTES_REASONING_WORTHLESS_LINE_0</string>
+            <string>SKELETON_QUOTES_REASONING_WORTHLESS_LINE_1</string>
+            <string>SKELETON_QUOTES_REASONING_WORTHLESS_LINE_2</string>
+            <string>SKELETON_QUOTES_REASONING_WORTHLESS_LINE_3</string>
+          </lines>
+        </OldManQuote>
+
+      </quotes>
+    </OldManScreen>
+
+  </screens>
+</OldManSettings>

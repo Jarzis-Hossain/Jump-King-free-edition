@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<RaymanCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+  <walls>
+
+    <!-- Button -->
+    <RaymanData>
+      <sfx_info>
+        <sfx_name_enable>phantom_block</sfx_name_enable>
+        <sfx_name_disable>phantom_block</sfx_name_disable>
+        <play_mode>PlayEveryTime</play_mode>
+      </sfx_info>
+
+      <texture_name>136_hidden_wall</texture_name>
+      <use_screen_coords>true</use_screen_coords>
+      <Position>
+        <X>328</X>
+        <Y>216</Y>
+      </Position>
+       <hitboxes>
+
+          <Rectangle>
+              <X>328</X>
+              <Y>215</Y>
+              <Width>24</Width>
+              <Height>1</Height>
+          </Rectangle>
+
+      </hitboxes>
+    </RaymanData>
+
+  </walls>
+</RaymanCollection>

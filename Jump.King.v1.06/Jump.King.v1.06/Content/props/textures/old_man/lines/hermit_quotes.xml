@@ -1,0 +1,276 @@
+<?xml version="1.0"?>
+<OldManSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+  <!-- ??? -->
+  <name>hermit</name>
+  <sprite_cells>
+    <X>3</X>
+    <Y>3</Y>
+  </sprite_cells>
+  <random_count>6</random_count>
+  <position>
+    <X>410</X>
+    <Y>344</Y>
+  </position>
+  <home_screen>25</home_screen>
+
+  <talking_speed>0.09</talking_speed>
+
+  <bubble_format>
+    <direction>Left</direction>
+    <anchor>
+      <X>Right</X>
+      <Y>Down</Y>
+    </anchor>
+    <width>160</width>
+  </bubble_format>
+
+  <trigger_box>
+    <center_x>0.5</center_x>
+    <center_y>1</center_y>
+    <width>51</width>
+    <height>150</height>
+  </trigger_box>
+
+  <talk_animation>
+  	<frames>
+  		<AnimationFrame>
+  			<sprite_index>0</sprite_index>
+  			<duration>0.2</duration>
+  		</AnimationFrame>
+  		<AnimationFrame>
+  			<sprite_index>5</sprite_index>
+  			<duration>0.2</duration>
+  		</AnimationFrame>
+  	</frames>
+  </talk_animation>
+
+  <busy_animation>
+  	<frames>
+  		<AnimationFrame>
+  			<sprite_index>6</sprite_index>
+  			<duration>0.4</duration>
+  		</AnimationFrame>
+      <AnimationFrame>
+        <sprite_index>7</sprite_index>
+        <duration>0.4</duration>
+      </AnimationFrame>
+  	</frames>
+  </busy_animation>
+
+  <intro_quote>
+    <lines>
+      <string>HERMIT_QUOTES_FELLOW_JUMPER_LINE_0</string>
+      <string>HERMIT_QUOTES_FELLOW_JUMPER_LINE_1</string>
+      <string>HERMIT_QUOTES_FELLOW_JUMPER_LINE_2</string>
+      <string>HERMIT_QUOTES_FELLOW_JUMPER_LINE_3</string>
+      <string>HERMIT_QUOTES_FELLOW_JUMPER_LINE_4</string>
+    </lines>
+  </intro_quote>
+
+  <flag_quotes>
+    <OldManFlagQuote>
+      <flag>CompletedNormalGame</flag>
+      <quotes>
+        <OldManQuote>
+          <lines>
+              <string>HERMIT_QUOTES_CROWN_REPLICA_LINE_0</string>
+              <string>HERMIT_QUOTES_CROWN_REPLICA_LINE_1</string>
+              <string>HERMIT_QUOTES_CROWN_REPLICA_LINE_2</string>
+              <string>HERMIT_QUOTES_CROWN_REPLICA_LINE_3</string>        
+              <string>HERMIT_QUOTES_CROWN_REPLICA_LINE_4</string>
+              <string>HERMIT_QUOTES_CROWN_REPLICA_LINE_5</string>
+              <string>HERMIT_QUOTES_CROWN_REPLICA_LINE_6</string>
+              <string>HERMIT_QUOTES_CROWN_REPLICA_LINE_7</string>
+          </lines>
+        </OldManQuote>
+      </quotes>
+    </OldManFlagQuote>
+  </flag_quotes>
+
+  <achievements>
+    <OldmanTalkAchievement>
+      <code>TALK_HERMIT_10</code>
+      <talk_times>10</talk_times>
+    </OldmanTalkAchievement>
+  </achievements>
+
+  <screens>
+
+    <OldManScreen>
+      <screen>25</screen>
+      <quotes>
+
+        <OldManQuote>
+          <lines>
+            <string>HERMIT_QUOTES_ANOTHER_DIDNT_GET_FAR_LINE_0</string>
+            <string>HERMIT_QUOTES_ANOTHER_DIDNT_GET_FAR_LINE_1</string>
+          </lines>
+        </OldManQuote>
+
+        <OldManQuote>
+          <lines>
+            <string>HERMIT_QUOTES_GIVE_UP_PATH_AHEAD_IMPOSSIBLE_LINE_0</string>
+            <string>HERMIT_QUOTES_GIVE_UP_PATH_AHEAD_IMPOSSIBLE_LINE_1</string>
+          </lines>
+        </OldManQuote>
+
+      </quotes>
+    </OldManScreen>
+
+    <OldManScreen>
+      <screen>26</screen>
+      <quotes>
+
+        <OldManQuote>
+          <lines>
+            <string>HERMIT_QUOTES_JUMPS_IN_THE_STORM_LINE_0</string>
+            <string>HERMIT_QUOTES_JUMPS_IN_THE_STORM_LINE_1</string>
+          </lines>
+        </OldManQuote>
+
+        <OldManQuote>
+          <lines>
+            <string>HERMIT_QUOTES_WIND_DEFIES_LOGIC_LINE_0</string>
+            <string>HERMIT_QUOTES_WIND_DEFIES_LOGIC_LINE_1</string>
+          </lines>
+        </OldManQuote>
+
+        <OldManQuote>
+          <lines>
+            <string>HERMIT_QUOTES_HOW_COULD_LADY_REACH_TOP_LINE_0</string>
+            <string>HERMIT_QUOTES_HOW_COULD_LADY_REACH_TOP_LINE_1</string>
+          </lines>
+        </OldManQuote>
+
+      </quotes>
+    </OldManScreen>
+
+    <OldManScreen>
+      <screen>27</screen>
+      <quotes>
+
+        <OldManQuote>
+          <lines>
+            <string>HERMIT_QUOTES_SNOW_PREVENTS_LEAPS_LINE_0</string>
+          </lines>
+        </OldManQuote>
+
+        <OldManQuote>
+          <lines>
+            <string>HERMIT_QUOTES_MAGIC_BOOTS_PEDDLER_LINE_0</string>
+            <string>HERMIT_QUOTES_MAGIC_BOOTS_PEDDLER_LINE_1</string>
+            <string>HERMIT_QUOTES_MAGIC_BOOTS_PEDDLER_LINE_2</string>
+          </lines>
+        </OldManQuote>
+
+      </quotes>
+    </OldManScreen>
+
+    <OldManScreen>
+      <screen>28</screen>
+      <quotes>
+
+        <OldManQuote>
+          <lines>
+            <string>HERMIT_QUOTES_TOP_LEGEND_ORIGIN_LINE_0</string>
+            <string>HERMIT_QUOTES_TOP_LEGEND_ORIGIN_LINE_1</string>
+          </lines>
+        </OldManQuote>
+
+        <OldManQuote>
+          <lines>
+            <string>HERMIT_QUOTES_TRY_NEVER_REACH_TOP_LINE_0</string>
+            <string>HERMIT_QUOTES_TRY_NEVER_REACH_TOP_LINE_1</string>
+          </lines>
+        </OldManQuote>
+
+      </quotes>
+    </OldManScreen>
+
+    <OldManScreen>
+      <screen>29</screen>
+      <quotes>
+
+        <OldManQuote>
+          <lines>
+            <string>HERMIT_QUOTES_STATUES_BAD_LUCK_LINE_0</string>
+            <string>HERMIT_QUOTES_STATUES_BAD_LUCK_LINE_1</string>
+          </lines>
+        </OldManQuote>
+
+      </quotes>
+    </OldManScreen>
+
+    <OldManScreen>
+      <screen>30</screen>
+      <quotes>
+
+        <OldManQuote>
+          <lines>
+            <string>HERMIT_QUOTES_BABE_WOULD_SOMEONE_NOT_FOUND_LINE_0</string>
+            <string>HERMIT_QUOTES_BABE_WOULD_SOMEONE_NOT_FOUND_LINE_1</string>
+          </lines>
+        </OldManQuote>
+
+        <OldManQuote>
+          <lines>
+            <string>HERMIT_QUOTES_WILL_NEVER_SEE_HER_LINE_0</string>
+            <string>HERMIT_QUOTES_WILL_NEVER_SEE_HER_LINE_1</string>
+          </lines>
+        </OldManQuote>
+
+      </quotes>
+    </OldManScreen>
+
+    <OldManScreen>
+      <screen>31</screen>
+      <quotes>
+
+        <OldManQuote>
+          <lines>
+            <string>HERMIT_QUOTES_HARSH_CONDITIONS_LINE_0</string>
+            <string>HERMIT_QUOTES_HARSH_CONDITIONS_LINE_1</string>
+          </lines>
+        </OldManQuote>
+
+        <OldManQuote>
+          <lines>
+            <string>HERMIT_QUOTES_NO_PROOF_EXISTS_LINE_0</string>
+          </lines>
+        </OldManQuote>
+
+      </quotes>
+    </OldManScreen>
+
+    <OldManScreen>
+      <screen>32</screen>
+      <quotes>
+
+        <OldManQuote>
+          <lines>
+            <string>HERMIT_QUOTES_ABOVE_THE_STORM_HA_LINE_0</string>
+            <string>HERMIT_QUOTES_ABOVE_THE_STORM_HA_LINE_1</string>
+          </lines>
+        </OldManQuote>
+
+      </quotes>
+    </OldManScreen>
+
+    <OldManScreen>
+      <screen>33</screen>
+      <quotes>
+
+        <OldManQuote>
+          <lines>
+            <string>HERMIT_QUOTES_CHAPEL_LINE_0</string>
+            <string>HERMIT_QUOTES_CHAPEL_LINE_1</string>
+            <string>HERMIT_QUOTES_CHAPEL_LINE_2</string>
+          </lines>
+        </OldManQuote>
+
+      </quotes>
+    </OldManScreen>
+
+  </screens>
+</OldManSettings>

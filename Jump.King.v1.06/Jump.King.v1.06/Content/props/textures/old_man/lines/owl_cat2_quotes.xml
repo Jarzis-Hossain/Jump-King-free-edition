@@ -1,0 +1,152 @@
+<?xml version="1.0"?>
+<OldManSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+  <!-- ??? -->
+  <name>owl_chars/cat2</name>
+  <sprite_cells>
+    <X>2</X>
+    <Y>3</Y>
+  </sprite_cells>
+  <random_count>3</random_count>
+  <position>
+    <X>256</X>
+    <Y>286</Y>
+  </position>
+  <home_screen>124</home_screen>
+  <font>Default</font>
+
+  <oldman_layer>Foreground</oldman_layer>
+
+  <talk_animation>
+    <frames>
+      <AnimationFrame>
+        <sprite_index>4</sprite_index>
+        <duration>1</duration>
+      </AnimationFrame>
+      <AnimationFrame>
+        <sprite_index>0</sprite_index>
+        <duration>0.4</duration>
+      </AnimationFrame>      
+    </frames>
+  </talk_animation>
+
+  <busy_animation>
+    <frames>
+      <AnimationFrame>
+        <sprite_index>0</sprite_index>
+        <duration>0.5</duration>
+      </AnimationFrame>
+      <AnimationFrame>
+        <sprite_index>1</sprite_index>
+        <duration>0.5</duration>
+      </AnimationFrame>
+      <AnimationFrame>
+        <sprite_index>0</sprite_index>
+        <duration>0.5</duration>
+      </AnimationFrame>
+      <AnimationFrame>
+        <sprite_index>1</sprite_index>
+        <duration>0.5</duration>
+      </AnimationFrame>
+      <AnimationFrame>
+        <sprite_index>2</sprite_index>
+        <duration>0.1</duration>
+      </AnimationFrame>
+      <AnimationFrame>
+        <sprite_index>0</sprite_index>
+        <duration>1</duration>
+      </AnimationFrame>
+      <AnimationFrame>
+        <sprite_index>3</sprite_index>
+        <duration>0.3</duration>
+      </AnimationFrame>
+    </frames>
+  </busy_animation>
+
+  <bubble_format>
+    <direction>Right</direction>
+    <anchor>
+      <X>Left</X>
+      <Y>Down</Y>
+    </anchor>
+    <width>100</width>
+  </bubble_format>
+
+  <trigger_box>
+    <screen_rect>
+      <X>216</X>
+      <Y>241</Y>
+      <Width>83</Width>
+      <Height>47</Height>
+    </screen_rect>
+  </trigger_box>
+
+  <talk_delay>1</talk_delay>
+  <talking_speed>0.09</talking_speed>
+
+  <!--flag_quotes>
+    <OldManFlagQuote>
+      <flag>CompletedNBP</flag>
+      <quotes>
+        <OldManQuote>
+          <lines>
+            <string>Hihihi!</string>
+            <string>Friend is back! Happy happy!</string>
+            <string>Play, play!</string>
+          </lines>
+        </OldManQuote>
+      </quotes>
+    </OldManFlagQuote>
+  </flag_quotes>
+
+
+  <intro_quote>
+  	<lines>
+      <string>Hoh? Ooh?</string>
+      <string>Yippie! A friend! Happy happy!</string>
+      <string>Play, play!</string>
+  	</lines>
+  </intro_quote-->
+
+  <achievements>
+  </achievements>
+
+  <looping_lines>
+    <OldManQuote><lines><string>OWL_CAT_QUOTES_MEOW_3</string></lines></OldManQuote>
+<OldManQuote><lines><string>OWL_CAT_QUOTES_MEOW_9</string></lines></OldManQuote>
+<OldManQuote><lines><string>OWL_CAT_QUOTES_MEOW_0</string></lines></OldManQuote>
+<OldManQuote><lines><string>OWL_CAT_QUOTES_MEOW_2</string></lines></OldManQuote>
+<OldManQuote><lines><string>OWL_CAT_QUOTES_MEOW_4</string></lines></OldManQuote>
+<OldManQuote><lines><string>OWL_CAT_QUOTES_MEOW_0</string></lines></OldManQuote>
+<OldManQuote><lines><string>OWL_CAT_QUOTES_MEOW_5</string></lines></OldManQuote>
+<OldManQuote><lines><string>OWL_CAT_QUOTES_MEOW_1</string></lines></OldManQuote>
+<OldManQuote><lines><string>OWL_CAT_QUOTES_MEOW_1</string></lines></OldManQuote>
+<OldManQuote><lines><string>OWL_CAT_QUOTES_MEOW_10</string></lines></OldManQuote>
+<OldManQuote><lines><string>OWL_CAT_QUOTES_MEOW_0</string></lines></OldManQuote>
+<OldManQuote><lines><string>OWL_CAT_QUOTES_MEOW_8</string></lines></OldManQuote>
+<OldManQuote><lines><string>OWL_CAT_QUOTES_MEOW_1</string></lines></OldManQuote>
+<OldManQuote><lines><string>OWL_CAT_QUOTES_MEOW_6</string></lines></OldManQuote>
+<OldManQuote><lines><string>OWL_CAT_QUOTES_MEOW_7</string></lines></OldManQuote>
+<OldManQuote><lines><string>OWL_CAT_QUOTES_MEOW_0</string></lines></OldManQuote>
+<OldManQuote><lines><string>OWL_CAT_QUOTES_MEOW_1</string></lines></OldManQuote>
+  </looping_lines>
+
+  <screens>
+
+    <OldManScreen>
+      <screen>142</screen>
+      <quotes>
+
+        <OldManQuote>
+          <lines>
+            <string>OWL_CAT_QUOTES_LAND_ON_FEET_0</string>
+            <string>OWL_CAT_QUOTES_LAND_ON_FEET_1</string>
+          </lines>
+        </OldManQuote>
+
+      </quotes>
+    </OldManScreen>
+
+  </screens>
+</OldManSettings>
+

@@ -1,0 +1,77 @@
+<?xml version="1.0"?>
+<RaymanCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+  <walls>
+
+    <RaymanData>
+      <texture_name>82_hidden_wall_hole</texture_name>
+      <use_screen_coords>true</use_screen_coords>
+      <Position>
+        <X>8</X>
+        <Y>264</Y>
+      </Position>
+       <hitboxes>
+        
+          <Rectangle>
+              <X>8</X>
+              <Y>264</Y>
+              <Width>88</Width>
+              <Height>96</Height>
+          </Rectangle>
+
+      </hitboxes>
+    </RaymanData>
+
+    <!-- Button -->
+    <RaymanData>
+      <sfx_info>
+        <sfx_name_enable>block_appear</sfx_name_enable>
+        <sfx_name_disable>block_disappear</sfx_name_disable>
+        <play_mode>PlayEveryTime</play_mode>
+      </sfx_info>
+      
+      <texture_name>82_hidden_wall_platform</texture_name>
+      <use_screen_coords>true</use_screen_coords>
+      <Position>
+        <X>153</X>
+        <Y>96</Y>
+      </Position>
+       <hitboxes>
+
+          <Rectangle>
+              <X>416</X>
+              <Y>328</Y>
+              <Width>56</Width>
+              <Height>16</Height>
+          </Rectangle>
+
+      </hitboxes>
+    </RaymanData>       
+
+   <RaymanData>
+      <texture_name>82_hidden_wall_1</texture_name>
+      <use_screen_coords>true</use_screen_coords>
+      <Position>
+        <X>291</X>
+        <Y>215</Y>
+      </Position>
+       <hitboxes>
+          <Rectangle>
+              <X>432</X>
+              <Y>216</Y>
+              <Width>40</Width>
+              <Height>128</Height>
+          </Rectangle>
+
+          <Rectangle>
+              <X>296</X>
+              <Y>256</Y>
+              <Width>176</Width>
+              <Height>104</Height>
+          </Rectangle>
+          
+      </hitboxes>
+    </RaymanData>
+
+  </walls>
+</RaymanCollection>

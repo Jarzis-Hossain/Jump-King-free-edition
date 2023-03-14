@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<RattmanSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+	<screen>44</screen>
+	<hitbox_center>
+		<X>0.5</X>
+		<Y>1</Y>
+	</hitbox_center>
+	<hitbox>
+		<X>200</X>
+		<Y>350</Y>
+		<Width>50</Width>
+		<Height>50</Height>
+	</hitbox>
+	<font>Default</font>
+	<text_anchor>
+        <X>154</X>
+        <Y>298</Y>
+	</text_anchor>
+	<bubble_format>
+	    <direction>Right</direction>
+	    <anchor>
+			<X>Left</X>
+			<Y>Down</Y>
+	    </anchor>
+	    <width>160</width>
+  	</bubble_format>
+	<text>
+		<lines>
+			<string>SCREEN1_TEST_MESSAGE_LINE_0</string>
+			<string>SCREEN1_TEST_MESSAGE_LINE_1</string>
+		</lines>
+	</text>
+
+</RattmanSettings>

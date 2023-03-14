@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<RattmanSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<screen>54</screen>
+	<!--  -->
+	<hitbox_center>
+		<X>0</X>
+		<Y>0</Y>
+	</hitbox_center>
+	<!-- den vanliga hitboxen -->
+	<hitbox>
+		<X>8</X>
+		<Y>184</Y>
+		<Width>32</Width>
+		<Height>40</Height>
+	</hitbox>
+	<!-- ancharens world pos -->
+	<font>Default</font>
+	<text_anchor>
+        <X>60</X>
+        <Y>234</Y>
+	</text_anchor>
+	<!--vilket håll texter kommer ifrån -->
+	<bubble_format>
+	    <direction>Left</direction>
+	    <anchor>
+			<X>Left</X>
+			<Y>Down</Y>
+	    </anchor>
+	    <width>160</width>
+  	</bubble_format>
+  	<!-- texten som ska vissas upp -->
+	<text>
+		<lines>
+			<string>SIGN_LINE_0</string>
+			<string>SIGN_LINE_1</string>
+			<string>SIGN_LINE_2</string>
+			<string>SIGN_LINE_3</string>
+		</lines>
+	</text>
+
+
+</RattmanSettings>

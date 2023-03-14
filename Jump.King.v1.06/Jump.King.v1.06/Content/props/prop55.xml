@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<PropCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+  <!-- Bonfire, DungeonTorch, Candle -->
+
+  <Props>
+
+    <PropData>
+      <type>cage_bird</type>
+      <Position>
+        <X>60</X>
+        <Y>223</Y>
+      </Position>
+      <flipped>true</flipped>
+    </PropData>
+
+    <PropData>
+      <type>cage_bird</type>
+      <Position>
+        <X>328</X>
+        <Y>271</Y>
+      </Position>
+      <flipped>true</flipped>
+    </PropData>
+
+  </Props>
+</PropCollection>

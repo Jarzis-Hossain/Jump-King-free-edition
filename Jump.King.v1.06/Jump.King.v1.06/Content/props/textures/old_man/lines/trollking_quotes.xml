@@ -1,0 +1,266 @@
+<?xml version="1.0"?>
+<OldManSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+  <!-- ??? -->
+  <name>trollking</name>
+  <sprite_cells>
+    <X>2</X>
+    <Y>3</Y>
+  </sprite_cells>
+  <random_count>3</random_count>
+  <position>
+    <X>425</X>
+    <Y>248</Y>
+  </position>
+  <home_screen>80</home_screen>
+  <font>Default</font>
+
+  <talk_animation>
+  	<frames>
+  		<AnimationFrame>
+  			<sprite_index>3</sprite_index>
+  			<duration>0.2</duration>
+  		</AnimationFrame>
+  		<AnimationFrame>
+  			<sprite_index>4</sprite_index>
+  			<duration>0.2</duration>
+  		</AnimationFrame>
+  	</frames>
+  </talk_animation>
+
+  <busy_animation>
+  	<frames>
+  		<AnimationFrame>
+  			<sprite_index>0</sprite_index>
+  			<duration>1</duration>
+  		</AnimationFrame>
+  		<AnimationFrame>
+  			<sprite_index>1</sprite_index>
+  			<duration>1</duration>
+  		</AnimationFrame>
+  		<AnimationFrame>
+  			<sprite_index>2</sprite_index>
+  			<duration>1</duration>
+  		</AnimationFrame>
+  	</frames>
+  </busy_animation>
+
+  <bubble_format>
+    <direction>Left</direction>
+    <anchor>
+      <X>Right</X>
+      <Y>Down</Y>
+    </anchor>
+    <width>160</width>
+  </bubble_format>
+
+  <trigger_box>
+    <screen_rect>
+      <X>352</X>
+      <Y>232</Y>
+      <Width>120</Width>
+      <Height>16</Height>
+    </screen_rect>
+  </trigger_box>
+
+  <talk_delay>1</talk_delay>
+  <talking_speed>0.09</talking_speed>
+
+  <intro_quote>
+  	<lines>
+      <string>TROLLKING_QUOTES_MOUNTAIN_KING_IS_WHO_I_AM_LINE_0</string>
+      <string>TROLLKING_QUOTES_MOUNTAIN_KING_IS_WHO_I_AM_LINE_1</string>
+      <string>TROLLKING_QUOTES_MOUNTAIN_KING_IS_WHO_I_AM_LINE_2</string>
+      <string>TROLLKING_QUOTES_MOUNTAIN_KING_IS_WHO_I_AM_LINE_3</string>
+      <string>TROLLKING_QUOTES_MOUNTAIN_KING_IS_WHO_I_AM_LINE_4</string>
+      <string>TROLLKING_QUOTES_MOUNTAIN_KING_IS_WHO_I_AM_LINE_5</string>
+      <string>TROLLKING_QUOTES_MOUNTAIN_KING_IS_WHO_I_AM_LINE_6</string>
+      <string>TROLLKING_QUOTES_MOUNTAIN_KING_IS_WHO_I_AM_LINE_7</string>
+  	</lines>
+  </intro_quote>
+
+  <flag_quotes>
+    <OldManFlagQuote>
+      <flag>CompletedNBP</flag>
+      <quotes>
+        <OldManQuote>
+          <lines>
+              <string>TROLLKING_QUOTES_OUT_OF_SIGHT_LINE_0</string>
+              <string>TROLLKING_QUOTES_OUT_OF_SIGHT_LINE_1</string>
+              <string>TROLLKING_QUOTES_OUT_OF_SIGHT_LINE_2</string>
+              <string>TROLLKING_QUOTES_OUT_OF_SIGHT_LINE_3</string>
+          </lines>
+        </OldManQuote>
+      </quotes>
+    </OldManFlagQuote>
+  </flag_quotes>
+
+  <achievements>
+  </achievements>
+
+  <looping_lines>
+    <OldManQuote>
+      <lines>
+        <string>TROLLKING_QUOTES_ALL_OVER_THE_WORLD_LINE_0</string>
+        <string>TROLLKING_QUOTES_ALL_OVER_THE_WORLD_LINE_1</string>
+      </lines>
+    </OldManQuote>
+
+    <OldManQuote>
+      <lines>
+        <string>TROLLKING_QUOTES_GREATNESS_KINGDOM_LINE_0</string>
+        <string>TROLLKING_QUOTES_GREATNESS_KINGDOM_LINE_1</string>
+      </lines>
+    </OldManQuote>
+
+    <OldManQuote>
+      <lines>
+        <string>TROLLKING_QUOTES_LIKE_FAIRIES_SEEM_TO_DO_LINE_0</string>
+        <string>TROLLKING_QUOTES_LIKE_FAIRIES_SEEM_TO_DO_LINE_1</string>
+      </lines>
+    </OldManQuote>
+
+  </looping_lines>
+
+  <screens>
+
+    <OldManScreen>
+      <screen>80</screen>
+      <quotes>
+
+        <OldManQuote>
+          <lines>
+      <string>TROLLKING_QUOTES_FAIRIES_NAGGING_LINE_0</string>
+      <string>TROLLKING_QUOTES_FAIRIES_NAGGING_LINE_1</string>
+      <string>TROLLKING_QUOTES_FAIRIES_NAGGING_LINE_2</string>
+          </lines>
+        </OldManQuote>
+
+        <OldManQuote>
+          <lines>
+      <string>TROLLKING_QUOTES_GRANDER_HALL_LINE_0</string>
+      <string>TROLLKING_QUOTES_GRANDER_HALL_LINE_1</string>
+      <string>TROLLKING_QUOTES_GRANDER_HALL_LINE_2</string>
+          </lines>
+        </OldManQuote>
+
+        <OldManQuote>
+          <lines>
+      <string>TROLLKING_QUOTES_MOUNTAINKING_MUSHROOMS_LINE_0</string>
+      <string>TROLLKING_QUOTES_MOUNTAINKING_MUSHROOMS_LINE_1</string>
+      <string>TROLLKING_QUOTES_MOUNTAINKING_MUSHROOMS_LINE_2</string>
+      <string>TROLLKING_QUOTES_MOUNTAINKING_MUSHROOMS_LINE_3</string>
+          </lines>
+        </OldManQuote>
+
+      </quotes>
+    </OldManScreen>
+
+    <OldManScreen>
+      <screen>81</screen>
+      <quotes>
+
+        <OldManQuote>
+          <lines>
+      <string>TROLLKING_QUOTES_ENJOY_STROLLING_LINE_0</string>
+      <string>TROLLKING_QUOTES_ENJOY_STROLLING_LINE_1</string>
+      <string>TROLLKING_QUOTES_ENJOY_STROLLING_LINE_2</string>
+      <string>TROLLKING_QUOTES_ENJOY_STROLLING_LINE_3</string>
+          </lines>
+        </OldManQuote>
+
+        <OldManQuote>
+          <lines>
+      <string>TROLLKING_QUOTES_GREATEST_KING_LINE_0</string>
+      <string>TROLLKING_QUOTES_GREATEST_KING_LINE_1</string>
+      <string>TROLLKING_QUOTES_GREATEST_KING_LINE_2</string>
+          </lines>
+        </OldManQuote>
+
+        <OldManQuote>
+          <lines>
+      <string>TROLLKING_QUOTES_SUBJECTS_LIKE_ME_LINE_0</string>
+      <string>TROLLKING_QUOTES_SUBJECTS_LIKE_ME_LINE_1</string>
+      <string>TROLLKING_QUOTES_SUBJECTS_LIKE_ME_LINE_2</string>
+          </lines>
+        </OldManQuote>
+
+      </quotes>
+    </OldManScreen>
+
+    <OldManScreen>
+      <screen>82</screen>
+      <quotes>
+
+        <OldManQuote>
+          <lines>
+      <string>TROLLKING_QUOTES_IMPRESSIVE_KINGDOM_LINE_0</string>
+      <string>TROLLKING_QUOTES_IMPRESSIVE_KINGDOM_LINE_1</string>
+      <string>TROLLKING_QUOTES_IMPRESSIVE_KINGDOM_LINE_2</string>
+          </lines>
+        </OldManQuote>
+
+        <OldManQuote>
+          <lines>
+      <string>TROLLKING_QUOTES_MODEST_BIGGEST_KING_LINE_0</string>
+      <string>TROLLKING_QUOTES_MODEST_BIGGEST_KING_LINE_1</string>
+      <string>TROLLKING_QUOTES_MODEST_BIGGEST_KING_LINE_2</string>
+      <string>TROLLKING_QUOTES_MODEST_BIGGEST_KING_LINE_3</string>
+          </lines>
+        </OldManQuote>
+
+      </quotes>
+    </OldManScreen>
+
+    <OldManScreen>
+      <screen>83</screen>
+      <quotes>
+
+        <OldManQuote>
+          <lines>
+      <string>TROLLKING_QUOTES_QUITE_SMALL_VIGOR_LINE_0</string>
+      <string>TROLLKING_QUOTES_QUITE_SMALL_VIGOR_LINE_1</string>
+      <string>TROLLKING_QUOTES_QUITE_SMALL_VIGOR_LINE_2</string>
+          </lines>
+        </OldManQuote>
+
+        <OldManQuote>
+          <lines>
+      <string>TROLLKING_QUOTES_HOW_I_BECAME_GREATEST_LINE_0</string>
+      <string>TROLLKING_QUOTES_HOW_I_BECAME_GREATEST_LINE_1</string>
+      <string>TROLLKING_QUOTES_HOW_I_BECAME_GREATEST_LINE_2</string>
+      <string>TROLLKING_QUOTES_HOW_I_BECAME_GREATEST_LINE_3</string>
+      <string>TROLLKING_QUOTES_HOW_I_BECAME_GREATEST_LINE_4</string>
+          </lines>
+        </OldManQuote>
+
+        <OldManQuote>
+          <lines>
+      <string>TROLLKING_QUOTES_TRAVEL_STAMINA_LINE_0</string>
+      <string>TROLLKING_QUOTES_TRAVEL_STAMINA_LINE_1</string>
+      <string>TROLLKING_QUOTES_TRAVEL_STAMINA_LINE_2</string>
+          </lines>
+        </OldManQuote>
+
+      </quotes>
+    </OldManScreen>
+
+    <OldManScreen>
+      <screen>88</screen>
+      <quotes>
+
+        <OldManQuote>
+          <lines>
+      <string>TROLLKING_QUOTES_DISAPPEAR_FROM_WORLD_LINE_0</string>
+      <string>TROLLKING_QUOTES_DISAPPEAR_FROM_WORLD_LINE_1</string>
+      <string>TROLLKING_QUOTES_DISAPPEAR_FROM_WORLD_LINE_2</string>
+          </lines>
+        </OldManQuote>
+
+
+      </quotes>
+    </OldManScreen>
+
+  </screens>
+</OldManSettings>
+

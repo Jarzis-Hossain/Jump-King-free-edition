@@ -1,0 +1,116 @@
+<?xml version="1.0"?>
+<RaymanCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+  <walls>
+
+    <RaymanData>
+      <texture_name>96_hidden_wall_LM</texture_name>
+      <use_screen_coords>true</use_screen_coords>
+      <Position>
+        <X>79</X>
+        <Y>231</Y>
+      </Position>
+       <hitboxes>
+          <Rectangle>
+              <X>80</X>
+              <Y>232</Y>
+              <Width>40</Width>
+              <Height>16</Height>
+          </Rectangle>
+
+      </hitboxes>
+    </RaymanData>
+
+    <RaymanData>
+      <texture_name>96_hidden_wall_MU</texture_name>
+      <use_screen_coords>true</use_screen_coords>
+      <Position>
+        <X>165</X>
+        <Y>30</Y>
+      </Position>
+       <hitboxes>
+          <Rectangle>
+              <X>168</X>
+              <Y>32</Y>
+              <Width>24</Width>
+              <Height>96</Height>
+          </Rectangle>
+
+      </hitboxes>
+    </RaymanData>       
+
+    <RaymanData>
+      <texture_name>96_hidden_wall_MD</texture_name>
+      <use_screen_coords>true</use_screen_coords>
+      <Position>
+        <X>157</X>
+        <Y>150</Y>
+      </Position>
+       <hitboxes>
+          <Rectangle>
+              <X>160</X>
+              <Y>152</Y>
+              <Width>16</Width>
+              <Height>112</Height>
+          </Rectangle>
+
+      </hitboxes>
+    </RaymanData>
+
+    <RaymanData>
+      <texture_name>96_hidden_wall_RU</texture_name>
+      <use_screen_coords>true</use_screen_coords>
+      <Position>
+        <X>375</X>
+        <Y>55</Y>
+      </Position>
+       <hitboxes>
+          <Rectangle>
+              <X>376</X>
+              <Y>56</Y>
+              <Width>24</Width>
+              <Height>16</Height>
+          </Rectangle>
+
+      </hitboxes>
+    </RaymanData>
+
+
+    <RaymanData>
+      <texture_name>96_hidden_wall_RM</texture_name>
+      <use_screen_coords>true</use_screen_coords>
+      <Position>
+        <X>414</X>
+        <Y>69</Y>
+      </Position>
+       <hitboxes>
+          <Rectangle>
+              <X>416</X>
+              <Y>72</Y>
+              <Width>16</Width>
+              <Height>104</Height>
+          </Rectangle>
+
+      </hitboxes>
+    </RaymanData>
+
+    <RaymanData>
+      <texture_name>96_hidden_wall_RD</texture_name>
+      <use_screen_coords>true</use_screen_coords>
+      <Position>
+        <X>397</X>
+        <Y>189</Y>
+      </Position>
+       <hitboxes>
+          <Rectangle>
+              <X>400</X>
+              <Y>192</Y>
+              <Width>32</Width>
+              <Height>96</Height>
+          </Rectangle>
+
+      </hitboxes>
+    </RaymanData>
+
+  </walls>
+</RaymanCollection>

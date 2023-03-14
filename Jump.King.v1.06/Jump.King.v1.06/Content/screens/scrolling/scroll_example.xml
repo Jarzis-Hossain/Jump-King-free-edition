@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<ScrollingBGdata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <scroll_speed>10</scroll_speed>
+
+  <layers>
+
+    <Layer>
+      <texture>14_clouds_bg</texture>
+      <position>60</position>
+      <scroll_multiplier>0.1</scroll_multiplier>
+    </Layer>
+
+    <Layer>
+      <texture>14_clouds_mg</texture>
+      <position>100</position>
+      <scroll_multiplier>0.5</scroll_multiplier>
+    </Layer>
+
+    <Layer>
+      <texture>14_clouds_fg</texture>
+      <position>260</position>
+      <scroll_multiplier>1</scroll_multiplier>
+    </Layer>
+
+  </layers>
+</ScrollingBGdata>

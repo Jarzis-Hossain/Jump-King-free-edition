@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<ScrollingBGdata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <scroll_speed>10</scroll_speed>
+
+  <layers>
+
+    <Layer>
+      <texture>water_surface</texture>
+      <position>334</position>
+      <scroll_multiplier>0.1</scroll_multiplier>
+      <layer_mode>Foreground</layer_mode>
+      <animation>
+        <fps>8</fps>
+        <sheet_cells>
+          <X>1</X>
+          <Y>8</Y>
+        </sheet_cells>
+        <frames>
+          <!--float></float-->
+        </frames>
+      </animation>
+    </Layer>
+
+    <Layer>
+      <texture>sky_dt</texture>
+      <position>360</position>
+      <scroll_multiplier>3.7</scroll_multiplier>
+    </Layer>
+
+    <Layer>
+      <texture>sky_dt2</texture>
+      <position>360</position>
+      <scroll_multiplier>-3.2</scroll_multiplier>
+    </Layer>
+
+    <Layer>
+      <texture>water</texture>
+      <position>580</position>
+      <scroll_multiplier>0.5</scroll_multiplier>
+      <layer_mode>Foreground</layer_mode>
+    </Layer>
+
+    <Layer>
+      <texture>water2</texture>
+      <position>580</position>
+      <scroll_multiplier>-0.5</scroll_multiplier>
+      <layer_mode>Foreground</layer_mode>
+    </Layer>
+
+  </layers>
+</ScrollingBGdata>

@@ -1,0 +1,321 @@
+<?xml version="1.0"?>
+<OldManSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+  <!-- ??? -->
+  <name>archaeologist</name>
+  <sprite_cells>
+    <X>4</X>
+    <Y>2</Y>
+  </sprite_cells>
+  <random_count>3</random_count>
+  <position>
+    <X>38</X>
+    <Y>208</Y>
+  </position>
+  <home_screen>73</home_screen>
+  <font>Default</font>
+
+  <talk_animation>
+  	<frames>
+  		<AnimationFrame>
+  			<sprite_index>4</sprite_index>
+  			<duration>0.2</duration>
+  		</AnimationFrame>
+  		<AnimationFrame>
+  			<sprite_index>5</sprite_index>
+  			<duration>0.2</duration>
+  		</AnimationFrame>
+      <AnimationFrame>
+        <sprite_index>6</sprite_index>
+        <duration>0.2</duration>
+      </AnimationFrame>
+      <AnimationFrame>
+        <sprite_index>7</sprite_index>
+        <duration>0.2</duration>
+      </AnimationFrame>
+  	</frames>
+  </talk_animation>
+
+  <busy_animation>
+  	<frames>
+  		<AnimationFrame>
+  			<sprite_index>0</sprite_index>
+  			<duration>1</duration>
+  		</AnimationFrame>
+  		<AnimationFrame>
+  			<sprite_index>1</sprite_index>
+  			<duration>3</duration>
+  		</AnimationFrame>
+  		<AnimationFrame>
+  			<sprite_index>2</sprite_index>
+  			<duration>1</duration>
+  		</AnimationFrame>
+      	<AnimationFrame>
+        <sprite_index>0</sprite_index>
+        <duration>2</duration>
+      	</AnimationFrame>
+      	<AnimationFrame>
+        <sprite_index>2</sprite_index>
+        <duration>1</duration>
+      	</AnimationFrame>
+      	<AnimationFrame>
+        <sprite_index>1</sprite_index>
+        <duration>0.6</duration>
+      	</AnimationFrame>
+      	<AnimationFrame>
+        <sprite_index>2</sprite_index>
+        <duration>1</duration>
+      	</AnimationFrame>
+      	<AnimationFrame>
+        <sprite_index>0</sprite_index>
+        <duration>3</duration>
+      	</AnimationFrame>
+      	<AnimationFrame>
+        <sprite_index>1</sprite_index>
+        <duration>0.8</duration>
+      	</AnimationFrame>
+  	</frames>
+  </busy_animation>
+
+  <bubble_format>
+    <direction>Right</direction>
+    <anchor>
+      <X>Left</X>
+      <Y>Down</Y>
+    </anchor>
+    <width>160</width>
+  </bubble_format>
+
+  <trigger_box>
+    <screen_rect>
+      <X>8</X>
+      <Y>172</Y>
+      <Width>100</Width>
+      <Height>36</Height>
+    </screen_rect>
+  </trigger_box>
+
+  <talk_delay>1</talk_delay>
+  <talking_speed>0.09</talking_speed>
+
+  <intro_quote>
+  	<lines>
+      <string>ARCHAEOLOGISTS_QUOTES_INTRO_LINE_0
+</string>
+      <string>ARCHAEOLOGISTS_QUOTES_INTRO_LINE_1
+</string>
+      <string>ARCHAEOLOGISTS_QUOTES_INTRO_LINE_2
+</string>
+      <string>ARCHAEOLOGISTS_QUOTES_INTRO_LINE_3
+</string>
+  	</lines>
+  </intro_quote>
+
+  <flag_quotes>
+    <OldManFlagQuote>
+      <flag>CompletedNBP</flag>
+      <quotes>
+        <OldManQuote>
+          <lines>
+              <string>ARCHAEOLOGISTS_QUOTES_NICE_CROWN_LINE_0
+</string>
+              <string>ARCHAEOLOGISTS_QUOTES_NICE_CROWN_LINE_1
+</string>
+              <string>ARCHAEOLOGISTS_QUOTES_NICE_CROWN_LINE_2
+</string>
+              <string>ARCHAEOLOGISTS_QUOTES_NICE_CROWN_LINE_3
+</string>
+          </lines>
+        </OldManQuote>
+      </quotes>
+    </OldManFlagQuote>
+  </flag_quotes>
+
+  <achievements>
+  </achievements>
+  
+  <looping_lines>
+    <OldManQuote>
+      <lines>
+        <string>ARCHAEOLOGISTS_QUOTES_BREAKTHROUGH_LINE_0
+</string>
+        <string>ARCHAEOLOGISTS_QUOTES_BREAKTHROUGH_LINE_1
+</string>
+        <string>ARCHAEOLOGISTS_QUOTES_BREAKTHROUGH_LINE_2
+</string>
+        <string>ARCHAEOLOGISTS_QUOTES_BREAKTHROUGH_LINE_3
+</string>
+      </lines>
+    </OldManQuote>
+
+    <OldManQuote>
+      <lines>
+        <string>ARCHAEOLOGISTS_QUOTES_SOMETHING_NEW_LINE_0
+</string>
+        <string>ARCHAEOLOGISTS_QUOTES_SOMETHING_NEW_LINE_1
+</string>
+        <string>ARCHAEOLOGISTS_QUOTES_SOMETHING_NEW_LINE_2
+</string>
+      </lines>
+    </OldManQuote>
+
+    <OldManQuote>
+      <lines>
+        <string>ARCHAEOLOGISTS_QUOTES_WAIT_A_MINUTE_LINE_0
+</string>
+        <string>ARCHAEOLOGISTS_QUOTES_WAIT_A_MINUTE_LINE_1
+</string>
+      </lines>
+    </OldManQuote>
+
+  </looping_lines>
+
+  <screens>
+
+    <OldManScreen>
+      <screen>73</screen>
+      <quotes>
+
+        <OldManQuote>
+          <lines>
+      <string>ARCHAEOLOGISTS_QUOTES_BUILDERS_LINE_0
+</string>
+      <string>ARCHAEOLOGISTS_QUOTES_BUILDERS_LINE_1
+</string>
+      <string>ARCHAEOLOGISTS_QUOTES_BUILDERS_LINE_2
+</string>
+          </lines>
+        </OldManQuote>
+
+        <OldManQuote>
+          <lines>
+      <string>ARCHAEOLOGISTS_QUOTES_BABE_HOMAGE_LINE_0
+</string>
+      <string>ARCHAEOLOGISTS_QUOTES_BABE_HOMAGE_LINE_1
+</string>
+          </lines>
+        </OldManQuote>
+
+        <OldManQuote>
+          <lines>
+      <string>ARCHAEOLOGISTS_QUOTES_HUGE_PAINTING_LINE_0
+</string>
+      <string>ARCHAEOLOGISTS_QUOTES_HUGE_PAINTING_LINE_1
+</string>
+      <string>ARCHAEOLOGISTS_QUOTES_HUGE_PAINTING_LINE_2
+</string>
+      <string>ARCHAEOLOGISTS_QUOTES_HUGE_PAINTING_LINE_3
+</string>
+          </lines>
+        </OldManQuote>
+
+      </quotes>
+    </OldManScreen>
+
+    <OldManScreen>
+      <screen>74</screen>
+      <quotes>
+
+        <OldManQuote>
+          <lines>
+      <string>ARCHAEOLOGISTS_QUOTES_ETCHING_LINE_0
+</string>
+      <string>ARCHAEOLOGISTS_QUOTES_ETCHING_LINE_1
+</string>
+      <string>ARCHAEOLOGISTS_QUOTES_ETCHING_LINE_2
+</string>
+      <string>ARCHAEOLOGISTS_QUOTES_ETCHING_LINE_3
+</string>
+          </lines>
+        </OldManQuote>
+
+        <OldManQuote>
+          <lines>
+      <string>ARCHAEOLOGISTS_QUOTES_WATER_LINE_0
+</string>
+      <string>ARCHAEOLOGISTS_QUOTES_WATER_LINE_1
+</string>
+      <string>ARCHAEOLOGISTS_QUOTES_WATER_LINE_2
+</string>
+          </lines>
+        </OldManQuote>
+
+        <OldManQuote>
+          <lines>
+      <string>ARCHAEOLOGISTS_QUOTES_HISTORY_LINE_0
+</string>
+      <string>ARCHAEOLOGISTS_QUOTES_HISTORY_LINE_1
+</string>
+      <string>ARCHAEOLOGISTS_QUOTES_HISTORY_LINE_2
+</string>
+      <string>ARCHAEOLOGISTS_QUOTES_HISTORY_LINE_3
+</string>
+      <string>ARCHAEOLOGISTS_QUOTES_HISTORY_LINE_4
+</string>
+      <string>ARCHAEOLOGISTS_QUOTES_HISTORY_LINE_5
+</string>
+          </lines>
+        </OldManQuote>
+
+      </quotes>
+    </OldManScreen>
+
+    <OldManScreen>
+      <screen>75</screen>
+      <quotes>
+
+        <OldManQuote>
+          <lines>
+      <string>ARCHAEOLOGISTS_QUOTES_MISSING_HEAD_LINE_0
+</string>
+      <string>ARCHAEOLOGISTS_QUOTES_MISSING_HEAD_LINE_1
+</string>
+      <string>ARCHAEOLOGISTS_QUOTES_MISSING_HEAD_LINE_2
+</string>
+          </lines>
+        </OldManQuote>
+
+        <OldManQuote>
+          <lines>
+      <string>ARCHAEOLOGISTS_QUOTES_PUZZLING_BABE_LINE_0
+</string>
+      <string>ARCHAEOLOGISTS_QUOTES_PUZZLING_BABE_LINE_1
+</string>
+      <string>ARCHAEOLOGISTS_QUOTES_PUZZLING_BABE_LINE_2
+</string>
+          </lines>
+        </OldManQuote>
+
+      </quotes>
+    </OldManScreen>
+
+    <OldManScreen>
+      <screen>76</screen>
+      <quotes>
+
+        <OldManQuote>
+          <lines>
+      <string>ARCHAEOLOGISTS_QUOTES_PROCESS_HALTED_LINE_0
+</string>
+      <string>ARCHAEOLOGISTS_QUOTES_PROCESS_HALTED_LINE_1
+</string>
+          </lines>
+        </OldManQuote>
+
+        <OldManQuote>
+          <lines>
+      <string>ARCHAEOLOGISTS_QUOTES_WATER_OBSESSED_LINE_0
+</string>
+      <string>ARCHAEOLOGISTS_QUOTES_WATER_OBSESSED_LINE_1
+</string>
+      <string>ARCHAEOLOGISTS_QUOTES_WATER_OBSESSED_LINE_2
+</string>
+          </lines>
+        </OldManQuote>
+
+      </quotes>
+    </OldManScreen>
+
+  </screens>
+</OldManSettings>
+

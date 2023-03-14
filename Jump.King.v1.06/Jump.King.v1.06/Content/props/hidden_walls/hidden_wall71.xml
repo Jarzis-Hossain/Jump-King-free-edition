@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<RaymanCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+  <walls>
+
+    <RaymanData>
+      <texture_name>71_hidden_wall</texture_name>
+      <Position>
+        <X>0</X>
+        <Y>0</Y>
+      </Position>
+    </RaymanData>
+
+  </walls>
+</RaymanCollection>

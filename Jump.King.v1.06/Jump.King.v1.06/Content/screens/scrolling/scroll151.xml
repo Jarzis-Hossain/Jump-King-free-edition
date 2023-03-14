@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<ScrollingBGdata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <scroll_speed>40</scroll_speed>
+
+  <layers>
+
+    <Layer>
+      <texture>flame_scroll1</texture>
+      <position>360</position>
+      <scroll_multiplier>0.7</scroll_multiplier>
+    </Layer>
+
+    <Layer>
+      <texture>flame_scroll1</texture>
+      <position>360</position>
+      <scroll_multiplier>-0.9</scroll_multiplier>
+    </Layer>
+
+    <Layer>
+      <texture>flame_scroll2</texture>
+      <position>360</position>
+      <scroll_multiplier>-0.4</scroll_multiplier>
+    </Layer>
+
+    <Layer>
+      <texture>flame_scroll2</texture>
+      <position>360</position>
+      <scroll_multiplier>1</scroll_multiplier>
+    </Layer>
+
+  </layers>
+</ScrollingBGdata>

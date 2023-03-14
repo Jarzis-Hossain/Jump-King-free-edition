@@ -1,0 +1,409 @@
+<?xml version="1.0"?>
+<OldManSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+  <!-- ??? -->
+  <name>owl_chars/owl_boss_gargoyle</name>
+  <sprite_cells>
+    <X>4</X>
+    <Y>3</Y>
+  </sprite_cells>
+  <random_count>6</random_count>
+  <position>
+    <X>328</X>
+    <Y>238</Y>
+  </position>
+  <home_screen>142</home_screen>
+  <font>Gargoyle</font>
+
+  <talk_animation>
+    <frames>
+      <AnimationFrame>
+        <sprite_index>1</sprite_index>
+        <duration>0.2</duration>
+      </AnimationFrame>
+      <AnimationFrame>
+        <sprite_index>5</sprite_index>
+        <duration>0.2</duration>
+      </AnimationFrame>
+    </frames>
+  </talk_animation>
+
+  <busy_animation>
+    <frames>
+      <AnimationFrame>
+        <sprite_index>3</sprite_index>
+        <duration>0.3</duration>
+      </AnimationFrame>
+      <AnimationFrame>
+        <sprite_index>4</sprite_index>
+        <duration>0.3</duration>
+      </AnimationFrame>
+      <AnimationFrame>
+        <sprite_index>3</sprite_index>
+        <duration>0.3</duration>
+      </AnimationFrame>
+      <AnimationFrame>
+        <sprite_index>4</sprite_index>
+        <duration>0.3</duration>
+      </AnimationFrame>
+      <AnimationFrame>
+        <sprite_index>3</sprite_index>
+        <duration>0.3</duration>
+      </AnimationFrame>
+      <AnimationFrame>
+        <sprite_index>4</sprite_index>
+        <duration>0.3</duration>
+      </AnimationFrame>
+
+      <AnimationFrame>
+        <sprite_index>0</sprite_index>
+        <duration>2</duration>
+      </AnimationFrame>
+
+      <AnimationFrame>
+        <sprite_index>6</sprite_index>
+        <duration>2</duration>
+      </AnimationFrame>
+      <AnimationFrame>
+        <sprite_index>11</sprite_index>
+        <duration>2</duration>
+      </AnimationFrame>      
+      <AnimationFrame>
+        <sprite_index>7</sprite_index>
+        <duration>0.5</duration>
+      </AnimationFrame>
+      <AnimationFrame>
+        <sprite_index>8</sprite_index>
+        <duration>0.5</duration>
+      </AnimationFrame>
+      <AnimationFrame>
+        <sprite_index>9</sprite_index>
+        <duration>0.5</duration>
+      </AnimationFrame>
+      <AnimationFrame>
+        <sprite_index>10</sprite_index>
+        <duration>0.5</duration>
+      </AnimationFrame>
+
+      <AnimationFrame>
+        <sprite_index>1</sprite_index>
+        <duration>0.4</duration>
+      </AnimationFrame>
+      <AnimationFrame>
+        <sprite_index>2</sprite_index>
+        <duration>0.4</duration>
+      </AnimationFrame>
+      <AnimationFrame>
+        <sprite_index>1</sprite_index>
+        <duration>0.4</duration>
+      </AnimationFrame>
+      <AnimationFrame>
+        <sprite_index>2</sprite_index>
+        <duration>0.4</duration>
+      </AnimationFrame>
+      <AnimationFrame>
+        <sprite_index>1</sprite_index>
+        <duration>0.4</duration>
+      </AnimationFrame>
+      <AnimationFrame>
+        <sprite_index>2</sprite_index>
+        <duration>0.4</duration>
+      </AnimationFrame>
+       <AnimationFrame>
+        <sprite_index>1</sprite_index>
+        <duration>0.4</duration>
+      </AnimationFrame>
+      <AnimationFrame>
+        <sprite_index>2</sprite_index>
+        <duration>0.4</duration>
+      </AnimationFrame>
+      <AnimationFrame>
+        <sprite_index>1</sprite_index>
+        <duration>0.4</duration>
+      </AnimationFrame>
+      <AnimationFrame>
+        <sprite_index>2</sprite_index>
+        <duration>0.4</duration>
+      </AnimationFrame>
+      <AnimationFrame>
+        <sprite_index>1</sprite_index>
+        <duration>0.4</duration>
+      </AnimationFrame>
+      <AnimationFrame>
+        <sprite_index>2</sprite_index>
+        <duration>0.4</duration>
+      </AnimationFrame>
+      <AnimationFrame>
+        <sprite_index>1</sprite_index>
+        <duration>0.4</duration>
+      </AnimationFrame>
+      <AnimationFrame>
+        <sprite_index>2</sprite_index>
+        <duration>0.4</duration>
+      </AnimationFrame>      <AnimationFrame>
+        <sprite_index>1</sprite_index>
+        <duration>0.4</duration>
+      </AnimationFrame>
+      <AnimationFrame>
+        <sprite_index>2</sprite_index>
+        <duration>0.4</duration>
+      </AnimationFrame>
+      <AnimationFrame>
+        <sprite_index>1</sprite_index>
+        <duration>0.4</duration>
+      </AnimationFrame>
+      <AnimationFrame>
+        <sprite_index>2</sprite_index>
+        <duration>0.4</duration>
+      </AnimationFrame>
+      <AnimationFrame>
+        <sprite_index>1</sprite_index>
+        <duration>0.4</duration>
+      </AnimationFrame>
+      <AnimationFrame>
+        <sprite_index>2</sprite_index>
+        <duration>0.4</duration>
+      </AnimationFrame>
+      <AnimationFrame>
+        <sprite_index>1</sprite_index>
+        <duration>0.4</duration>
+      </AnimationFrame>
+      <AnimationFrame>
+        <sprite_index>2</sprite_index>
+        <duration>0.4</duration>
+      </AnimationFrame>
+      <AnimationFrame>
+        <sprite_index>1</sprite_index>
+        <duration>0.4</duration>
+      </AnimationFrame>
+      <AnimationFrame>
+        <sprite_index>2</sprite_index>
+        <duration>0.4</duration>
+      </AnimationFrame>
+      <AnimationFrame>
+        <sprite_index>1</sprite_index>
+        <duration>0.4</duration>
+      </AnimationFrame>
+      <AnimationFrame>
+        <sprite_index>2</sprite_index>
+        <duration>0.4</duration>
+      </AnimationFrame>
+
+      <AnimationFrame>
+        <sprite_index>6</sprite_index>
+        <duration>3</duration>
+      </AnimationFrame>
+      <AnimationFrame>
+        <sprite_index>11</sprite_index>
+        <duration>2</duration>
+      </AnimationFrame>
+      <AnimationFrame>
+        <sprite_index>7</sprite_index>
+        <duration>0.5</duration>
+      </AnimationFrame>
+      <AnimationFrame>
+        <sprite_index>8</sprite_index>
+        <duration>0.5</duration>
+      </AnimationFrame>
+      <AnimationFrame>
+        <sprite_index>9</sprite_index>
+        <duration>0.5</duration>
+      </AnimationFrame>
+      <AnimationFrame>
+        <sprite_index>10</sprite_index>
+        <duration>0.5</duration>
+      </AnimationFrame>
+    </frames>
+  </busy_animation>
+
+  <bubble_format>
+    <direction>Left</direction>
+    <anchor>
+      <X>Right</X>
+      <Y>Down</Y>
+    </anchor>
+    <width>82</width>
+  </bubble_format>
+
+  <trigger_box>
+    <screen_rect>
+      <X>176</X>
+      <Y>160</Y>
+      <Width>152</Width>
+      <Height>112</Height>
+    </screen_rect>
+  </trigger_box>
+
+  <!--talk_delay>1</talk_delay>
+  <talking_speed>0.09</talking_speed-->
+  <talk_delay>1</talk_delay>
+  <talking_speed>0.05</talking_speed>
+
+  <intro_quote>
+  	<lines>
+      <string>OWL_GARGOYLES_QUOTES_LOSER_LINE_0</string>
+      <string>OWL_GARGOYLES_QUOTES_LOSER_LINE_1</string>
+      <string>OWL_GARGOYLES_QUOTES_LOSER_LINE_2</string>
+      <string>OWL_GARGOYLES_QUOTES_LOSER_LINE_3</string>
+      <string>OWL_GARGOYLES_QUOTES_LOSER_LINE_4</string>
+  	</lines>
+  </intro_quote>
+
+  <flag_quotes>
+    <!--OldManFlagQuote>
+      <flag>CompletedNBP</flag>
+      <quotes>
+        <OldManQuote>
+          <lines>
+              <string>OWL_GARGOYLES_QUOTES_YOU_AGAIN_LINE_0</string>
+              <string>OWL_GARGOYLES_QUOTES_YOU_AGAIN_LINE_1</string>
+              <string>OWL_GARGOYLES_QUOTES_YOU_AGAIN_LINE_2</string>
+              <string>OWL_GARGOYLES_QUOTES_YOU_AGAIN_LINE_3</string>
+          </lines>
+        </OldManQuote>
+      </quotes>
+    </OldManFlagQuote-->
+  </flag_quotes>
+
+  <achievements>
+    <OldmanTalkAchievement>
+      <code>TIMESTOP_GARGOYLE_TALK</code>
+      <talk_times>1</talk_times>
+    </OldmanTalkAchievement>
+
+  </achievements>
+
+  <looping_lines>
+
+    <OldManQuote>
+      <lines>
+        <string>OWL_GARGOYLES_QUOTES_AMIGO_LINE_0</string>
+        <string>OWL_GARGOYLES_QUOTES_AMIGO_LINE_1</string>
+        <string>OWL_GARGOYLES_QUOTES_AMIGO_LINE_2</string>
+      </lines>
+    </OldManQuote>
+
+    <OldManQuote>
+      <lines>
+        <string>OWL_GARGOYLES_QUOTES_EXIT_DOWN_THERE_LINE_0</string>
+        <string>OWL_GARGOYLES_QUOTES_EXIT_DOWN_THERE_LINE_1</string>
+        <string>OWL_GARGOYLES_QUOTES_EXIT_DOWN_THERE_LINE_2</string>
+      </lines>
+    </OldManQuote>
+
+    <OldManQuote>
+      <lines>
+        <string>OWL_GARGOYLES_QUOTES_MUDMAN_LINE_0</string>
+        <string>OWL_GARGOYLES_QUOTES_MUDMAN_LINE_1</string>
+      </lines>
+    </OldManQuote>
+
+    <OldManQuote>
+      <lines>
+        <string>OWL_GARGOYLES_QUOTES_SHE_BE_CRYING_LINE_0</string>
+        <string>OWL_GARGOYLES_QUOTES_SHE_BE_CRYING_LINE_1</string>
+        <string>OWL_GARGOYLES_QUOTES_SHE_BE_CRYING_LINE_2</string>
+        <string>OWL_GARGOYLES_QUOTES_SHE_BE_CRYING_LINE_3</string>
+        <string>OWL_GARGOYLES_QUOTES_SHE_BE_CRYING_LINE_4</string>
+      </lines>
+    </OldManQuote>
+
+    <OldManQuote>
+      <lines>
+        <string>OWL_GARGOYLES_QUOTES_TIME_FROZEN_PUNK_LINE_0</string>
+        <string>OWL_GARGOYLES_QUOTES_TIME_FROZEN_PUNK_LINE_1</string>
+        <string>OWL_GARGOYLES_QUOTES_TIME_FROZEN_PUNK_LINE_2</string>
+      </lines>
+    </OldManQuote>
+
+  </looping_lines>
+
+  <screens>
+
+    <OldManScreen>
+      <screen>142</screen>
+      <quotes>
+
+        <OldManQuote>
+          <lines>
+            <string>OWL_GARGOYLES_QUOTES_OUR_JOINT_LINE_0</string>
+            <string>OWL_GARGOYLES_QUOTES_OUR_JOINT_LINE_1</string>
+            <string>OWL_GARGOYLES_QUOTES_OUR_JOINT_LINE_2</string>
+            <string>OWL_GARGOYLES_QUOTES_OUR_JOINT_LINE_3</string>
+            <string>OWL_GARGOYLES_QUOTES_OUR_JOINT_LINE_4</string>
+            <string>OWL_GARGOYLES_QUOTES_OUR_JOINT_LINE_5</string>
+          </lines>
+        </OldManQuote>
+
+        <OldManQuote>
+          <lines>
+            <string>OWL_GARGOYLES_QUOTES_OLD_GHOST_STORY_LINE_0</string>
+            <string>OWL_GARGOYLES_QUOTES_OLD_GHOST_STORY_LINE_1</string>
+            <string>OWL_GARGOYLES_QUOTES_OLD_GHOST_STORY_LINE_2</string>
+          </lines>
+        </OldManQuote>
+
+        <OldManQuote>
+          <lines>
+            <string>OWL_GARGOYLES_QUOTES_TOSS_BACK_TO_BOG_LINE_0</string>
+            <string>OWL_GARGOYLES_QUOTES_TOSS_BACK_TO_BOG_LINE_1</string>
+            <string>OWL_GARGOYLES_QUOTES_TOSS_BACK_TO_BOG_LINE_2</string>
+          </lines>
+        </OldManQuote>
+
+        <OldManQuote>
+          <lines>
+            <string>OWL_GARGOYLES_QUOTES_AINT_MY_QUEEN_LINE_0</string>
+            <string>OWL_GARGOYLES_QUOTES_AINT_MY_QUEEN_LINE_1</string>
+            <string>OWL_GARGOYLES_QUOTES_AINT_MY_QUEEN_LINE_2</string>
+          </lines>
+        </OldManQuote>
+
+      </quotes>
+    </OldManScreen>
+
+    <OldManScreen>
+      <screen>146</screen>
+      <quotes>
+
+        <OldManQuote>
+          <lines>
+            <string>OWL_GARGOYLES_QUOTES_SIY_CAT_LINE_0</string>
+            <string>OWL_GARGOYLES_QUOTES_SIY_CAT_LINE_1</string>
+            <string>OWL_GARGOYLES_QUOTES_SIY_CAT_LINE_2</string>
+            <string>OWL_GARGOYLES_QUOTES_SIY_CAT_LINE_3</string>
+          </lines>
+        </OldManQuote>
+
+        <OldManQuote>
+          <lines>
+            <string>OWL_GARGOYLES_QUOTES_DRINK_IT_QUEEN_LINE_0</string>
+            <string>OWL_GARGOYLES_QUOTES_DRINK_IT_QUEEN_LINE_1</string>
+            <string>OWL_GARGOYLES_QUOTES_DRINK_IT_QUEEN_LINE_2</string>
+            <string>OWL_GARGOYLES_QUOTES_DRINK_IT_QUEEN_LINE_3</string>
+          </lines>
+        </OldManQuote>
+
+        <OldManQuote>
+          <lines>
+            <string>OWL_GARGOYLES_QUOTES_THESE_WINGS_LINE_0</string>
+            <string>OWL_GARGOYLES_QUOTES_THESE_WINGS_LINE_1</string>
+            <string>OWL_GARGOYLES_QUOTES_THESE_WINGS_LINE_2</string>
+            <string>OWL_GARGOYLES_QUOTES_THESE_WINGS_LINE_3</string>
+          </lines>
+        </OldManQuote>
+
+        <OldManQuote>
+          <lines>
+            <string>OWL_GARGOYLES_QUOTES_IM_COOL_QUEEN_LINE_0</string>
+            <string>OWL_GARGOYLES_QUOTES_IM_COOL_QUEEN_LINE_1</string>
+            <string>OWL_GARGOYLES_QUOTES_IM_COOL_QUEEN_LINE_2</string>
+          </lines>
+        </OldManQuote>
+
+      </quotes>
+    </OldManScreen>
+
+  </screens>
+</OldManSettings>
+

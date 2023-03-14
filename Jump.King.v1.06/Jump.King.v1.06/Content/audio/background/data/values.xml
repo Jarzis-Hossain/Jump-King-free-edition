@@ -1,0 +1,1497 @@
+<?xml version="1.0"?>
+<AmbienceSaveValues xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+  <special_info>
+    <AmbienceInfo>
+      <name>Final Climb</name>
+      <type>Music</type>
+      <restart>true</restart>
+    </AmbienceInfo>
+
+    <AmbienceInfo>
+      <name>Castlesong</name>
+      <type>Music</type>
+      <restart>false</restart>
+    </AmbienceInfo>
+
+    <AmbienceInfo>
+      <name>Merchant loop</name>
+      <type>Music</type>
+      <restart>false</restart>
+    </AmbienceInfo>
+
+    <AmbienceInfo>
+      <name>Cathedral</name>
+      <type>Music</type>
+      <restart>false</restart>
+    </AmbienceInfo>
+
+    <AmbienceInfo>
+      <name>test song ice</name>
+      <type>Music</type>
+      <restart>true</restart>
+    </AmbienceInfo>
+
+    <AmbienceInfo>
+      <name>NB forest</name>
+      <type>Music</type>
+      <restart>true</restart>
+      <fade_out_length>3.8</fade_out_length>
+      <fade_in_length>4</fade_in_length>
+    </AmbienceInfo>
+
+    <AmbienceInfo>
+      <name>NB_icetest</name>
+      <type>Music</type>
+      <restart>true</restart>
+      <fade_out_length>4</fade_out_length>
+      <fade_in_length>4</fade_in_length>
+    </AmbienceInfo>
+
+    <AmbienceInfo>
+      <name>icebass</name>
+      <type>Ambience</type>
+      <restart>true</restart>
+      <fade_out_length>1.5</fade_out_length>
+    </AmbienceInfo>
+
+    <AmbienceInfo>
+      <name>nb_castle_top</name>
+      <type>Music</type>
+      <restart>true</restart>
+      <fade_out_length>4.5</fade_out_length>
+    </AmbienceInfo>
+
+    <AmbienceInfo>
+      <name>nb_castle_drone</name>
+      <type>Music</type>
+      <restart>true</restart>
+      <fade_out_length>4</fade_out_length>
+      <fade_in_length>6</fade_in_length>
+    </AmbienceInfo>
+
+    <AmbienceInfo>
+      <name>Plague</name>
+      <type>Music</type>
+      <restart>true</restart>
+      <fade_out_length>4</fade_out_length>
+    </AmbienceInfo>
+
+    <AmbienceInfo>
+      <name>piano frontier</name>
+      <type>Music</type>
+      <restart>true</restart>
+      <fade_out_length>6</fade_out_length>
+    </AmbienceInfo>
+
+    <AmbienceInfo>
+      <name>Deep Roots</name>
+      <type>Music</type>
+      <restart>true</restart>
+      <fade_out_length>4</fade_out_length>
+    </AmbienceInfo>
+
+    <AmbienceInfo>
+      <name>fchoir</name>
+      <type>Music</type>
+      <restart>true</restart>
+      <fade_out_length>1</fade_out_length>
+    </AmbienceInfo>
+
+    <AmbienceInfo>
+      <name>dronereal</name>
+      <type>Ambience</type>
+      <restart>false</restart>
+      <fade_out_length>1</fade_out_length>
+      <fade_in_length>1.5</fade_in_length>
+    </AmbienceInfo>
+
+
+    <AmbienceInfo>
+      <name>Afloat</name>
+      <type>Music</type>
+      <restart>true</restart>
+      <fade_out_length>1</fade_out_length>
+    </AmbienceInfo>
+
+    <AmbienceInfo>
+      <name>Toccata</name>
+      <type>Music</type>
+      <restart>true</restart>
+    </AmbienceInfo>
+
+    <AmbienceInfo>
+      <name>Deku Old School</name>
+      <type>Music</type>
+      <restart>true</restart>
+      <fade_in_length>16</fade_in_length>
+      <fade_out_length>3.5</fade_out_length>
+    </AmbienceInfo>
+
+    <AmbienceInfo>
+      <name>Bog_Bass</name>
+      <type>Music</type>
+      <restart>true</restart>
+    </AmbienceInfo>
+
+    <AmbienceInfo>
+      <name>Bog_Horror</name>
+      <type>Music</type>
+      <restart>true</restart>
+      <fade_out_length>0.5</fade_out_length>
+    </AmbienceInfo>
+
+    <AmbienceInfo>
+      <name>Mald</name>
+      <type>Music</type>
+      <restart>true</restart>
+    </AmbienceInfo>
+
+    <AmbienceInfo>
+      <name>Bean_Slow</name>
+      <type>Music</type>
+      <restart>true</restart>
+    </AmbienceInfo>
+
+    <AmbienceInfo>
+      <name>kattmusik</name>
+      <type>Music</type>
+      <restart>true</restart>
+    </AmbienceInfo>
+
+    <AmbienceInfo>
+      <name>Organ Funeral</name>
+      <type>Music</type>
+      <restart>true</restart>
+    </AmbienceInfo>
+
+    <AmbienceInfo>
+      <name>happytimesjpeg</name>
+      <type>Music</type>
+      <restart>true</restart>
+    </AmbienceInfo>
+
+    <AmbienceInfo>
+      <name>monobeat</name>
+      <type>Music</type>
+      <restart>false</restart>
+    </AmbienceInfo>
+
+    <AmbienceInfo>
+      <name>hundraverb</name>
+      <type>Music</type>
+      <restart>false</restart>
+    </AmbienceInfo>
+    
+    
+  </special_info>
+
+  <sections>
+
+    <!--FOREST#############################################################-->
+    <!--Forest screen 1-->
+    <AmbienceSave>
+      <!--starts section-->
+      <ambience>
+        <Ambience>
+          <!--starts a sound-->
+          <name>Nature bg</name>
+          <!--name of file-->
+          <volume>0.85</volume>
+        </Ambience>
+        <!--ends a sound-->
+
+        <Ambience>
+          <!--starts a sound-->
+          <name>Small fire and stream</name>
+          <!--name of file-->
+          <volume>0.9</volume>
+        </Ambience>
+        <!--ends a sound-->
+      </ambience>
+
+      <screens>1</screens>
+    </AmbienceSave>
+    <!--ends section-->
+
+    <!--Forest screen 2 + 3-->
+    <AmbienceSave>
+      <ambience>
+        <Ambience>
+          <name>Nature bg</name>
+          <volume>0.85</volume>
+        </Ambience>
+      </ambience>
+
+      <screens>2</screens>
+    </AmbienceSave>
+
+    <!--Forest screen 4 + 5-->
+    <AmbienceSave>
+      <ambience>
+        <Ambience>
+          <name>Nature bg</name>
+          <volume>0.85</volume>
+        </Ambience>
+
+        <Ambience>
+          <name>Red tree</name>
+          <volume>1</volume>
+        </Ambience>
+      </ambience>
+
+      <screens>2</screens>
+    </AmbienceSave>
+
+    <!--FOREST TRANSITION TO SEWER##############################################-->
+    <AmbienceSave>
+      <ambience>
+        <Ambience>
+          <name>Nature bg</name>
+          <volume>0.5</volume>
+        </Ambience>
+        <Ambience>
+          <name>Red tree</name>
+          <volume>0.5</volume>
+        </Ambience>
+
+        <Ambience>
+          <name>Sewer</name>
+          <volume>0.6</volume>
+        </Ambience>
+      </ambience>
+
+      <screens>1</screens>
+    </AmbienceSave>
+
+    <!--SEWER    ##############################################-->
+    <AmbienceSave>
+      <ambience>
+        <Ambience>
+          <name>Sewer</name>
+          <volume>1</volume>
+        </Ambience>
+      </ambience>
+
+      <screens>2</screens>
+    </AmbienceSave>
+
+    <!--SEWER CAGE WITH RAIN   #####-->
+    <AmbienceSave>
+      <ambience>
+        <Ambience>
+          <name>Sewer</name>
+          <volume>1</volume>
+        </Ambience>
+        <Ambience>
+          <name>Sewer cage rain</name>
+          <volume>1</volume>
+        </Ambience>
+      </ambience>
+
+      <screens>1</screens>
+    </AmbienceSave>
+
+    <!--SEWER TO CASTLE TRANSITION-->
+    <AmbienceSave>
+      <ambience>
+        <Ambience>
+          <name>Sewer</name>
+          <volume>1</volume>
+        </Ambience>
+        <Ambience>
+          <name>Light rain</name>
+          <volume>1</volume>
+        </Ambience>
+        <Ambience>
+          <name>Castlesong</name>
+          <volume>0.6</volume>
+        </Ambience>
+      </ambience>
+
+      <screens>1</screens>
+    </AmbienceSave>
+
+    <!--CASTLE-->
+    <AmbienceSave>
+      <ambience>
+        <Ambience>
+          <name>Hard rain and fire</name>
+          <volume>0.85</volume>
+        </Ambience>
+
+        <Ambience>
+          <name>Castlesong</name>
+          <volume>0.9</volume>
+        </Ambience>
+      </ambience>
+
+      <screens>3</screens>
+    </AmbienceSave>
+
+    <!--ROOF OF CASTLE-->
+    <AmbienceSave>
+      <ambience>
+        <Ambience>
+          <name>Wind 1</name>
+          <volume>0.8</volume>
+        </Ambience>
+
+        <Ambience>
+          <name>Castlesong</name>
+          <volume>0.32</volume>
+        </Ambience>
+      </ambience>
+
+      <screens>1</screens>
+    </AmbienceSave>
+
+
+    <!--MERCHANT-->
+    <AmbienceSave>
+      <ambience>
+        <Ambience>
+          <name>City 1</name>
+          <volume>0.4</volume>
+        </Ambience>
+
+        <Ambience>
+          <name>Merchant loop</name>
+          <volume>0.65</volume>
+        </Ambience>
+      </ambience>
+
+      <screens>1</screens>
+    </AmbienceSave>
+
+    <!--CITY-->
+    <AmbienceSave>
+      <ambience>
+        <Ambience>
+          <name>City 1</name>
+          <volume>0.4</volume>
+        </Ambience>
+
+        <Ambience>
+          <name>Merchant loop</name>
+          <volume>0.19</volume>
+        </Ambience>
+      </ambience>
+
+      <screens>1</screens>
+    </AmbienceSave>
+
+    <!--CITY-->
+    <AmbienceSave>
+      <ambience>
+        <Ambience>
+          <name>City 1</name>
+          <volume>0.4</volume>
+        </Ambience>
+      </ambience>
+
+      <screens>3</screens>
+    </AmbienceSave>
+
+    <!--WATCH TOWERS 1-->
+    <AmbienceSave>
+      <ambience>
+        <Ambience>
+          <name>towers 1</name>
+          <volume>1</volume>
+        </Ambience>
+      </ambience>
+
+      <screens>3</screens>
+    </AmbienceSave>
+
+    <!--WATCH TOWERS 2-->
+    <AmbienceSave>
+      <ambience>
+        <Ambience>
+          <name>windy towers 2</name>
+          <volume>1</volume>
+        </Ambience>
+      </ambience>
+
+      <screens>3</screens>
+    </AmbienceSave>
+
+    <!--BLIZZARD-->
+    <AmbienceSave>
+      <ambience>
+        <Ambience>
+          <name>windy snowy 1</name>
+          <volume>0.85</volume>
+        </Ambience>
+        <Ambience>
+          <name>windy snowy 2</name>
+          <volume>0.9</volume>
+        </Ambience>
+      </ambience>
+
+      <screens>6</screens>
+    </AmbienceSave>
+
+    <!--TRANSITION BLIZZARD TO CATHEDRAL-->
+    <AmbienceSave>
+      <ambience>
+        <Ambience>
+          <name>windy snowy 1</name>
+          <volume>0.8</volume>
+        </Ambience>
+        <Ambience>
+          <name>Cathedral</name>
+          <volume>0.6</volume>
+        </Ambience>
+        <Ambience>
+          <name>windy snowy 2</name>
+          <volume>0.9</volume>
+        </Ambience>
+      </ambience>
+
+      <screens>1</screens>
+    </AmbienceSave>
+
+    <!--CATHEDRAL-->
+    <AmbienceSave>
+      <ambience>
+        <Ambience>
+          <name>Cathedral</name>
+          <volume>0.9</volume>
+        </Ambience>
+      </ambience>
+
+      <screens>3</screens>
+    </AmbienceSave>
+
+    <!--ROOF OF CATHEDRAL-->
+    <AmbienceSave>
+      <ambience>
+        <Ambience>
+          <name>Cathedral</name>
+          <volume>0.35</volume>
+        </Ambience>
+        <Ambience>
+          <name>Ice wind new</name>
+          <volume>0.9</volume>
+        </Ambience>
+        <Ambience>
+          <name>synth drone</name>
+          <volume>1</volume>
+        </Ambience>
+      </ambience>
+
+      <screens>1</screens>
+    </AmbienceSave>
+
+    <!--ICE PART 1-->
+    <AmbienceSave>
+      <ambience>
+        <Ambience>
+          <name>test song ice</name>
+          <volume>1</volume>
+        </Ambience>
+        <Ambience>
+          <name>Ice wind new</name>
+          <volume>0.9</volume>
+        </Ambience>
+      </ambience>
+
+      <screens>2</screens>
+      <restart>true</restart>
+    </AmbienceSave>
+
+    <!--ICE PART 2-->
+    <AmbienceSave>
+      <ambience>
+        <Ambience>
+          <name>Ice wind new</name>
+          <volume>0.9</volume>
+        </Ambience>
+        <Ambience>
+          <name>test song ice</name>
+          <volume>1</volume>
+        </Ambience>
+      </ambience>
+
+      <screens>1</screens>
+    </AmbienceSave>
+
+    <!--TOWER-->
+    <AmbienceSave>
+      <ambience>
+        <Ambience>
+          <name>test song ice</name>
+          <volume>0</volume>
+        </Ambience>
+        <Ambience>
+          <name>Final Climb</name>
+          <volume>0.6</volume>
+        </Ambience>
+        <Ambience>
+          <name>Earthquake</name>
+          <volume>1</volume>
+        </Ambience>
+      </ambience>
+
+      <screens>3</screens>
+      <restart>true</restart>
+    </AmbienceSave>
+
+    <!--TOWER-->
+    <AmbienceSave>
+      <ambience>
+        <Ambience>
+          <name>Earthquake</name>
+          <volume>0.25</volume>
+        </Ambience>
+        <Ambience>
+          <name>Final Climb</name>
+          <volume>0</volume>
+        </Ambience>
+        <Ambience>
+          <name>Wind 1</name>
+          <volume>0.4</volume>
+        </Ambience>
+      </ambience>
+      <screens>1</screens>
+    </AmbienceSave>
+
+    <!--FILLER SCREEN-->
+    <AmbienceSave>
+      <ambience>
+      </ambience>
+      <screens>1</screens>
+    </AmbienceSave>
+
+    <!--gargoyle room-->
+    <AmbienceSave>
+      <ambience>
+        <Ambience>
+          <name>hiddenroom</name>
+          <volume>0.7</volume>
+        </Ambience>
+      </ambience>
+
+      <screens>2</screens>
+      <restart>true</restart>
+    </AmbienceSave>
+
+    <!--NB+ Snow Forest-->
+    <AmbienceSave>
+      <ambience>
+        <Ambience>
+          <name>NB forest</name>
+          <volume>0.55</volume>
+        </Ambience>
+        <Ambience>
+          <name>nbwindtestice</name>
+          <volume>0.35</volume>
+        </Ambience>
+        <Ambience>
+          <name>nb_owl</name>
+          <volume>0.52</volume>
+        </Ambience>
+      </ambience>
+
+      <screens>5</screens>
+    </AmbienceSave>
+
+    <!--NB+ Snow Forest 2-->
+    <AmbienceSave>
+      <ambience>
+        <Ambience>
+          <name>nb_owl</name>
+          <volume>0.175</volume>
+        </Ambience>
+        <Ambience>
+          <name>nbwindtestice</name>
+          <volume>0.15</volume>
+        </Ambience>        
+        <Ambience>
+          <name>NB_icetest</name>
+          <volume>0.6</volume>
+        </Ambience>
+      </ambience>
+
+      <screens>1</screens>
+    </AmbienceSave>
+
+    <!--NB+ Forest to Sewers transition-->
+    <AmbienceSave>
+      <ambience>
+        <Ambience>
+          <name>nbwindtestice</name>
+          <volume>0.07</volume>
+        </Ambience>
+        <Ambience>
+          <name>icebass</name>
+          <volume>0.2</volume>
+        </Ambience>
+        <Ambience>
+          <name>NB_icetest</name>
+          <volume>0.6</volume>
+        </Ambience>
+      </ambience>
+
+      <screens>1</screens>
+    </AmbienceSave>
+
+    <!--NB+ Frozen Sewers-->
+    <AmbienceSave>
+      <ambience>
+        <Ambience>
+          <name>icebass</name>
+          <volume>0.35</volume>
+        </Ambience>
+        <Ambience>
+          <name>NB_icetest</name>
+          <volume>0.6</volume>
+        </Ambience>
+      </ambience>
+
+      <screens>4</screens>
+    </AmbienceSave>
+
+    <!--NB+ Sewers transition to Castle-->
+    <AmbienceSave>
+      <ambience>
+        <Ambience>
+          <name>icebass</name>
+          <volume>0.2</volume>
+        </Ambience>
+        <Ambience>
+          <name>nb_castle_drone</name>
+          <volume>0.45</volume>
+        </Ambience>
+        <Ambience>
+          <name>fireee</name>
+          <volume>0.4</volume>
+        </Ambience>
+      </ambience>
+
+      <screens>1</screens>
+    </AmbienceSave>
+    
+        <!--NB+ Sewers transition to Castle 2-->
+    <AmbienceSave>
+      <ambience>
+        <Ambience>
+          <name>nb_castle_drone</name>
+          <volume>0.6</volume>
+        </Ambience>
+        <Ambience>
+          <name>fireee</name>
+          <volume>0.4</volume>
+        </Ambience>
+      </ambience>
+
+      <screens>1</screens>
+    </AmbienceSave>
+
+    <!--NB+ Castle-->
+    <AmbienceSave>
+      <ambience>
+        <Ambience>
+          <name>nb_castle_top</name>
+          <volume>0.62</volume>
+        </Ambience>
+        <Ambience>
+          <name>nb_castle_drone</name>
+          <volume>0.6</volume>
+        </Ambience>
+      </ambience>
+
+      <screens>2</screens>
+    </AmbienceSave>
+
+    <!--NB+ Castle Roof-->
+    <AmbienceSave>
+      <ambience>
+        <Ambience>
+          <name>nb_castle_top</name>
+          <volume>0.62</volume>
+        </Ambience>
+        <Ambience>
+          <name>nb_castle_roof_wind</name>
+          <volume>0.25</volume>
+        </Ambience>
+      </ambience>
+
+      <screens>1</screens>
+    </AmbienceSave>
+
+    <!--NB+ Castle transition to City-->
+    <AmbienceSave>
+      <ambience>
+        <Ambience>
+          <name>nb_city_wind</name>
+          <volume>0.35</volume>
+        </Ambience>
+        <Ambience>
+          <name>nb_castle_roof_wind</name>
+          <volume>0.15</volume>
+        </Ambience>
+        <Ambience>
+          <name>nb_city_hard_wind</name>
+          <volume>0.1</volume>
+        </Ambience>
+      </ambience>
+
+      <screens>1</screens>
+    </AmbienceSave>
+
+    <!--NB+ City-->
+    <AmbienceSave>
+      <ambience>
+        <Ambience>
+          <name>Plague</name>
+          <volume>0.5</volume>
+        </Ambience>
+        <Ambience>
+          <name>nb_city_hard_wind</name>
+          <volume>0.93</volume>
+        </Ambience>
+      </ambience>
+
+      <screens>6</screens>
+    </AmbienceSave>
+
+    <!--NB+ City transition to Frontier-->
+    <AmbienceSave>
+      <ambience>
+        <Ambience>
+          <name>nb_city_hard_wind</name>
+          <volume>0.93</volume>
+        </Ambience>
+      </ambience>
+
+      <screens>1</screens>
+    </AmbienceSave>
+
+    <!--NB+ Frontier-->
+    <AmbienceSave>
+      <ambience>
+        <Ambience>
+          <name>piano frontier</name>
+          <volume>0.4</volume>
+        </Ambience>
+        <Ambience>
+          <name>frontier wind</name>
+          <volume>0.15</volume>
+        </Ambience>
+        <Ambience>
+          <name>frontier_rain</name>
+          <volume>0.6</volume>
+        </Ambience>
+      </ambience>
+
+      <screens>6</screens>
+    </AmbienceSave>
+
+    <!--NB+ Frontier transition to Troll Forest-->
+    <AmbienceSave>
+      <ambience>
+        <Ambience>
+          <name>frontier wind</name>
+          <volume>0.22</volume>
+        </Ambience>
+      </ambience>
+
+      <screens>1</screens>
+    </AmbienceSave>
+
+    <!--NB+ Troll Forest-->
+    <AmbienceSave>
+      <ambience>
+        <Ambience>
+          <name>Deep Roots</name>
+          <volume>0.5</volume>
+        </Ambience>
+        <Ambience>
+          <name>nb_troll_forest</name>
+          <volume>0.5</volume>
+        </Ambience>
+      </ambience>
+
+      <screens>5</screens>
+    </AmbienceSave>
+
+    <!--NB+ Troll Forest transition to Ruined Cathedral-->
+    <AmbienceSave>
+      <ambience>
+        <Ambience>
+          <name>nb_troll_forest</name>
+          <volume>0.3</volume>
+        </Ambience>
+        <Ambience>
+          <name>nb_troll_wind</name>
+          <volume>0.35</volume>
+        </Ambience>
+      </ambience>
+
+      <screens>1</screens>
+    </AmbienceSave>
+
+    <!--NB+ Ruined Cathedral-->
+    <AmbienceSave>
+      <ambience>
+        <Ambience>
+          <name>fchoir</name>
+          <volume>0.6</volume>
+        </Ambience>
+        <Ambience>
+          <name>nb_amb_chapel</name>
+          <volume>0.6</volume>
+        </Ambience>
+      </ambience>
+
+      <screens>5</screens>
+    </AmbienceSave>
+
+    <!--NB+ Ruined Cathedral - DRONE-->
+    <AmbienceSave>
+      <ambience>
+        <Ambience>
+          <name>fchoir</name>
+          <volume>0.3</volume>
+        </Ambience>
+        <Ambience>
+          <name>nb_amb_chapel</name>
+          <volume>0.3</volume>
+        </Ambience>
+        <Ambience>
+          <name>dronereal</name>
+          <volume>0.4</volume>
+        </Ambience>
+      </ambience>
+
+      <screens>1</screens>
+    </AmbienceSave>
+
+    <!--NB+ Ruined Cathedral transition to Water Level-->
+    <AmbienceSave>
+      <ambience>
+        <Ambience>
+          <name>Afloat</name>
+          <volume>0.5</volume>
+        </Ambience>
+        <Ambience>
+          <name>vattenambyta</name>
+          <volume>0.3</volume>
+        </Ambience>
+              <Ambience>
+          <name>vattenamb</name>
+          <volume>0.15</volume>
+        </Ambience>
+      </ambience>
+
+      <screens>1</screens>
+    </AmbienceSave>
+
+    <!--NB+ Water Level-->
+    <AmbienceSave>
+      <ambience>
+        <Ambience>
+          <name>Afloat</name>
+          <volume>0.5</volume>
+        </Ambience>
+        <Ambience>
+          <name>vattenamb</name>
+          <volume>0.8</volume>
+        </Ambience>
+      </ambience>
+
+      <screens>4</screens>
+    </AmbienceSave>
+
+    <!--NB+ Water Level transition to Final Climb-->
+    <AmbienceSave>
+      <ambience>
+        <Ambience>
+          <name>Toccata</name>
+          <volume>0.6</volume>
+        </Ambience>
+        <Ambience>
+          <name>vattenamb</name>
+          <volume>0.3</volume>
+        </Ambience>
+                    <Ambience>
+          <name>vattenamb</name>
+          <volume>0.15</volume>
+        </Ambience>
+        <Ambience>
+          <name>thunder_loop</name>
+          <volume>0.9</volume>
+        </Ambience>
+      </ambience>
+
+      <screens>1</screens>
+    </AmbienceSave>
+
+    <!--NB+ Final Climb-->
+    <AmbienceSave>
+      <ambience>
+        <Ambience>
+          <name>Toccata</name>
+          <volume>0.6</volume>
+        </Ambience>
+        <Ambience>
+          <name>thunder_loop</name>
+          <volume>0.9</volume>
+        </Ambience>
+      </ambience>
+
+      <screens>4</screens>
+    </AmbienceSave>
+
+    <!--NB+ Ending Screen-->
+    <AmbienceSave>
+      <ambience>
+        <Ambience>
+          <name>Wind 1</name>
+          <volume>0.2</volume>
+        </Ambience>
+      </ambience>
+
+      <screens>1</screens>
+    </AmbienceSave>
+
+    <!--BOG BOTTOM-->
+    <AmbienceSave>
+      <ambience>
+        <Ambience>
+          <name>Bog_Bass</name>
+          <volume>0.35</volume>
+        </Ambience>
+        <Ambience>
+          <name>Bog_Horror</name>
+          <volume>0.55</volume>
+        </Ambience>
+        <Ambience>
+          <name>Bog_Blub</name>
+          <volume>0.12</volume>
+        </Ambience>
+      </ambience>
+
+      <screens>7</screens>
+    </AmbienceSave>
+
+    <!--BOG TOP-->
+    <AmbienceSave>
+      <ambience>
+        <Ambience>
+          <name>Bog_Bass</name>
+          <volume>0.35</volume>
+        </Ambience>
+        <Ambience>
+          <name>Bog_Horror</name>
+          <volume>0.01</volume>
+        </Ambience>
+      </ambience>
+
+      <screens>1</screens>
+    </AmbienceSave>
+
+    <!--Mould Manor 1-->
+    <AmbienceSave>
+      <ambience>
+        <Ambience>
+          <name>Mald</name>
+          <volume>0.38</volume>
+        </Ambience>
+        <Ambience>
+          <name>Mald_Wind</name>
+          <volume>0.5</volume>
+        </Ambience>
+      </ambience>
+
+      <screens>1</screens>
+    </AmbienceSave>
+    
+    <!--Mould Manor 2-->
+    <AmbienceSave>
+      <ambience>
+        <Ambience>
+          <name>Mald</name>
+          <volume>0.38</volume>
+        </Ambience>
+        <Ambience>
+          <name>Mald_Wind</name>
+          <volume>0.75</volume>
+        </Ambience>
+      </ambience>
+
+      <screens>6</screens>
+    </AmbienceSave>
+
+    <!--TRANSITION FROM MOULD MANOR TO BUGSTALK-->
+    <AmbienceSave>
+      <ambience>
+        <Ambience>
+          <name>Wind 1</name>
+          <volume>0.15</volume>
+        </Ambience>
+        <Ambience>
+          <name>Mald_Wind</name>
+          <volume>0.5</volume>
+        </Ambience>
+      </ambience>
+
+      <screens>1</screens>
+    </AmbienceSave>
+
+    <!--Bugstalk Gore-->
+    <AmbienceSave>
+      <ambience>
+        <Ambience>
+          <name>Bean_Slow</name>
+          <volume>0.7</volume>
+        </Ambience>
+        <Ambience>
+          <name>flies</name>
+          <volume>0.75</volume>
+        </Ambience>
+        <Ambience>
+          <name>frontier wind</name>
+          <volume>0.1</volume>
+        </Ambience>
+      </ambience>
+
+      <screens>5</screens>
+    </AmbienceSave>
+
+    <!--Bugstalk Snö-->
+    <AmbienceSave>
+      <ambience>
+        <Ambience>
+          <name>Bean_Slow</name>
+          <volume>0.7</volume>
+        </Ambience>
+        <Ambience>
+          <name>frontier wind</name>
+          <volume>0.2</volume>
+        </Ambience>
+      </ambience>
+
+      <screens>1</screens>
+    </AmbienceSave>
+
+    <!--Bugstalk Snö-->
+    <AmbienceSave>
+      <ambience>
+        <Ambience>
+          <name>Bean_Slow</name>
+          <volume>0.35</volume>
+        </Ambience>
+        <Ambience>
+          <name>frontier wind</name>
+          <volume>0.2</volume>
+        </Ambience>
+      </ambience>
+
+      <screens>1</screens>
+    </AmbienceSave>
+
+    <!--Kattmys-->
+    <AmbienceSave>
+      <ambience>
+        <Ambience>
+          <name>kattmys</name>
+          <volume>1</volume>
+        </Ambience>
+              <Ambience>
+          <name>frontier wind</name>
+          <volume>0.1</volume>
+        </Ambience>
+              <Ambience>
+          <name>kattmusik</name>
+          <volume>0.65</volume>
+        </Ambience>
+              <Ambience>
+          <name>kattljus</name>
+          <volume>1</volume>
+        </Ambience>
+      </ambience>
+
+      <screens>3</screens>
+    </AmbienceSave>
+    
+        <!--Kattmys 2-->
+    <AmbienceSave>
+      <ambience>
+        <Ambience>
+          <name>kattmys</name>
+          <volume>0</volume>
+        </Ambience>
+                <Ambience>
+          <name>kattmusik</name>
+          <volume>0.65</volume>
+        </Ambience>
+              <Ambience>
+          <name>frontier wind</name>
+          <volume>0.15</volume>
+        </Ambience>
+                    <Ambience>
+          <name>kattljus</name>
+          <volume>1</volume>
+        </Ambience>
+      </ambience>
+
+      <screens>2</screens>
+    </AmbienceSave>
+
+    <!--Kattmys 2-->
+    <AmbienceSave>
+      <ambience>
+        <Ambience>
+          <name>kattmys</name>
+          <volume>0</volume>
+        </Ambience>
+        <Ambience>
+          <name>kattmusik</name>
+          <volume>0.58</volume>
+        </Ambience>
+        <Ambience>
+          <name>frontier wind</name>
+          <volume>0.1</volume>
+        </Ambience>
+        <Ambience>
+          <name>kattljus</name>
+          <volume>1</volume>
+        </Ambience>
+      </ambience>
+
+      <screens>1</screens>
+    </AmbienceSave>
+    
+            <!--Kattmys memorial-->
+    <AmbienceSave>
+      <ambience>
+        <Ambience>
+          <name>kattmusik</name>
+          <volume>0.35</volume>
+        </Ambience>
+        <Ambience>
+          <name>frontier wind</name>
+          <volume>0.3</volume>
+        </Ambience>
+      </ambience>
+
+      <screens>1</screens>
+    </AmbienceSave>
+
+    <!-- TRANSITION TO TOWER #1-->
+    <AmbienceSave>
+      <ambience>
+        <Ambience>
+          <name>frontier wind</name>
+          <volume>0.25</volume>
+        </Ambience>
+        <Ambience>
+          <name>kattmusik</name>
+          <volume>0</volume>
+        </Ambience>
+        <Ambience>
+          <name>Earthquake</name>
+          <volume>0.4</volume>
+        </Ambience>
+      </ambience>
+
+      <screens>1</screens>
+    </AmbienceSave>
+    
+        <!--Tower #1-->
+    <AmbienceSave>
+      <ambience>
+        <Ambience>
+          <name>Organ Funeral</name>
+          <volume>0.75</volume>
+        </Ambience>
+        <Ambience>
+          <name>frontier wind</name>
+          <volume>0.3</volume>
+        </Ambience>
+              <Ambience>
+          <name>Mald_Wind</name>
+          <volume>0.45</volume>
+        </Ambience>
+        <Ambience>
+          <name>quake</name>
+          <volume>0.75</volume>
+        </Ambience>
+      </ambience>
+
+      <screens>6</screens>
+    </AmbienceSave>
+
+    <!--Tower #1 TOP-->
+    <AmbienceSave>
+      <ambience>
+        <Ambience>
+          <name>Mald_Wind</name>
+          <volume>0.35</volume>
+        </Ambience>
+        <Ambience>
+          <name>Organ Funeral</name>
+          <volume>0</volume>
+        </Ambience>
+        <Ambience>
+          <name>frontier wind</name>
+          <volume>0.1</volume>
+        </Ambience>
+      </ambience>
+
+      <screens>2</screens>
+    </AmbienceSave>
+
+    <!--Time Stop 1-->
+    <AmbienceSave>
+      <ambience>
+        <Ambience>
+          <name>testavinden</name>
+          <volume>0.28</volume>
+        </Ambience>
+        <Ambience>
+          <name>monobeat</name>
+          <volume>0</volume>
+        </Ambience>
+        <Ambience>
+          <name>hundraverb</name>
+          <volume>0</volume>
+        </Ambience>
+      </ambience> 
+      
+    <screens>1</screens>
+    </AmbienceSave>
+
+
+    <!--Time Stop 2-->
+    <AmbienceSave>
+      <ambience>
+        <Ambience>
+          <name>testavinden</name>
+          <volume>0.28</volume>
+        </Ambience>
+        <Ambience>
+          <name>monobeat</name>
+          <volume>0.28</volume>
+        </Ambience>
+                    <Ambience>
+          <name>hundraverb</name>
+          <volume>0.22</volume>
+        </Ambience>
+      </ambience>
+
+      <screens>1</screens>
+    </AmbienceSave>
+
+    <!--Time Stop 3 - BEAT-->
+    <AmbienceSave>
+      <ambience>
+        <Ambience>
+          <name>monobeat</name>
+          <volume>1</volume>
+        </Ambience>
+                          <Ambience>
+          <name>hundraverb</name>
+          <volume>0.3</volume>
+        </Ambience>
+        <Ambience>
+          <name>testavinden</name>
+          <volume>0.28</volume>
+        </Ambience>
+      </ambience>
+
+      <screens>1</screens>
+    </AmbienceSave>
+
+    <!--Time Stop 4-->
+    <AmbienceSave>
+      <ambience>
+        <Ambience>
+          <name>testavinden</name>
+          <volume>0.28</volume>
+        </Ambience>
+        <Ambience>
+          <name>monobeat</name>
+          <volume>0.28</volume>
+        </Ambience>
+              <Ambience>
+          <name>hundraverb</name>
+          <volume>0.22</volume>
+        </Ambience>
+      </ambience>
+
+      <screens>1</screens>
+    </AmbienceSave>
+    
+              <!--Time Stop 5-->
+    <AmbienceSave>
+      <ambience>
+        <Ambience>
+          <name>testavinden</name>
+          <volume>0.28</volume>
+        </Ambience>
+              <Ambience>
+          <name>monobeat</name>
+          <volume>0.1</volume>
+        </Ambience>
+              <Ambience>
+          <name>hundraverb</name>
+          <volume>0.14</volume>
+        </Ambience>
+      </ambience>
+
+      <screens>1</screens>
+    </AmbienceSave>
+      
+          <!--Time Stop 5-->
+    <AmbienceSave>
+      <ambience>
+        <Ambience>
+          <name>testavinden</name>
+          <volume>0.28</volume>
+        </Ambience>
+      </ambience>
+
+      <screens>2</screens>
+    </AmbienceSave>
+
+    <!--Time Stop 6-->
+    <AmbienceSave>
+      <ambience>
+        <Ambience>
+          <name>testavinden</name>
+          <volume>0.28</volume>
+        </Ambience>
+        <Ambience>
+          <name>frontier wind</name>
+          <volume>0.05</volume>
+        </Ambience>
+      </ambience>
+
+      <screens>1</screens>
+    </AmbienceSave>
+
+    <!--Tower of Antumbra-->
+    <AmbienceSave>
+      <ambience>
+        <Ambience>
+          <name>happytimesjpeg</name>
+          <volume>1</volume>
+        </Ambience>
+        <Ambience>
+          <name>frontier wind</name>
+          <volume>0.2</volume>
+        </Ambience>
+        <Ambience>
+          <name>gargoyle ambience</name>
+          <volume>1</volume>
+        </Ambience>
+      </ambience>
+
+      <screens>6</screens>
+    </AmbienceSave>
+
+    <!--Tower of Antumbra TOP-->
+    <AmbienceSave>
+      <ambience>
+        <Ambience>
+          <name>Mald_Wind</name>
+          <volume>0.35</volume>
+        </Ambience>
+        <Ambience>
+          <name>happytimesjpeg</name>
+          <volume>0</volume>
+        </Ambience>
+        <Ambience>
+          <name>frontier wind</name>
+          <volume>0.1</volume>
+        </Ambience>
+      </ambience>
+
+      <screens>1</screens>
+    </AmbienceSave>
+
+    <!--!!START GHOST OF THE BABE!!-->
+    <AmbienceSave>
+      <ambience>
+        <Ambience>
+          <name>nb_troll_forest</name>
+          <volume>0</volume>
+        </Ambience>
+      </ambience>
+
+      <screens>1</screens>
+    </AmbienceSave>
+    
+  <AmbienceSave>
+      <ambience>
+        <Ambience>
+          <name>nb_troll_forest</name>
+          <volume>0.6</volume>
+        </Ambience>
+        <Ambience>
+          <name>Nature bg</name>
+          <volume>0.22</volume>
+        </Ambience>
+      </ambience>
+
+      <screens>1</screens>
+    </AmbienceSave>
+    
+    <!--GOTB Deku-->
+    <AmbienceSave>
+      <ambience>
+        <Ambience>
+          <name>Deku Old School</name>
+          <volume>0.73</volume>
+        </Ambience>
+              <Ambience>
+          <name>nb_troll_forest</name>
+          <volume>0.65</volume>
+        </Ambience>
+      </ambience>
+
+      <screens>4</screens>
+    </AmbienceSave>
+
+    <!--GOTB Deku Bottom of Hole + 2 Black Screens-->
+    <AmbienceSave>
+      <ambience>
+        <Ambience>
+          <name>Deku Old School</name>
+          <volume>0</volume>
+        </Ambience>
+      </ambience>
+
+      <screens>3</screens>
+    </AmbienceSave>
+
+    <!--GOTB Deku Hole Screen-->
+    <AmbienceSave>
+      <ambience>
+        <Ambience>
+          <name>Deku Old School</name>
+          <volume>0.75</volume>
+        </Ambience>
+              <Ambience>
+          <name>nb_troll_forest</name>
+          <volume>0.2</volume>
+        </Ambience>
+      </ambience>
+
+      <screens>1</screens>
+    </AmbienceSave>
+
+    
+    
+    
+
+
+
+
+  </sections>
+</AmbienceSaveValues>

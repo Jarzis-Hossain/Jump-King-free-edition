@@ -1,0 +1,85 @@
+<?xml version="1.0"?>
+<RaymanCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+  <walls>
+
+    <RaymanData>
+      <achievements>
+        <AchievementCode>GO_THOUGH_ILLUSORY_WALL</AchievementCode>
+      </achievements>
+
+      <texture_name>7_hidden_wall1</texture_name>
+      <Position>
+        <X>303</X>
+        <Y>223</Y>
+      </Position>
+    </RaymanData>
+
+    <RaymanData>
+      <achievements>
+        <AchievementCode>GO_THOUGH_ILLUSORY_WALL</AchievementCode>
+      </achievements>
+
+      <texture_name>7_hidden_wall2_2</texture_name>
+      <Position>
+        <X>288</X>
+        <Y>47</Y>
+      </Position>
+      <hitboxes>
+          <Rectangle>
+              <X>0</X>
+              <Y>72</Y>
+              <Width>64</Width>
+              <Height>34</Height>
+          </Rectangle>
+
+          <Rectangle>
+              <X>48</X>
+              <Y>16</Y>
+              <Width>16</Width>
+              <Height>57</Height>
+          </Rectangle>
+
+          <Rectangle>
+              <X>63</X>
+              <Y>1</Y>
+              <Width>32</Width>
+              <Height>106</Height>
+          </Rectangle>
+      </hitboxes>
+    </RaymanData>
+
+    <RaymanData>
+      <achievements>
+        <AchievementCode>GO_THOUGH_ILLUSORY_WALL</AchievementCode>
+      </achievements>
+
+      <texture_name>7_hidden_wall2_1</texture_name>
+      <Position>
+        <X>382</X>
+        <Y>47</Y>
+      </Position>
+       <hitboxes>
+          <Rectangle>
+              <X>0</X>
+              <Y>0</Y>
+              <Width>91</Width>
+              <Height>89</Height>
+          </Rectangle>
+      </hitboxes>
+    </RaymanData>
+
+    <RaymanData>
+      <achievements>
+        <AchievementCode>GO_THOUGH_ILLUSORY_WALL</AchievementCode>
+      </achievements>
+
+      <texture_name>7_hidden_wall3</texture_name>
+      <Position>
+        <X>167</X>
+        <Y>0</Y>
+      </Position>
+    </RaymanData>
+
+  </walls>
+</RaymanCollection>

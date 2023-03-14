@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<PropCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+  <!-- Bonfire, DungeonTorch, Candle -->
+
+  <Props>
+
+    <PropData>
+      <type>owl_gargoyle</type>
+      <Position>
+        <X>275</X>
+        <Y>213</Y>
+      </Position>
+      <flipped>false</flipped>
+    </PropData>
+
+    <PropData>
+      <type>owl_gargoyle</type>
+      <Position>
+        <X>318</X>
+        <Y>224</Y>
+      </Position>
+      <flipped>true</flipped>
+    </PropData>
+
+    <PropData>
+      <type>grammofon</type>
+      <Position>
+        <X>278</X>
+        <Y>228</Y>
+      </Position>
+    </PropData>
+
+  </Props>
+</PropCollection>

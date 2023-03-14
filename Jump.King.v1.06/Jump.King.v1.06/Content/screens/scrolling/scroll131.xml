@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+<ScrollingBGdata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <scroll_speed>10</scroll_speed>
+  <foreground>true</foreground>
+
+  <layers>
+
+    <Layer>
+      <texture>pt_cloud_t</texture>
+      <position>278</position>
+      <scroll_multiplier>0.1</scroll_multiplier>
+      <layer_mode>Background</layer_mode>      
+    </Layer>
+
+    <Layer>
+      <texture>pt_cloud_m</texture>
+      <position>289</position>
+      <scroll_multiplier>0.3</scroll_multiplier>
+      <layer_mode>Background</layer_mode>      
+    </Layer>
+
+    <Layer>
+      <texture>bird_cloud</texture>
+      <position>212</position>
+      <scroll_multiplier>-1</scroll_multiplier>
+      <layer_mode>Background</layer_mode>
+      <animation>
+        <fps>8</fps>
+        <sheet_cells>
+          <X>2</X>
+          <Y>4</Y>
+        </sheet_cells>
+        <frames>
+          <!--float></float-->
+        </frames>
+      </animation>
+    </Layer>
+
+    <Layer>
+      <texture>bird_cloud</texture>
+      <position>300</position>
+      <scroll_multiplier>0.9</scroll_multiplier>
+      <layer_mode>Background</layer_mode>
+      <animation>
+        <fps>8</fps>
+        <sheet_cells>
+          <X>2</X>
+          <Y>4</Y>
+        </sheet_cells>
+        <frames>
+          <!--float></float-->
+        </frames>
+      </animation>
+    </Layer>
+
+    <Layer>
+      <texture>pt_cloud_b</texture>
+      <position>329</position>
+      <scroll_multiplier>0.7</scroll_multiplier>
+      <layer_mode>Background</layer_mode>         
+    </Layer>
+
+    <Layer>
+      <texture>pt_mist_clouds2</texture>
+      <position>100</position>
+      <scroll_multiplier>3</scroll_multiplier>
+    </Layer>
+
+    <Layer>
+      <texture>pt_mist_clouds3</texture>
+      <position>100</position>
+      <scroll_multiplier>-3.5</scroll_multiplier>
+    </Layer>
+
+  </layers>
+</ScrollingBGdata>

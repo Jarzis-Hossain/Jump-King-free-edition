@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<JingleEventSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+  <events>
+    
+    <Event>
+      <screen>43</screen>
+      <song_name>ending_jingle</song_name>
+    </Event>
+
+    <Event>
+      <screen>100</screen>
+      <song_name>Moon</song_name>
+    </Event>
+
+    <Event>
+      <screen>138</screen>
+      <song_name>Elude1</song_name>
+    </Event>
+
+    <Event>
+      <screen>154</screen>
+      <song_name>Elude2</song_name>
+    </Event>
+
+    <Event>
+      <screen>148</screen>
+      <song_name>gargoyls</song_name>
+    </Event>
+
+  </events>
+</JingleEventSettings>

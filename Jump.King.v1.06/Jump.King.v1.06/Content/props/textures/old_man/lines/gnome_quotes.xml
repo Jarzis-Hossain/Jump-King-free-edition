@@ -1,0 +1,387 @@
+<?xml version="1.0"?>
+<OldManSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+  <!-- ??? -->
+  <name>gnome</name>
+  <sprite_cells>
+    <X>3</X>
+    <Y>3</Y>
+  </sprite_cells>
+  <random_count>5</random_count>
+  <position>
+    <X>127</X>
+    <Y>202</Y>
+  </position>
+  <home_screen>53</home_screen>
+  <font>Default</font>
+
+  <talk_animation>
+  	<frames>
+  		<AnimationFrame>
+  			<sprite_index>4</sprite_index>
+  			<duration>0.2</duration>
+  		</AnimationFrame>
+      <AnimationFrame>
+        <sprite_index>6</sprite_index>
+        <duration>0.2</duration>
+      </AnimationFrame>
+  	</frames>
+  </talk_animation>
+
+  <busy_animation>
+  	<frames>
+  		<AnimationFrame>
+  			<sprite_index>3</sprite_index>
+  			<duration>1</duration>
+  		</AnimationFrame>
+      <AnimationFrame>
+        <sprite_index>4</sprite_index>
+        <duration>1</duration>
+      </AnimationFrame>
+      <AnimationFrame>
+        <sprite_index>6</sprite_index>
+        <duration>0.3</duration>
+      </AnimationFrame>
+      <AnimationFrame>
+        <sprite_index>4</sprite_index>
+        <duration>0.2</duration>
+      </AnimationFrame>
+      <AnimationFrame>
+        <sprite_index>6</sprite_index>
+        <duration>0.3</duration>
+      </AnimationFrame>
+      <AnimationFrame>
+        <sprite_index>4</sprite_index>
+        <duration>1</duration>
+      </AnimationFrame>
+      <AnimationFrame>
+        <sprite_index>5</sprite_index>
+        <duration>1</duration>
+      </AnimationFrame>
+      <AnimationFrame>
+        <sprite_index>3</sprite_index>
+        <duration>1</duration>
+      </AnimationFrame>
+      <AnimationFrame>
+        <sprite_index>1</sprite_index>
+        <duration>1</duration>
+      </AnimationFrame>
+      <AnimationFrame>
+        <sprite_index>4</sprite_index>
+        <duration>1</duration>
+      </AnimationFrame>
+  	</frames>
+  </busy_animation>
+
+  <bubble_format>
+    <direction>Right</direction>
+    <anchor>
+      <X>Left</X>
+      <Y>Down</Y>
+    </anchor>
+    <width>160</width>
+  </bubble_format>
+
+  <trigger_box>
+    <screen_rect>
+      <X>168</X>
+      <Y>208</Y>
+      <Width>144</Width>
+      <Height>112</Height>
+    </screen_rect>
+  </trigger_box>
+
+  <talk_delay>1</talk_delay>
+  <talking_speed>0.09</talking_speed>
+
+  <intro_quote>
+  	<lines>
+      <string>GNOME_QUOTES_INTRO_LINE_0</string>
+  		<string>GNOME_QUOTES_INTRO_LINE_1</string>
+      <string>GNOME_QUOTES_INTRO_LINE_2</string>
+      <string>GNOME_QUOTES_INTRO_LINE_3</string>
+  	</lines>
+  </intro_quote>
+
+  <flag_quotes>
+    <OldManFlagQuote>
+      <flag>CompletedNBP</flag>
+      <quotes>
+        <OldManQuote>
+          <lines>
+              <string>GNOME_QUOTES_YOU_AGAIN_LINE_0</string>
+              <string>GNOME_QUOTES_YOU_AGAIN_LINE_1</string>
+              <string>GNOME_QUOTES_YOU_AGAIN_LINE_2</string>
+              <string>GNOME_QUOTES_YOU_AGAIN_LINE_3</string>
+              <string>GNOME_QUOTES_YOU_AGAIN_LINE_4</string>
+          </lines>
+        </OldManQuote>
+      </quotes>
+    </OldManFlagQuote>
+  </flag_quotes>
+
+  <achievements>
+  </achievements>
+  
+  <looping_lines>
+    <OldManQuote>
+      <lines>
+        <string>GNOME_QUOTES_NICE_VIEW_LINE_0</string>
+        <string>GNOME_QUOTES_NICE_VIEW_LINE_1</string>
+      </lines>
+    </OldManQuote>
+
+    <OldManQuote>
+      <lines>
+        <string>GNOME_QUOTES_LIKE_COMPANY_LINE_0</string>
+        <string>GNOME_QUOTES_LIKE_COMPANY_LINE_1</string>
+      </lines>
+    </OldManQuote>    
+
+    <OldManQuote>
+      <lines>
+        <string>GNOME_QUOTES_ENTERTAIN_ME_LINE_0</string>
+        <string>GNOME_QUOTES_ENTERTAIN_ME_LINE_1</string>
+      </lines>
+    </OldManQuote>
+
+  </looping_lines>
+
+  <screens>
+
+    <OldManScreen>
+      <screen>53</screen>
+      <quotes>
+
+        <OldManQuote>
+          <lines>
+            <string>GNOME_QUOTES_NEW_JUMPER_LINE_0</string>
+            <string>GNOME_QUOTES_NEW_JUMPER_LINE_1</string>
+          </lines>
+        </OldManQuote>
+
+      </quotes>
+    </OldManScreen>
+
+    <OldManScreen>
+      <screen>54</screen>
+      <quotes>
+
+        <OldManQuote>
+          <lines>
+            <string>GNOME_QUOTES_WATCH_YOU_FALL_LINE_0</string>
+            <string>GNOME_QUOTES_WATCH_YOU_FALL_LINE_1</string>
+            <string>GNOME_QUOTES_WATCH_YOU_FALL_LINE_2</string>
+            <string>GNOME_QUOTES_WATCH_YOU_FALL_LINE_3</string>
+          </lines>
+        </OldManQuote>
+
+        <OldManQuote>
+          <lines>
+            <string>GNOME_QUOTES_MUSIC_TO_EARS_LINE_0</string>
+            <string>GNOME_QUOTES_MUSIC_TO_EARS_LINE_1</string>
+            <string>GNOME_QUOTES_MUSIC_TO_EARS_LINE_2</string>
+          </lines>
+        </OldManQuote>
+
+        <OldManQuote>
+          <lines>
+            <string>GNOME_QUOTES_SITTING_IN_CAGE_LINE_0</string>
+            <string>GNOME_QUOTES_SITTING_IN_CAGE_LINE_1</string>
+            <string>GNOME_QUOTES_SITTING_IN_CAGE_LINE_2</string>
+            <string>GNOME_QUOTES_SITTING_IN_CAGE_LINE_3</string>
+          </lines>
+        </OldManQuote>
+
+        <OldManQuote>
+          <lines>
+            <string>GNOME_QUOTES_FEEL_BLESSED_LINE_0</string>
+            <string>GNOME_QUOTES_FEEL_BLESSED_LINE_1</string>
+            <string>GNOME_QUOTES_FEEL_BLESSED_LINE_2</string>
+          </lines>
+        </OldManQuote>
+
+        <OldManQuote>
+          <lines>
+            <string>GNOME_QUOTES_FELL_SAME_SPOT_LINE_0</string>
+            <string>GNOME_QUOTES_FELL_SAME_SPOT_LINE_1</string>
+            <string>GNOME_QUOTES_FELL_SAME_SPOT_LINE_2</string>
+            <string>GNOME_QUOTES_FELL_SAME_SPOT_LINE_3</string>
+          </lines>
+        </OldManQuote>
+
+      </quotes>
+    </OldManScreen>
+
+    <OldManScreen>
+      <screen>55</screen>
+      <quotes>
+
+        <OldManQuote>
+          <lines>
+            <string>GNOME_QUOTES_JUST_JUMP_LINE_0</string>
+            <string>GNOME_QUOTES_JUST_JUMP_LINE_1</string>
+          </lines>
+        </OldManQuote>
+
+        <OldManQuote>
+          <lines>
+            <string>GNOME_QUOTES_ALRIGHT_ALRIGHT_LINE_0</string>
+            <string>GNOME_QUOTES_ALRIGHT_ALRIGHT_LINE_1</string>
+          </lines>
+        </OldManQuote>
+
+        <OldManQuote>
+          <lines>
+            <string>GNOME_QUOTES_NEVER_GET_OLD_LINE_0</string>
+            <string>GNOME_QUOTES_NEVER_GET_OLD_LINE_1</string>
+            <string>GNOME_QUOTES_NEVER_GET_OLD_LINE_2</string>
+          </lines>
+        </OldManQuote>
+
+      </quotes>
+    </OldManScreen>
+
+    <OldManScreen>
+      <screen>56</screen>
+      <quotes>
+
+        <OldManQuote>
+          <lines>
+            <string>GNOME_QUOTES_JUST_SLOW_LINE_0</string>
+            <string>GNOME_QUOTES_JUST_SLOW_LINE_1</string>
+            <string>GNOME_QUOTES_JUST_SLOW_LINE_2</string>
+            <string>GNOME_QUOTES_JUST_SLOW_LINE_3</string>
+          </lines>
+        </OldManQuote>
+
+        <OldManQuote>
+          <lines>
+            <string>GNOME_QUOTES_DONT_STOP_LINE_0</string>
+            <string>GNOME_QUOTES_DONT_STOP_LINE_1</string>          
+        </lines>
+        </OldManQuote>
+
+        <OldManQuote>
+          <lines>
+            <string>GNOME_QUOTES_PEOPLE_DONT_STAY_LINE_0</string>
+            <string>GNOME_QUOTES_PEOPLE_DONT_STAY_LINE_1</string>
+            <string>GNOME_QUOTES_PEOPLE_DONT_STAY_LINE_2</string>
+          </lines>
+        </OldManQuote>
+
+        <OldManQuote>
+          <lines>
+            <string>GNOME_QUOTES_SOUND_OF_YOU_FALLING_LINE_0</string>
+            <string>GNOME_QUOTES_SOUND_OF_YOU_FALLING_LINE_1</string>
+            <string>GNOME_QUOTES_SOUND_OF_YOU_FALLING_LINE_2</string>
+            <string>GNOME_QUOTES_SOUND_OF_YOU_FALLING_LINE_3</string>
+            <string>GNOME_QUOTES_SOUND_OF_YOU_FALLING_LINE_4</string>
+          </lines>
+        </OldManQuote>
+
+      </quotes>
+    </OldManScreen>
+
+    <OldManScreen>
+      <screen>57</screen>
+      <quotes>
+
+        <OldManQuote>
+          <lines>
+            <string>GNOME_QUOTES_FEEL_SORRY_NOT_REALLY_LINE_0</string>
+            <string>GNOME_QUOTES_FEEL_SORRY_NOT_REALLY_LINE_1</string>
+            <string>GNOME_QUOTES_FEEL_SORRY_NOT_REALLY_LINE_2</string>
+          </lines>
+        </OldManQuote>
+
+        <OldManQuote>
+          <lines>
+            <string>GNOME_QUOTES_7_OUT_OF_10_LINE_0</string>
+            <string>GNOME_QUOTES_7_OUT_OF_10_LINE_1</string>
+          </lines>
+        </OldManQuote>
+
+        <OldManQuote>
+          <lines>
+            <string>GNOME_QUOTES_OVER_AND_OVER_LINE_0</string>
+            <string>GNOME_QUOTES_OVER_AND_OVER_LINE_1</string>
+          </lines>
+        </OldManQuote>
+
+        <OldManQuote>
+          <lines>
+            <string>GNOME_QUOTES_PLEASE_CONTINUE_LINE_0</string>
+            <string>GNOME_QUOTES_PLEASE_CONTINUE_LINE_1</string>
+            <string>GNOME_QUOTES_PLEASE_CONTINUE_LINE_2</string>
+            <string>GNOME_QUOTES_PLEASE_CONTINUE_LINE_3</string>
+          </lines>
+        </OldManQuote>
+
+        <OldManQuote>
+          <lines>
+            <string>GNOME_QUOTES_DONT_GIVE_UP_LINE_0</string>
+            <string>GNOME_QUOTES_DONT_GIVE_UP_LINE_1</string>
+            <string>GNOME_QUOTES_DONT_GIVE_UP_LINE_2</string>
+          </lines>
+        </OldManQuote>
+
+      </quotes>
+    </OldManScreen>
+
+    <OldManScreen>
+      <screen>58</screen>
+      <quotes>
+
+        <OldManQuote>
+          <lines>
+            <string>GNOME_QUOTES_EMOTIONAL_FALL_LINE_0</string>
+            <string>GNOME_QUOTES_EMOTIONAL_FALL_LINE_1</string>
+          </lines>
+        </OldManQuote>
+
+        <OldManQuote>
+          <lines>
+            <string>GNOME_QUOTES_I_DONT_MIND_LINE_0</string>
+            <string>GNOME_QUOTES_I_DONT_MIND_LINE_1</string>
+          </lines>
+        </OldManQuote>
+
+        <OldManQuote>
+          <lines>
+            <string>GNOME_QUOTES_FALL_FOR_ETERNITY_LINE_0</string>
+            <string>GNOME_QUOTES_FALL_FOR_ETERNITY_LINE_1</string>
+            <string>GNOME_QUOTES_FALL_FOR_ETERNITY_LINE_2</string>
+          </lines>
+        </OldManQuote>
+
+        <OldManQuote>
+          <lines>
+            <string>GNOME_QUOTES_FALL_ON_YOUR_FACE_LINE_0</string>
+            <string>GNOME_QUOTES_FALL_ON_YOUR_FACE_LINE_1</string>
+            <string>GNOME_QUOTES_FALL_ON_YOUR_FACE_LINE_2</string>
+            <string>GNOME_QUOTES_FALL_ON_YOUR_FACE_LINE_3</string>
+            <string>GNOME_QUOTES_FALL_ON_YOUR_FACE_LINE_4</string>
+          </lines>
+        </OldManQuote>
+
+      </quotes>
+    </OldManScreen>
+
+    <OldManScreen>
+      <screen>61</screen>
+      <quotes>
+
+        <OldManQuote>
+          <lines>
+            <string>GNOME_QUOTES_WAITED_FOR_YOUR_RETURN_LINE_0</string>
+            <string>GNOME_QUOTES_WAITED_FOR_YOUR_RETURN_LINE_1</string>
+          </lines>
+        </OldManQuote>
+
+      </quotes>
+    </OldManScreen>
+
+  </screens>
+</OldManSettings>
+

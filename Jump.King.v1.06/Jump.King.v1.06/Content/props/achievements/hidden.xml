@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<AchievementHitbox xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<code>FIND_IMP_ROOM</code>
+	<screen>45</screen>
+  	<hitbox>
+  		<X>0</X>
+  		<Y>0</Y>
+  		<Width>480</Width>
+  		<Height>360</Height>
+  	</hitbox>
+</AchievementHitbox>

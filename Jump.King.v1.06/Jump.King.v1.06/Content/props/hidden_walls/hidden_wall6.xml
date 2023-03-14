@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<RaymanCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+  <walls>
+
+    <RaymanData>
+      <achievements>
+        <AchievementCode>GO_THOUGH_ILLUSORY_WALL</AchievementCode>
+      </achievements>
+
+      <texture_name>6_hidden_wall</texture_name>
+      <Position>
+        <X>303</X>
+        <Y>95</Y>
+      </Position>
+    </RaymanData>
+
+
+  </walls>
+</RaymanCollection>

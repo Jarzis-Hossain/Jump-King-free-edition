@@ -1,0 +1,166 @@
+<?xml version="1.0"?>
+<RavenSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+  <!-- ??? -->
+  <fly_sfx>bird_fly</fly_sfx>
+  <texture>raven</texture>
+  <item>GoldRing</item>
+
+  <positions>
+
+    <RavenPosition>
+      <screen>3</screen>
+      <position>
+      	<X>34</X>
+      	<Y>88</Y>
+      </position>
+      <treasure>false</treasure>
+      <look_direction>Right</look_direction>
+      <fly_direction>Right</fly_direction>
+    </RavenPosition>
+
+    <RavenPosition>
+      <screen>5</screen>
+      <position>
+        <X>64</X>
+        <Y>80</Y>
+      </position>
+      <treasure>false</treasure>
+      <look_direction>Right</look_direction>
+      <fly_direction>Right</fly_direction>
+    </RavenPosition>
+
+    <RavenPosition>
+      <screen>9</screen>
+      <position>
+      	<X>417</X>
+      	<Y>200</Y>
+      </position>
+      <treasure>false</treasure>
+      <look_direction>Left</look_direction>
+      <fly_direction>Left</fly_direction>
+    </RavenPosition>
+
+    <RavenPosition>
+      <screen>11</screen>
+      <position>
+        <X>24</X>
+        <Y>200</Y>
+      </position>
+      <treasure>true</treasure>
+      <look_direction>Right</look_direction>
+      <fly_direction>Right</fly_direction>
+    </RavenPosition>
+
+    <RavenPosition>
+      <screen>15</screen>
+      <position>
+        <X>27</X>
+        <Y>72</Y>
+      </position>
+      <treasure>true</treasure>
+      <look_direction>Right</look_direction>
+      <fly_direction>Right</fly_direction>
+    </RavenPosition>
+
+    <RavenPosition>
+      <screen>16</screen>
+      <position>
+        <X>24</X>
+        <Y>72</Y>
+      </position>
+      <treasure>true</treasure>
+      <look_direction>Right</look_direction>
+      <fly_direction>Right</fly_direction>
+    </RavenPosition>
+
+    <RavenPosition>
+      <screen>18</screen>
+      <position>
+        <X>125</X>
+        <Y>296</Y>
+      </position>
+      <treasure>true</treasure>
+      <look_direction>Right</look_direction>
+      <fly_direction>Right</fly_direction>
+    </RavenPosition>
+
+    <RavenPosition>
+      <screen>19</screen>
+      <position>
+        <X>448</X>
+        <Y>160</Y>
+      </position>
+      <treasure>true</treasure>
+      <look_direction>Left</look_direction>
+      <fly_direction>Left</fly_direction>
+    </RavenPosition>
+
+    <RavenPosition>
+      <screen>20</screen>
+      <position>
+        <X>458</X>
+        <Y>264</Y>
+      </position>
+      <treasure>true</treasure>
+      <look_direction>Left</look_direction>
+      <fly_direction>Left</fly_direction>
+    </RavenPosition>
+
+    <RavenPosition>
+      <screen>22</screen>
+      <position>
+        <X>148</X>
+        <Y>328</Y>
+      </position>
+      <treasure>true</treasure>
+      <look_direction>Right</look_direction>
+      <fly_direction>Right</fly_direction>
+    </RavenPosition>
+
+    <RavenPosition>
+      <screen>23</screen>
+      <position>
+        <X>21</X>
+        <Y>96</Y>
+      </position>
+      <treasure>true</treasure>
+      <look_direction>Right</look_direction>
+      <fly_direction>Right</fly_direction>
+    </RavenPosition>
+
+    <RavenPosition>
+      <screen>25</screen>
+      <position>
+        <X>69</X>
+        <Y>184</Y>
+      </position>
+      <treasure>true</treasure>
+      <look_direction>Left</look_direction>
+      <fly_direction>Right</fly_direction>
+    </RavenPosition>
+
+    <RavenPosition>
+      <screen>26</screen>
+      <position>
+        <X>459</X>
+        <Y>184</Y>
+      </position>
+      <treasure>true</treasure>
+      <look_direction>Left</look_direction>
+      <fly_direction>Left</fly_direction>
+    </RavenPosition>
+
+    <RavenPosition>
+      <screen>32</screen>
+      <position>
+        <X>291</X>
+        <Y>88</Y>
+      </position>
+      <treasure>false</treasure>
+      <look_direction>Left</look_direction>
+      <fly_direction>Left</fly_direction>
+    </RavenPosition>
+
+  </positions>
+</RavenSettings>

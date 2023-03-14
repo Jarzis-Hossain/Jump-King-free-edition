@@ -1,0 +1,240 @@
+<?xml version="1.0"?>
+<OldManSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+  <!-- ??? -->
+  <name>owl_chars/owl_bogman</name>
+  <sprite_cells>
+    <X>2</X>
+    <Y>2</Y>
+  </sprite_cells>
+  <random_count>3</random_count>
+  <position>
+    <X>356</X>
+    <Y>306</Y>
+  </position>
+  <home_screen>102</home_screen>
+  <font>Default</font>
+
+  <talk_animation>
+    <frames>
+      <AnimationFrame>
+        <sprite_index>2</sprite_index>
+        <duration>0.2</duration>
+      </AnimationFrame>
+      <AnimationFrame>
+        <sprite_index>3</sprite_index>
+        <duration>0.2</duration>
+      </AnimationFrame>      
+    </frames>
+  </talk_animation>
+
+  <busy_animation>
+    <frames>
+      <AnimationFrame>
+        <sprite_index>0</sprite_index>
+        <duration>1</duration>
+      </AnimationFrame>
+    </frames>
+  </busy_animation>
+
+  <bubble_format>
+    <direction>Left</direction>
+    <anchor>
+      <X>Right</X>
+      <Y>Down</Y>
+    </anchor>
+    <width>160</width>
+  </bubble_format>
+
+  <trigger_box>
+    <screen_rect>
+      <X>67</X>
+      <Y>268</Y>
+      <Width>314</Width>
+      <Height>49</Height>
+    </screen_rect>
+  </trigger_box>
+
+  <talk_delay>1</talk_delay>
+  <talking_speed>0.09</talking_speed>
+
+  <intro_quote>
+  	<lines>
+      <string>OWL_BRAG_GUY_QUOTES_WELCOME_LINE_0</string>
+      <string>OWL_BRAG_GUY_QUOTES_WELCOME_LINE_1</string>
+      <string>OWL_BRAG_GUY_QUOTES_WELCOME_LINE_2</string>
+      <string>OWL_BRAG_GUY_QUOTES_WELCOME_LINE_3</string>
+      <string>OWL_BRAG_GUY_QUOTES_WELCOME_LINE_4</string>
+  	</lines>
+  </intro_quote>
+
+  <flag_quotes>
+    <!--OldManFlagQuote>
+      <flag>CompletedNBP</flag>
+      <quotes>
+        <OldManQuote>
+          <lines>
+              <string>OWL_BRAG_GUY_QUOTES_GET_WHERE_YOU_BEEN_LINE_0</string>
+              <string>OWL_BRAG_GUY_QUOTES_GET_WHERE_YOU_BEEN_LINE_1</string>
+              <string>OWL_BRAG_GUY_QUOTES_GET_WHERE_YOU_BEEN_LINE_2</string>
+              <string>OWL_BRAG_GUY_QUOTES_GET_WHERE_YOU_BEEN_LINE_3</string>
+          </lines>
+        </OldManQuote>
+      </quotes>
+    </OldManFlagQuote-->
+  </flag_quotes>
+
+  <achievements>
+  </achievements>
+
+  <looping_lines>
+
+    <OldManQuote>
+      <lines>
+        <string>OWL_BRAG_GUY_QUOTES_NOT_WORTH_IT_LINE_0</string>
+        <string>OWL_BRAG_GUY_QUOTES_NOT_WORTH_IT_LINE_1</string>
+        <string>OWL_BRAG_GUY_QUOTES_NOT_WORTH_IT_LINE_2</string>
+        <string>OWL_BRAG_GUY_QUOTES_NOT_WORTH_IT_LINE_3</string>
+      </lines>
+    </OldManQuote>
+
+    <OldManQuote>
+      <lines>
+        <string>OWL_BRAG_GUY_QUOTES_BABES_ARE_THE_SAME_LINE_0</string>
+      </lines>
+    </OldManQuote>
+
+    <OldManQuote>
+      <lines>
+        <string>OWL_BRAG_GUY_QUOTES_YOU_THINK_AM_MISERABLE_LINE_0</string>
+        <string>OWL_BRAG_GUY_QUOTES_YOU_THINK_AM_MISERABLE_LINE_1</string>
+        <string>OWL_BRAG_GUY_QUOTES_YOU_THINK_AM_MISERABLE_LINE_2</string>
+      </lines>
+    </OldManQuote>
+
+    <OldManQuote>
+      <lines>
+        <string>OWL_BRAG_GUY_QUOTES_SELF_HARMING_LINE_0</string>
+        <string>OWL_BRAG_GUY_QUOTES_SELF_HARMING_LINE_1</string>
+        <string>OWL_BRAG_GUY_QUOTES_SELF_HARMING_LINE_2</string>
+      </lines>
+    </OldManQuote>
+
+    <OldManQuote>
+      <lines>
+        <string>OWL_BRAG_GUY_QUOTES_HAVE_A_SEAT_LINE_0</string>
+        <string>OWL_BRAG_GUY_QUOTES_HAVE_A_SEAT_LINE_1</string>
+        <string>OWL_BRAG_GUY_QUOTES_HAVE_A_SEAT_LINE_2</string>
+        <string>OWL_BRAG_GUY_QUOTES_HAVE_A_SEAT_LINE_3</string>
+      </lines>
+    </OldManQuote>
+
+  </looping_lines>
+
+  <screens>
+
+    <OldManScreen>
+      <screen>110</screen>
+      <quotes>
+
+        <OldManQuote>
+          <lines>
+            <string>OWL_BRAG_GUY_QUOTES_COME_TO_YOUR_SENSES_LINE_0</string>
+            <string>OWL_BRAG_GUY_QUOTES_COME_TO_YOUR_SENSES_LINE_1</string>
+            <string>OWL_BRAG_GUY_QUOTES_COME_TO_YOUR_SENSES_LINE_2</string>
+          </lines>
+        </OldManQuote>
+
+        <OldManQuote>
+          <lines>
+            <string>OWL_BRAG_GUY_QUOTES_NO_RETRIBUTION_LINE_0</string>
+            <string>OWL_BRAG_GUY_QUOTES_NO_RETRIBUTION_LINE_1</string>
+            <string>OWL_BRAG_GUY_QUOTES_NO_RETRIBUTION_LINE_2</string>
+            <string>OWL_BRAG_GUY_QUOTES_NO_RETRIBUTION_LINE_3</string>
+          </lines>
+        </OldManQuote>
+
+        <OldManQuote>
+          <lines>
+            <string>OWL_BRAG_GUY_QUOTES_I_HAVE_SEEN_IT_ALL_LINE_0</string>
+            <string>OWL_BRAG_GUY_QUOTES_I_HAVE_SEEN_IT_ALL_LINE_1</string>
+            <string>OWL_BRAG_GUY_QUOTES_I_HAVE_SEEN_IT_ALL_LINE_2</string>
+            <string>OWL_BRAG_GUY_QUOTES_I_HAVE_SEEN_IT_ALL_LINE_3</string>
+          </lines>
+        </OldManQuote>
+
+      </quotes>
+    </OldManScreen>
+
+    <OldManScreen>
+      <screen>119</screen>
+      <quotes>
+
+        <OldManQuote>
+          <lines>
+            <string>OWL_BRAG_GUY_QUOTES_NASTY_WITCH_LINE_0</string>
+            <string>OWL_BRAG_GUY_QUOTES_NASTY_WITCH_LINE_1</string>
+            <string>OWL_BRAG_GUY_QUOTES_NASTY_WITCH_LINE_2</string>
+            <string>OWL_BRAG_GUY_QUOTES_NASTY_WITCH_LINE_3</string>
+          </lines>
+        </OldManQuote>
+
+        <OldManQuote>
+          <lines>
+            <string>OWL_BRAG_GUY_QUOTES_NONSENSE_LINE_0</string>
+            <string>OWL_BRAG_GUY_QUOTES_NONSENSE_LINE_1</string>
+            <string>OWL_BRAG_GUY_QUOTES_NONSENSE_LINE_2</string>
+            <string>OWL_BRAG_GUY_QUOTES_NONSENSE_LINE_3</string>
+            <string>OWL_BRAG_GUY_QUOTES_NONSENSE_LINE_4</string>
+          </lines>
+        </OldManQuote>
+
+        <OldManQuote>
+          <lines>
+            <string>OWL_BRAG_GUY_QUOTES_I_Dont_NEED_HER_LINE_0</string>
+            <string>OWL_BRAG_GUY_QUOTES_I_Dont_NEED_HER_LINE_1</string>
+            <string>OWL_BRAG_GUY_QUOTES_I_Dont_NEED_HER_LINE_2</string>
+            <string>OWL_BRAG_GUY_QUOTES_I_Dont_NEED_HER_LINE_3</string>
+            <string>OWL_BRAG_GUY_QUOTES_I_Dont_NEED_HER_LINE_4</string>
+          </lines>
+        </OldManQuote>
+
+      </quotes>
+    </OldManScreen>
+
+    <OldManScreen>
+      <screen>124</screen>
+      <quotes>
+
+        <OldManQuote>
+          <lines>
+            <string>OWL_BRAG_GUY_QUOTES_USED_TO_BE_NAIVE_LINE_0</string>
+            <string>OWL_BRAG_GUY_QUOTES_USED_TO_BE_NAIVE_LINE_1</string>
+            <string>OWL_BRAG_GUY_QUOTES_USED_TO_BE_NAIVE_LINE_2</string>
+          </lines>
+        </OldManQuote>
+
+        <OldManQuote>
+          <lines>
+            <string>OWL_BRAG_GUY_QUOTES_WHERE_WE_WILL_END_UP_LINE_0</string>
+            <string>OWL_BRAG_GUY_QUOTES_WHERE_WE_WILL_END_UP_LINE_1</string>
+            <string>OWL_BRAG_GUY_QUOTES_WHERE_WE_WILL_END_UP_LINE_2</string>
+            <string>OWL_BRAG_GUY_QUOTES_WHERE_WE_WILL_END_UP_LINE_3</string>
+            <string>OWL_BRAG_GUY_QUOTES_WHERE_WE_WILL_END_UP_LINE_4</string>
+          </lines>
+        </OldManQuote>
+
+        <OldManQuote>
+          <lines>
+            <string>OWL_BRAG_GUY_QUOTES_ONCE_LIKE_YOU_LINE_0</string>
+            <string>OWL_BRAG_GUY_QUOTES_ONCE_LIKE_YOU_LINE_1</string>
+            <string>OWL_BRAG_GUY_QUOTES_ONCE_LIKE_YOU_LINE_2</string>
+          </lines>
+        </OldManQuote>
+
+      </quotes>
+    </OldManScreen>
+
+  </screens>
+</OldManSettings>
+

@@ -1,0 +1,120 @@
+<?xml version="1.0"?>
+<OldManSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+  <!-- ??? -->
+  <name>stoneman4</name>
+  <sprite_cells>
+    <X>2</X>
+    <Y>1</Y>
+  </sprite_cells>
+  <random_count>1</random_count>
+  <position>
+    <X>24</X>
+    <Y>104</Y>
+  </position>
+  <home_screen>68</home_screen>
+  <font>Default</font>
+
+  <talk_animation>
+  	<frames>
+  		<AnimationFrame>
+  			<sprite_index>0</sprite_index>
+  			<duration>0.2</duration>
+  		</AnimationFrame>
+  		<AnimationFrame>
+  			<sprite_index>1</sprite_index>
+  			<duration>0.2</duration>
+  		</AnimationFrame>
+  	</frames>
+  </talk_animation>
+
+  <busy_animation>
+  	<frames>
+  		<AnimationFrame>
+  			<sprite_index>0</sprite_index>
+  			<duration>1</duration>
+  		</AnimationFrame>
+  	</frames>
+  </busy_animation>
+
+  <bubble_format>
+    <direction>Right</direction>
+    <anchor>
+      <X>Left</X>
+      <Y>Down</Y>
+    </anchor>
+    <width>120</width>
+  </bubble_format>
+
+  <trigger_box>
+    <screen_rect>
+      <X>8</X>
+      <Y>82</Y>
+      <Width>48</Width>
+      <Height>22</Height>
+    </screen_rect>
+  </trigger_box>
+
+  <talk_delay>1</talk_delay>
+  <talking_speed>0.09</talking_speed>
+
+  <intro_quote>
+  	<lines>
+      <string>STONEMAN4_QUOTES_WATCH_OUT_FOR_WIND_LINE_0</string>
+      <string>STONEMAN4_QUOTES_WATCH_OUT_FOR_WIND_LINE_1</string>
+      <string>STONEMAN4_QUOTES_WATCH_OUT_FOR_WIND_LINE_2</string>
+      <string>STONEMAN4_QUOTES_WATCH_OUT_FOR_WIND_LINE_3</string>
+  	</lines>
+  </intro_quote>
+
+  <!--victory_quote>
+    <lines>
+      <string>STONEMAN4_QUOTES_HIHIHI_LINE_0</string>
+    </lines>
+  </victory_quote-->
+
+  <achievements>
+  </achievements>
+
+  <looping_lines>
+    <OldManQuote>
+      <lines>
+        <string>STONEMAN4_QUOTES_TOP_TACTICIAN_LINE_0</string>
+        <string>STONEMAN4_QUOTES_TOP_TACTICIAN_LINE_1</string>
+        <string>STONEMAN4_QUOTES_TOP_TACTICIAN_LINE_2</string>
+        <string>STONEMAN4_QUOTES_TOP_TACTICIAN_LINE_3</string>
+      </lines>
+    </OldManQuote>
+
+    <OldManQuote>
+      <lines>
+        <string>STONEMAN4_QUOTES_TOWN_INSIDE_OUT_LINE_0</string>
+        <string>STONEMAN4_QUOTES_TOWN_INSIDE_OUT_LINE_1</string>
+        <string>STONEMAN4_QUOTES_TOWN_INSIDE_OUT_LINE_2</string>
+        <string>STONEMAN4_QUOTES_TOWN_INSIDE_OUT_LINE_3</string>
+      </lines>
+    </OldManQuote>
+
+    <OldManQuote>
+      <lines>
+        <string>STONEMAN4_QUOTES_SECRET_STRATEGY_LINE_0</string>
+        <string>STONEMAN4_QUOTES_SECRET_STRATEGY_LINE_1</string>
+        <string>STONEMAN4_QUOTES_SECRET_STRATEGY_LINE_2</string>
+      </lines>
+    </OldManQuote>
+  </looping_lines>
+
+  <screens>
+
+    <!--OldManScreen>
+      <screen>67</screen>
+      <quotes>
+
+        
+
+      </quotes>
+    </OldManScreen-->
+
+  </screens>
+</OldManSettings>
+

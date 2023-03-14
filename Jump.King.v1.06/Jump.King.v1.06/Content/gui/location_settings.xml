@@ -1,0 +1,198 @@
+<?xml version="1.0"?>
+<LocationSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <locations>
+
+    <Location>
+      <start>1</start>
+      <end>6</end>
+      <unlock>2</unlock>
+      <name>LOCATION_REDCROWN_WOODS</name>
+    </Location>
+
+    <Location>
+      <start>6</start>
+      <end>10</end>
+      <unlock>6</unlock>
+      <name>LOCATION_COLOSSAL_DRAIN</name>
+    </Location>
+
+    <Location>
+      <start>10</start>
+      <end>14</end>
+      <unlock>11</unlock>
+      <name>LOCATION_FALSE_KINGS_KEEP</name>
+    </Location>
+
+    <Location>
+      <start>15</start>
+      <end>19</end>
+      <unlock>15</unlock>
+      <name>LOCATION_BARGAINBURG</name>
+    </Location>
+
+    <Location>
+      <start>20</start>
+      <end>25</end>
+      <unlock>20</unlock>
+      <name>LOCATION_GREAT_FRONTIER</name>
+    </Location>
+
+    <Location>
+      <start>26</start>
+      <end>26</end>
+      <unlock>26</unlock>
+      <name>LOCATION_WINDSWEPT_BLUFF</name>
+    </Location>
+
+    <Location>
+      <start>27</start>
+      <end>32</end>
+      <unlock>27</unlock>
+      <name>LOCATION_STORMWALL_PASS</name>
+    </Location>
+
+    <Location>
+      <start>32</start>
+      <end>36</end>
+      <unlock>33</unlock>
+      <name>LOCATION_CHAPEL_PERILOUS</name>
+    </Location>
+
+    <Location>
+      <start>37</start>
+      <end>39</end>
+      <unlock>37</unlock>
+      <name>LOCATION_BLUE_RUIN</name>
+    </Location>
+
+    <Location>
+      <start>40</start>
+      <end>43</end>
+      <unlock>40</unlock>
+      <name>LOCATION_THE_TOWER</name>
+    </Location>
+
+    <Location>
+      <start>47</start>
+      <end>52</end>
+      <unlock>47</unlock>
+      <name>LOCATION_BRIGHTCROWN_WOODS</name>
+    </Location>
+
+    <Location>
+      <start>53</start>
+      <end>58</end>
+      <unlock>53</unlock>
+      <name>LOCATION_COLOSSAL_DUNGEON</name>
+    </Location>
+
+    <Location>
+      <start>58</start>
+      <end>62</end>
+      <unlock>60</unlock>
+      <name>LOCATION_FALSE_KINGS_CASTLE</name>
+    </Location>
+
+    <Location>
+      <start>63</start>
+      <end>70</end>
+      <unlock>64</unlock>
+      <name>LOCATION_UNDERBURG</name>
+    </Location>
+
+    <Location>
+      <start>71</start>
+      <end>77</end>
+      <unlock>71</unlock>
+      <name>LOCATION_LOST_FRONTIER</name>
+    </Location>
+
+    <Location>
+      <start>77</start>
+      <end>83</end>
+      <unlock>78</unlock>
+      <name>LOCATION_HIDDEN_KINGDOM</name>
+    </Location>
+
+    <Location>
+      <start>84</start>
+      <end>89</end>
+      <unlock>84</unlock>
+      <name>LOCATION_BLACK_SANCTUM</name>
+    </Location>
+
+    <Location>
+      <start>90</start>
+      <end>95</end>
+      <unlock>90</unlock>
+      <name>LOCATION_DEEP_RUIN</name>
+    </Location>
+
+    <Location>
+      <start>95</start>
+      <end>100</end>
+      <unlock>95</unlock>
+      <name>LOCATION_THE_DARK_TOWER</name>
+    </Location>
+
+    <!--owl-->
+
+    <Location>
+      <start>157</start>
+      <end>160</end>
+      <unlock>157</unlock>
+      <name>LOCATION_PHILOSOPHERS_FOREST</name>
+    </Location>
+
+    <Location>
+      <start>102</start>
+      <end>108</end>
+      <unlock>102</unlock>
+      <name>LOCATION_BOG</name>
+    </Location>
+
+    <Location>
+      <start>109</start>
+      <end>116</end>
+      <unlock>110</unlock>
+      <name>LOCATION_MOULDING_MANOR</name>
+    </Location>
+
+    <Location>
+      <start>117</start>
+      <end>122</end>
+      <unlock>117</unlock>
+      <name>LOCATION_BUGSTALK</name>
+    </Location>
+
+    <Location>
+      <start>124</start>
+      <end>130</end>
+      <unlock>124</unlock>
+      <name>LOCATION_HOUSE_OF_NINE_LIVES</name>
+    </Location>
+
+    <Location>
+      <start>132</start>
+      <end>138</end>
+      <unlock>132</unlock>
+      <name>LOCATION_THE_PHANTOM_TOWER</name>
+    </Location>
+
+    <Location>
+      <start>140</start>
+      <end>147</end>
+      <unlock>140</unlock>
+      <name>LOCATION_HALTED_RUIN</name>
+    </Location>
+
+    <Location>
+      <start>148</start>
+      <end>155</end>
+      <unlock>148</unlock>
+      <name>LOCATION_THE_TOWER_OF_ANTUMBRA</name>
+    </Location>
+
+  </locations>
+</LocationSettings>
+

@@ -1,0 +1,173 @@
+<?xml version="1.0"?>
+<OldManSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+  <!-- ??? -->
+  <name>imp</name>
+  <sprite_cells>
+    <X>2</X>
+    <Y>2</Y>
+  </sprite_cells>
+  <random_count>3</random_count>
+  <position>
+    <X>128</X>
+    <Y>296</Y>
+  </position>
+  <home_screen>45</home_screen>
+  <font>Gargoyle</font>
+
+  <talk_animation>
+  	<frames>
+  		<AnimationFrame>
+  			<sprite_index>0</sprite_index>
+  			<duration>0.2</duration>
+  		</AnimationFrame>
+  		<AnimationFrame>
+  			<sprite_index>3</sprite_index>
+  			<duration>0.2</duration>
+  		</AnimationFrame>
+  	</frames>
+  </talk_animation>
+
+  <busy_animation>
+  	<frames>
+  		<AnimationFrame>
+  			<sprite_index>1</sprite_index>
+  			<duration>1</duration>
+  		</AnimationFrame>
+  	</frames>
+  </busy_animation>
+
+  <bubble_format>
+    <direction>Right</direction>
+    <anchor>
+      <X>Left</X>
+      <Y>Down</Y>
+    </anchor>
+    <width>160</width>
+  </bubble_format>
+
+  <trigger_box>
+    <center_x>0.5</center_x>
+    <center_y>0.5</center_y>
+    <width>80</width>
+    <height>50</height>
+  </trigger_box>
+
+  <talk_delay>1</talk_delay>
+  <talking_speed>0.09</talking_speed>
+
+  <intro_quote>
+  	<lines>
+      <string>IMP_QUOTES_BABE_OF_LEGEND_LINE_0</string>
+  		<string>IMP_QUOTES_BABE_OF_LEGEND_LINE_1</string>
+      <string>IMP_QUOTES_BABE_OF_LEGEND_LINE_2</string>
+      <string>IMP_QUOTES_BABE_OF_LEGEND_LINE_3</string>
+      <string>IMP_QUOTES_BABE_OF_LEGEND_LINE_4</string>
+  	</lines>
+  </intro_quote>
+
+  <flag_quotes>
+    <OldManFlagQuote>
+      <flag>CompletedNormalGame</flag>
+      <quotes>
+        <OldManQuote>
+          <lines>
+              <string>IMP_QUOTES_PITIFUL_DELUSION_LINE_0</string>
+              <string>IMP_QUOTES_PITIFUL_DELUSION_LINE_1</string>
+              <string>IMP_QUOTES_PITIFUL_DELUSION_LINE_2</string>
+          </lines>
+        </OldManQuote>
+      </quotes>
+    </OldManFlagQuote>
+  </flag_quotes>
+
+  <achievements>
+  </achievements>
+
+  <screens>
+
+    <OldManScreen>
+      <screen>2</screen>
+      <quotes>
+
+        <OldManQuote>
+          <lines>
+            <string>IMP_QUOTES_PEAK_OF_ABILITY_LINE_0</string>
+            <string>IMP_QUOTES_PEAK_OF_ABILITY_LINE_1</string>
+            <string>IMP_QUOTES_PEAK_OF_ABILITY_LINE_2</string>
+            <string>IMP_QUOTES_PEAK_OF_ABILITY_LINE_3</string>
+            <string>IMP_QUOTES_PEAK_OF_ABILITY_LINE_4</string>
+          </lines>
+        </OldManQuote>
+
+        <OldManQuote>
+          <lines>
+            <string>IMP_QUOTES_CAME_FROM_THE_MUD_LINE_0</string>
+            <string>IMP_QUOTES_CAME_FROM_THE_MUD_LINE_1</string>
+            <string>IMP_QUOTES_CAME_FROM_THE_MUD_LINE_2</string>
+          </lines>
+        </OldManQuote>
+
+        <OldManQuote>
+          <lines>
+            <string>IMP_QUOTES_BLOOD_NOT_OF_KING_LINE_0</string>
+            <string>IMP_QUOTES_BLOOD_NOT_OF_KING_LINE_1</string>
+            <string>IMP_QUOTES_BLOOD_NOT_OF_KING_LINE_2</string>
+            <string>IMP_QUOTES_BLOOD_NOT_OF_KING_LINE_3</string>
+            <string>IMP_QUOTES_BLOOD_NOT_OF_KING_LINE_4</string>
+          </lines>
+        </OldManQuote>
+
+        <OldManQuote>
+          <lines>
+            <string>IMP_QUOTES_BIRDS_FLY_MEN_FALL_LINE_0</string>
+            <string>IMP_QUOTES_BIRDS_FLY_MEN_FALL_LINE_1</string>
+            <string>IMP_QUOTES_BIRDS_FLY_MEN_FALL_LINE_2</string>
+            <string>IMP_QUOTES_BIRDS_FLY_MEN_FALL_LINE_3</string>
+          </lines>
+        </OldManQuote>
+
+        <OldManQuote>
+          <lines>
+            <string>IMP_QUOTES_MEN_MADE_OF_FIBRE_LINE_0</string>
+            <string>IMP_QUOTES_MEN_MADE_OF_FIBRE_LINE_1</string>
+            <string>IMP_QUOTES_MEN_MADE_OF_FIBRE_LINE_2</string>
+          </lines>
+        </OldManQuote>
+
+      </quotes>
+    </OldManScreen>
+
+    <OldManScreen>
+      <screen>27</screen>
+      <quotes>
+
+        <OldManQuote>
+          <lines>
+            <string>IMP_QUOTES_MAN_WINGED_AND_FREE_LINE_0</string>
+            <string>IMP_QUOTES_MAN_WINGED_AND_FREE_LINE_1</string>
+            <string>IMP_QUOTES_MAN_WINGED_AND_FREE_LINE_2</string>
+            </lines>
+        </OldManQuote>
+
+        <OldManQuote>
+          <lines>
+            <string>IMP_QUOTES_FEET_FOR_CRAWLING_LINE_0</string>
+            <string>IMP_QUOTES_FEET_FOR_CRAWLING_LINE_1</string>
+            </lines>
+        </OldManQuote>
+
+        <OldManQuote>
+          <lines>
+            <string>IMP_QUOTES_BIRDS_FLY_MEN_DO_NOT_LINE_0</string>
+            <string>IMP_QUOTES_BIRDS_FLY_MEN_DO_NOT_LINE_1</string>
+            <string>IMP_QUOTES_BIRDS_FLY_MEN_DO_NOT_LINE_2</string>
+          </lines>
+        </OldManQuote>
+
+      </quotes>
+    </OldManScreen>
+
+  </screens>
+</OldManSettings>
+

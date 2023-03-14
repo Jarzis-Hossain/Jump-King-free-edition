@@ -1,0 +1,31 @@
+{
+    "clientId": "52640471804173750",
+    "gameId": "1644859307",
+    "language": "English",
+    "languages": [
+        "en-US"
+    ],
+    "name": "Jump King",
+    "playTasks": [
+        {
+            "category": "game",
+            "isPrimary": true,
+            "languages": [
+                "pt-BR",
+                "fr-FR",
+                "en-US",
+                "ja-JP",
+                "de-DE",
+                "zh-Hant",
+                "es-ES",
+                "ru-RU",
+                "zh-Hans"
+            ],
+            "name": "Jump King",
+            "path": "JumpKing.exe",
+            "type": "FileTask"
+        }
+    ],
+    "rootGameId": "1644859307",
+    "version": 1
+}

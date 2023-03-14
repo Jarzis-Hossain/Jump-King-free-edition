@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<AchievementHitbox xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<code>FIND_NOSE</code>
+	<screen>71</screen>
+  	<hitbox>
+  		<X>72</X>
+        <Y>280</Y>
+        <Width>13</Width>
+        <Height>8</Height>
+  	</hitbox>
+</AchievementHitbox>

@@ -1,0 +1,336 @@
+<?xml version="1.0"?>
+<MerchantSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+  <sale_item>Shoes</sale_item>
+  <currency_type>GoldRing</currency_type>
+  <price_increase>1</price_increase>
+
+  <sale_achievements>
+    <SaleAchievement>
+      <sell_amount>1</sell_amount>
+      <code>PURCHASE_SHOES</code>
+    </SaleAchievement>
+    <SaleAchievement>
+      <sell_amount>10</sell_amount>
+      <code>PURCHASE_FOR_10</code>
+    </SaleAchievement>
+  </sale_achievements>
+
+  <sale_lines>
+    <OldManQuote>
+      <lines>
+        <string>MERCHANT_QUOTES_BOOTS_STAND_STEADY_LINE_0</string>
+        <string>MERCHANT_QUOTES_BOOTS_STAND_STEADY_LINE_1</string>
+        <string>MERCHANT_QUOTES_BOOTS_STAND_STEADY_LINE_2</string>
+      </lines>
+    </OldManQuote>
+
+    <OldManQuote>
+      <lines>
+        <string>MERCHANT_QUOTES_BOOTS_TIRED_OF_FALLING_LINE_0</string>
+        <string>MERCHANT_QUOTES_BOOTS_TIRED_OF_FALLING_LINE_1</string>
+        <string>MERCHANT_QUOTES_BOOTS_TIRED_OF_FALLING_LINE_2</string>
+      </lines>
+    </OldManQuote>
+
+    <OldManQuote>
+      <lines>
+        <string>MERCHANT_QUOTES_BOOTS_SOAR_SKY_BIRD_LINE_0</string>
+        <string>MERCHANT_QUOTES_BOOTS_SOAR_SKY_BIRD_LINE_1</string>
+      </lines>
+    </OldManQuote>
+
+    <OldManQuote>
+      <lines>
+        <string>MERCHANT_QUOTES_BOOTS_WORK_OF_ART_LINE_0</string>
+        <string>MERCHANT_QUOTES_BOOTS_WORK_OF_ART_LINE_1</string>
+        <string>MERCHANT_QUOTES_BOOTS_WORK_OF_ART_LINE_2</string>
+      </lines>
+    </OldManQuote>
+
+    <OldManQuote>
+      <lines>
+        <string>MERCHANT_QUOTES_BOOTS_FEEL_LIKE_FLYING_LINE_0</string>
+        <string>MERCHANT_QUOTES_BOOTS_FEEL_LIKE_FLYING_LINE_1</string>
+        <string>MERCHANT_QUOTES_BOOTS_FEEL_LIKE_FLYING_LINE_2</string>
+        <string>MERCHANT_QUOTES_BOOTS_FEEL_LIKE_FLYING_LINE_3</string>
+      </lines>
+    </OldManQuote>
+
+    <OldManQuote>
+      <lines>
+        <string>MERCHANT_QUOTES_BOOTS_GOODBYE_TO_FALLING_LINE_0</string>
+        <string>MERCHANT_QUOTES_BOOTS_GOODBYE_TO_FALLING_LINE_1</string>
+        <string>MERCHANT_QUOTES_BOOTS_GOODBYE_TO_FALLING_LINE_2</string>
+      </lines>
+    </OldManQuote>
+
+    <OldManQuote>
+      <lines>
+        <string>MERCHANT_QUOTES_BOOTS_HITTING_FACE_LINE_0</string>
+        <string>MERCHANT_QUOTES_BOOTS_HITTING_FACE_LINE_1</string>
+        <string>MERCHANT_QUOTES_BOOTS_HITTING_FACE_LINE_2</string>
+      </lines>
+    </OldManQuote>
+
+    <OldManQuote>
+      <lines>
+        <string>MERCHANT_QUOTES_BOOTS_REACH_BABE_LUCK_LINE_0</string>
+        <string>MERCHANT_QUOTES_BOOTS_REACH_BABE_LUCK_LINE_1</string>
+        <string>MERCHANT_QUOTES_BOOTS_REACH_BABE_LUCK_LINE_2</string>
+      </lines>
+    </OldManQuote>
+
+    <OldManQuote>
+      <lines>
+        <string>MERCHANT_QUOTES_BOOTS_EXTRA_SALE_LINE_0</string>
+        <string>MERCHANT_QUOTES_BOOTS_EXTRA_SALE_LINE_1</string>
+        <string>MERCHANT_QUOTES_BOOTS_EXTRA_SALE_LINE_2</string>
+      </lines>
+    </OldManQuote>
+
+    <OldManQuote>
+      <lines>
+        <string>MERCHANT_QUOTES_BOOTS_LUXURIOUS_SNAKE_LINE_0</string>
+        <string>MERCHANT_QUOTES_BOOTS_LUXURIOUS_SNAKE_LINE_1</string>
+        <string>MERCHANT_QUOTES_BOOTS_LUXURIOUS_SNAKE_LINE_2</string>
+      </lines>
+    </OldManQuote>
+
+    <OldManQuote>
+      <lines>
+        <string>MERCHANT_QUOTES_BOOTS_STOCK_LOW_LINE_0</string>
+        <string>MERCHANT_QUOTES_BOOTS_STOCK_LOW_LINE_1</string>
+        <string>MERCHANT_QUOTES_BOOTS_STOCK_LOW_LINE_2</string>
+      </lines>
+    </OldManQuote>
+   </sale_lines>
+
+
+
+  <sell_quote>
+    <lines>
+      <string>MERCHANT_QUOTES_BOOTS_HAVE_GOLD_LEAP_AWAY_LINE_0</string>
+      <string>MERCHANT_QUOTES_BOOTS_HAVE_GOLD_LEAP_AWAY_LINE_1</string>
+      <string>MERCHANT_QUOTES_BOOTS_HAVE_GOLD_LEAP_AWAY_LINE_2</string>
+      <string>MERCHANT_QUOTES_BOOTS_HAVE_GOLD_LEAP_AWAY_LINE_3</string>
+    </lines>
+  </sell_quote>
+
+  <sold_lines>
+    <OldManQuote>
+      <lines>
+        <string>MERCHANT_QUOTES_LOOKING_GOOD_LINE_0</string>
+      </lines>
+    </OldManQuote>
+
+    <OldManQuote>
+      <lines>
+        <string>MERCHANT_QUOTES_WORLD_OF_DIFFERENCE_LINE_0</string>
+        <string>MERCHANT_QUOTES_WORLD_OF_DIFFERENCE_LINE_1</string>
+      </lines>
+    </OldManQuote>
+
+    <OldManQuote>
+      <lines>
+        <string>MERCHANT_QUOTES_PLEASURE_DOING_BUSINESS_LINE_0</string>
+        <string>MERCHANT_QUOTES_PLEASURE_DOING_BUSINESS_LINE_1</string>
+      </lines>
+    </OldManQuote>
+  </sold_lines>
+
+  <no_gold_lines>
+
+    <OldManQuote>
+      <lines>
+        <string>MERCHANT_QUOTES_NO_GOLD_PRICE_POINT_MINIMUM_LINE_0</string>
+      </lines>
+    </OldManQuote>
+
+    <OldManQuote>
+      <lines>
+        <string>MERCHANT_QUOTES_NO_GOLD_HUMBLE_CHARITY_LINE_0</string>
+      </lines>
+    </OldManQuote>
+
+    <OldManQuote>
+      <lines>
+        <string>MERCHANT_QUOTES_NO_GOLD_STEEP_PRICE_LINE_0</string>
+      </lines>
+    </OldManQuote>
+
+    <OldManQuote>
+      <lines>
+        <string>MERCHANT_QUOTES_NO_GOLD_AS_USUAL_LINE_0</string>
+      </lines>
+    </OldManQuote>
+
+    <OldManQuote>
+      <lines>
+        <string>MERCHANT_QUOTES_NO_GOLD_FIND_GOLD_ONE_DAY_LINE_0</string>
+      </lines>
+    </OldManQuote>
+
+    <OldManQuote>
+      <lines>
+        <string>MERCHANT_QUOTES_NO_GOLD_BROKE_SAID_SO_LINE_0</string>
+      </lines>
+    </OldManQuote>
+
+    <OldManQuote>
+      <lines>
+        <string>MERCHANT_QUOTES_NO_GOLD_OH_WELL_LINE_0</string>
+      </lines>
+    </OldManQuote>
+
+    <OldManQuote>
+      <lines>
+        <string>MERCHANT_QUOTES_NO_GOLD_WHAT_A_SHAME_LINE_0</string>
+      </lines>
+    </OldManQuote>
+
+    <OldManQuote>
+      <lines>
+        <string>MERCHANT_QUOTES_NO_GOLD_TIMES_ARE_HARD_LINE_0</string>
+      </lines>
+    </OldManQuote>
+
+  </no_gold_lines>
+
+  <!-- _________________________________________________________________________________ -->
+
+  <settings>
+  <!-- ??? -->
+  <name>merchant</name>
+  <sprite_cells>
+    <X>2</X>
+    <Y>2</Y>
+  </sprite_cells>
+  <random_count>3</random_count>
+  <position>
+    <X>50</X>
+    <Y>304</Y>
+  </position>
+  <home_screen>15</home_screen>
+
+  <talk_animation>
+  	<frames>
+  		<AnimationFrame>
+  			<sprite_index>0</sprite_index>
+  			<duration>0.2</duration>
+  		</AnimationFrame>
+  		<AnimationFrame>
+  			<sprite_index>3</sprite_index>
+  			<duration>0.2</duration>
+  		</AnimationFrame>
+  	</frames>
+  </talk_animation>
+
+  <busy_animation>
+  	<frames>
+
+  		<AnimationFrame>
+  			<sprite_index>0</sprite_index>
+  			<duration>0.3</duration>
+  		</AnimationFrame>
+  		<AnimationFrame>
+  			<sprite_index>1</sprite_index>
+  			<duration>0.3</duration>
+  		</AnimationFrame>
+
+  	</frames>
+  </busy_animation>
+
+  <bubble_format>
+    <direction>Right</direction>
+    <anchor>
+      <X>Left</X>
+      <Y>Down</Y>
+    </anchor>
+    <width>160</width>
+  </bubble_format>
+
+  <trigger_box>
+    <center_x>0.5</center_x>
+    <center_y>0.5</center_y>
+    <width>80</width>
+    <height>50</height>
+  </trigger_box>
+
+  <talk_delay>1</talk_delay>
+
+  <intro_quote>
+  	<lines>
+  		<string>MERCHANT_QUOTES_GREETS_DISTINGUISHED_MASTER_LINE_0</string>
+      <string>MERCHANT_QUOTES_GREETS_DISTINGUISHED_MASTER_LINE_1</string>
+      <string>MERCHANT_QUOTES_GREETS_DISTINGUISHED_MASTER_LINE_2</string>
+      <string>MERCHANT_QUOTES_GREETS_DISTINGUISHED_MASTER_LINE_3</string>
+      <string>MERCHANT_QUOTES_GREETS_DISTINGUISHED_MASTER_LINE_4</string>
+      <string>MERCHANT_QUOTES_GREETS_DISTINGUISHED_MASTER_LINE_5</string>
+  	</lines>
+  </intro_quote>
+
+  <flag_quotes>
+    <OldManFlagQuote>
+      <flag>CompletedNormalGame</flag>
+      <quotes>
+        <OldManQuote>
+          <lines>
+              <string>MERCHANT_QUOTES_GREETS_PREMIUM_SELECTION_LINE_0</string>
+              <string>MERCHANT_QUOTES_GREETS_PREMIUM_SELECTION_LINE_1</string>
+              <string>MERCHANT_QUOTES_GREETS_PREMIUM_SELECTION_LINE_2</string>
+              <string>MERCHANT_QUOTES_GREETS_PREMIUM_SELECTION_LINE_3</string>
+              <string>MERCHANT_QUOTES_GREETS_PREMIUM_SELECTION_LINE_4</string>
+          </lines>
+        </OldManQuote>
+      </quotes>
+    </OldManFlagQuote>
+  </flag_quotes>
+
+  <achievements>
+    <OldmanTalkAchievement>
+      <code>TALK_MERCHANT_10</code>
+      <talk_times>4</talk_times>
+    </OldmanTalkAchievement>
+  </achievements>
+
+  <screens>
+
+    <OldManScreen>
+      <screen>2</screen>
+      <quotes>
+
+        <OldManQuote>
+          <lines>
+            <string>MERCHANT_QUOTES_RICH_FRIENDS_LINE_0</string>
+            <string>MERCHANT_QUOTES_RICH_FRIENDS_LINE_1</string>
+          </lines>
+        </OldManQuote>
+
+        <OldManQuote>
+          <lines>
+            <string>MERCHANT_QUOTES_HIDDEN_TREASURE_LINE_0</string>
+            <string>MERCHANT_QUOTES_HIDDEN_TREASURE_LINE_1</string>
+          </lines>
+        </OldManQuote>
+
+        <OldManQuote>
+          <lines>
+            <string>MERCHANT_QUOTES_OUT_OF_BUSINESS_LINE_0</string>
+          </lines>
+        </OldManQuote>
+
+        <OldManQuote>
+          <lines>
+            <string>MERCHANT_QUOTES_OFFER_WARES_LINE_0</string>
+            <string>MERCHANT_QUOTES_OFFER_WARES_LINE_1</string>
+          </lines>
+        </OldManQuote>
+
+      </quotes>
+    </OldManScreen>
+
+
+  </screens>
+  </settings>
+</MerchantSettings>

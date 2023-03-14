@@ -1,0 +1,155 @@
+<?xml version="1.0"?>
+<OldManSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+  <!-- ??? -->
+  <name>fairy3</name>
+  <sprite_cells>
+    <X>2</X>
+    <Y>1</Y>
+  </sprite_cells>
+  <random_count>2</random_count>
+  <position>
+    <X>279</X>
+    <Y>189</Y>
+  </position>
+  <home_screen>79</home_screen>
+  <font>Default</font>
+
+  <talk_animation>
+  	<frames>
+  		<AnimationFrame>
+  			<sprite_index>0</sprite_index>
+  			<duration>0.2</duration>
+  		</AnimationFrame>
+  		<AnimationFrame>
+  			<sprite_index>1</sprite_index>
+  			<duration>0.2</duration>
+  		</AnimationFrame>
+  	</frames>
+  </talk_animation>
+
+  <busy_animation>
+  	<frames>
+  		<AnimationFrame>
+  			<sprite_index>0</sprite_index>
+  			<duration>1</duration>
+  		</AnimationFrame>
+  	</frames>
+  </busy_animation>
+
+  <bubble_format>
+    <direction>Left</direction>
+    <anchor>
+      <X>Right</X>
+      <Y>Down</Y>
+    </anchor>
+    <width>160</width>
+  </bubble_format>
+
+  <trigger_box>
+    <screen_rect>
+      <X>256</X>
+      <Y>178</Y>
+      <Width>48</Width>
+      <Height>22</Height>
+    </screen_rect>
+  </trigger_box>
+
+  <talk_delay>1</talk_delay>
+  <talking_speed>0.09</talking_speed>
+
+  <!--intro_quote>
+  	<lines>
+      <string>FAIRY3_QUOTES_A_FRIEND_LINE_0</string>
+      <string>FAIRY3_QUOTES_A_FRIEND_LINE_1</string>
+      <string>FAIRY3_QUOTES_A_FRIEND_LINE_2</string>
+  	</lines>
+  </intro_quote>
+
+  <flag_quotes>
+    <OldManFlagQuote>
+      <flag>CompletedNBP</flag>
+      <quotes>
+        <OldManQuote>
+          <lines>
+            <string>FAIRY3_QUOTES_A_FRIEND_RETURNS_LINE_0</string>
+            <string>FAIRY3_QUOTES_A_FRIEND_RETURNS_LINE_1</string>
+            <string>FAIRY3_QUOTES_A_FRIEND_RETURNS_LINE_2</string>
+          </lines>
+        </OldManQuote>
+      </quotes>
+    </OldManFlagQuote>
+  </flag_quotes-->
+
+  <achievements>
+  </achievements>
+
+  <looping_lines>
+    <OldManQuote>
+      <lines>
+        <string>FAIRY3_QUOTES_STAY_A_WHILE_LONGER_LINE_0</string>
+        <string>FAIRY3_QUOTES_STAY_A_WHILE_LONGER_LINE_1</string>
+      </lines>
+    </OldManQuote>
+
+    <OldManQuote>
+      <lines>
+        <string>FAIRY3_QUOTES_NEVER_LEAVE_LINE_0</string>
+        <string>FAIRY3_QUOTES_NEVER_LEAVE_LINE_1</string>
+        <string>FAIRY3_QUOTES_NEVER_LEAVE_LINE_2</string>
+      </lines>
+    </OldManQuote>
+
+    <OldManQuote>
+      <lines>
+        <string>FAIRY3_QUOTES_YOURE_BACK_LINE_0</string>
+        <string>FAIRY3_QUOTES_YOURE_BACK_LINE_1</string>
+      </lines>
+    </OldManQuote>
+  </looping_lines>
+
+  <screens>
+
+    <!--OldManScreen>
+      <screen>79</screen>
+      <quotes>
+
+        <OldManQuote>
+          <lines>
+            <string>FAIRY3_QUOTES_JUMP_AROUND_LINE_0</string>
+            <string>FAIRY3_QUOTES_JUMP_AROUND_LINE_1</string>
+            <string>FAIRY3_QUOTES_JUMP_AROUND_LINE_2</string>
+            <string>FAIRY3_QUOTES_JUMP_AROUND_LINE_3</string>
+          </lines>
+        </OldManQuote>
+
+        <OldManQuote>
+          <lines>
+            <string>FAIRY3_QUOTES_STAY_LONGER_LINE_0</string>
+            <string>FAIRY3_QUOTES_STAY_LONGER_LINE_1</string>
+            <string>FAIRY3_QUOTES_STAY_LONGER_LINE_2</string>
+            <string>FAIRY3_QUOTES_STAY_LONGER_LINE_3</string>
+          </lines>
+        </OldManQuote>
+
+        <OldManQuote>
+          <lines>
+            <string>FAIRY3_QUOTES_STAY_FOREVER_LINE_0</string>
+            <string>FAIRY3_QUOTES_STAY_FOREVER_LINE_1</string>
+            <string>FAIRY3_QUOTES_STAY_FOREVER_LINE_2</string>
+          </lines>
+        </OldManQuote>
+
+        <OldManQuote>
+          <lines>
+            <string>FAIRY3_QUOTES_FAVOURITE_COLOR_LINE_0</string>
+            <string>FAIRY3_QUOTES_FAVOURITE_COLOR_LINE_1</string>
+          </lines>
+        </OldManQuote>
+
+      </quotes>
+    </OldManScreen-->
+
+  </screens>
+</OldManSettings>
+

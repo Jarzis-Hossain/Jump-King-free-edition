@@ -1,0 +1,139 @@
+<?xml version="1.0"?>
+<WeatherEffect xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+  <weathers>
+
+    <Weather>
+      <name>light_rain</name>
+      <fps>12</fps>
+      <screens>
+        <int>9</int>
+        <int>10</int>
+      </screens>
+    </Weather>
+    
+    <Weather>
+      <name>rain</name>
+      <fps>12</fps>
+      <screens>
+      	<int>11</int>
+      	<int>12</int>
+      	<int>13</int>
+      </screens>
+    </Weather>
+
+    <Weather>
+      <name>light_snow</name>
+      <fps>12</fps>
+      <foreground>true</foreground>
+      <screens>
+        <int>23</int>
+        <int>24</int>
+        <int>25</int>
+        <int>26</int>
+        <int>32</int>
+      </screens>
+    </Weather>
+
+    <Weather>
+      <name>light_snow_bg</name>
+      <fps>8</fps>
+      <screens>
+        <int>122</int>
+        <int>123</int>
+      </screens>
+    </Weather>
+    
+    <Weather>
+      <name>snow</name>
+      <fps>12</fps>
+      <foreground>true</foreground>
+      <screens>
+        <int>27</int>
+      	<int>28</int>
+      	<int>29</int>
+      	<int>30</int>
+      	<int>31</int> 	
+      </screens>
+    </Weather>
+
+    <Weather>
+      <name>snow_slow</name>
+      <fps>6</fps>
+      <foreground>true</foreground>
+      <screens>
+      	<int>124</int>
+      	<int>125</int>
+      	<int>126</int>
+      	<int>127</int>      	
+      	<int>128</int> 
+      	<int>129</int> 
+      	<int>130</int>
+      </screens>
+    </Weather>
+
+    <Weather>
+      <name>ash</name>
+      <fps>10</fps>
+      <foreground>true</foreground>
+      <screens>
+        <int>64</int>
+        <int>65</int>
+        <int>66</int>
+        <int>67</int>
+        <int>68</int>
+        <int>69</int>
+        <int>70</int>
+      </screens>
+    </Weather>
+
+    <Weather>
+      <name>lf_rain</name>
+      <fps>12</fps>
+      <screens>
+        <int>71</int>
+        <int>72</int>
+        <int>73</int>
+        <int>74</int>
+        <int>75</int>
+        <int>76</int>                        
+      </screens>
+    </Weather>
+
+    <Weather>
+      <name>bubbles</name>
+      <fps>6</fps>
+      <screens>
+        <int>90</int>
+        <int>91</int>
+        <int>92</int>
+        <int>93</int>
+        <int>94</int>
+        <int>95</int>
+        <int>102</int>
+        <int>103</int>
+        <int>104</int>
+        <int>105</int>
+        <int>106</int>
+        <int>107</int>                                
+      </screens>
+    </Weather>
+
+    <Weather>
+      <name>qs</name>
+      <fps>14</fps>
+      <foreground>true</foreground>      
+      <screens>
+        <int>148</int>                              
+        <int>149</int>
+        <int>150</int>
+        <int>151</int>
+        <int>152</int>
+        <int>153</int>
+        <int>154</int>
+      </screens>
+    </Weather>
+
+  </weathers>
+  
+</WeatherEffect>

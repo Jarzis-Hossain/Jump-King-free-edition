@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<PropCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+  <!-- Bonfire, DungeonTorch, Candle -->
+
+  <Props>
+
+    <PropData>
+      <type>cage_bird</type>
+      <Position>
+        <X>248</X>
+        <Y>256</Y>
+      </Position>
+      <flipped>false</flipped>
+    </PropData>
+
+    <PropData>
+      <type>cage_bird</type>
+      <Position>
+        <X>271</X>
+        <Y>167</Y>
+      </Position>
+      <flipped>true</flipped>
+    </PropData>
+
+    <PropData>
+      <type>cage_bird</type>
+      <Position>
+        <X>284</X>
+        <Y>167</Y>
+      </Position>
+      <flipped>false</flipped>
+    </PropData>
+
+    <PropData>
+      <type>cage_bird</type>
+      <Position>
+        <X>281</X>
+        <Y>137</Y>
+      </Position>
+      <flipped>true</flipped>
+    </PropData>
+
+    <PropData>
+      <type>cage_bird</type>
+      <Position>
+        <X>415</X>
+        <Y>69</Y>
+      </Position>
+      <flipped>true</flipped>
+    </PropData>
+
+    <PropData>
+      <type>cage_bird</type>
+      <Position>
+        <X>406</X>
+        <Y>103</Y>
+      </Position>
+      <flipped>true</flipped>
+    </PropData>
+
+    <PropData>
+      <type>cage_bird</type>
+      <Position>
+        <X>419</X>
+        <Y>103</Y>
+      </Position>
+      <flipped>false</flipped>
+    </PropData>
+
+    <PropData>
+      <type>cage_bird</type>
+      <Position>
+        <X>434</X>
+        <Y>261</Y>
+      </Position>
+      <flipped>false</flipped>
+    </PropData>
+
+  </Props>
+</PropCollection>

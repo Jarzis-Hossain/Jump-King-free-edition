@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<RaymanCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+  <walls>
+
+    <RaymanData>
+      <achievements>
+        <AchievementCode>GO_THOUGH_ILLUSORY_WALL</AchievementCode>
+      </achievements>
+
+      <texture_name>8_hidden_wall1_2</texture_name>
+      <Position>
+        <X>240</X>
+        <Y>303</Y>
+      </Position>
+       <hitboxes>
+          <Rectangle>
+              <X>0</X>
+              <Y>0</Y>
+              <Width>40</Width>
+              <Height>17</Height>
+          </Rectangle>
+
+          <Rectangle>
+              <X>0</X>
+              <Y>17</Y>
+              <Width>56</Width>
+              <Height>33</Height>
+          </Rectangle>
+
+      </hitboxes>
+    </RaymanData>
+
+    <RaymanData>
+      <achievements>
+        <AchievementCode>GO_THOUGH_ILLUSORY_WALL</AchievementCode>
+      </achievements>
+
+      <texture_name>8_hidden_wall1_1</texture_name>
+      <Position>
+        <X>152</X>
+        <Y>279</Y>
+      </Position>
+    </RaymanData>
+
+  </walls>
+</RaymanCollection>

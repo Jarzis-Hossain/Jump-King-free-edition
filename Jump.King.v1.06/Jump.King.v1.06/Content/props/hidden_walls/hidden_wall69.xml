@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<RaymanCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+  <walls>
+
+    <RaymanData>
+      <texture_name>69_hidden_wall_L</texture_name>
+      <use_screen_coords>true</use_screen_coords>
+      <Position>
+        <X>0</X>
+        <Y>152</Y>
+      </Position>
+       <hitboxes>
+          <Rectangle>
+              <X>8</X>
+              <Y>168</Y>
+              <Width>48</Width>
+              <Height>144</Height>
+          </Rectangle>
+
+          <Rectangle>
+              <X>56</X>
+              <Y>192</Y>
+              <Width>24</Width>
+              <Height>120</Height>
+          </Rectangle>
+
+          <Rectangle>
+              <X>8</X>
+              <Y>200</Y>
+              <Width>80</Width>
+              <Height>112</Height>
+          </Rectangle>
+
+      </hitboxes>
+    </RaymanData>
+
+    <RaymanData>
+      <texture_name>69_hidden_wall_R</texture_name>
+      <use_screen_coords>true</use_screen_coords>
+      <Position>
+        <X>397</X>
+        <Y>71</Y>
+      </Position>
+       <hitboxes>
+          <Rectangle>
+              <X>392</X>
+              <Y>96</Y>
+              <Width>80</Width>
+              <Height>144</Height>
+          </Rectangle>
+
+          <Rectangle>
+              <X>400</X>
+              <Y>88</Y>
+              <Width>72</Width>
+              <Height>152</Height>
+          </Rectangle>
+
+      </hitboxes>
+    </RaymanData>
+
+  </walls>
+</RaymanCollection>

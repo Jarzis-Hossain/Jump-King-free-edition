@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<PropCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+  <!-- Bonfire, DungeonTorch, Candle -->
+
+  <Props>
+
+    <PropData>
+      <type>DungeonTorch_green</type>
+      <Position>
+        <X>64</X>
+        <Y>60</Y>
+      </Position>
+      <flipped>false</flipped>
+    </PropData>
+
+    <PropData>
+      <type>DungeonTorch_green</type>
+      <Position>
+        <X>116</X>
+        <Y>60</Y>
+      </Position>
+      <flipped>false</flipped>
+    </PropData>
+
+    <PropData>
+      <type>DungeonTorch_green</type>
+      <Position>
+        <X>168</X>
+        <Y>60</Y>
+      </Position>
+      <flipped>false</flipped>
+    </PropData>
+
+    <PropData>
+      <type>DungeonTorch_green</type>
+      <Position>
+        <X>220</X>
+        <Y>60</Y>
+      </Position>
+      <flipped>false</flipped>
+    </PropData>
+
+    <PropData>
+      <type>DungeonTorch_green</type>
+      <Position>
+        <X>272</X>
+        <Y>60</Y>
+      </Position>
+      <flipped>false</flipped>
+    </PropData>
+
+  </Props>
+</PropCollection>

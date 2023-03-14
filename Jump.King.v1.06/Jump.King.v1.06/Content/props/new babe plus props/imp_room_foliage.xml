@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<PropCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+  <!-- Bonfire, DungeonTorch, Candle -->
+
+  <screen>18</screen>
+
+  <Props>
+
+    <PropData>
+      <type>nbp_entrance</type>
+      <Position>
+        <X>0</X>
+        <Y>152</Y>
+      </Position>
+      <flipped>false</flipped>
+    </PropData>
+
+    <PropData>
+      <type>light_particle</type>
+      <Position>
+        <X>0</X>
+        <Y>152</Y>
+      </Position>
+      <flipped>false</flipped>
+    </PropData>
+
+  </Props>
+</PropCollection>

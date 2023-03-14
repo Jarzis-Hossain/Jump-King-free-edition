@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<ScrollingBGdata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <scroll_speed>10</scroll_speed>
+
+  <layers>
+
+    <Layer>
+      <texture>clouds_vakttorn2</texture>
+      <position>350</position>
+      <scroll_multiplier>0.9</scroll_multiplier>
+    </Layer>
+
+  <Layer>
+      <texture>clouds_vakttorn1</texture>
+      <position>80</position>
+      <scroll_multiplier>1</scroll_multiplier>
+    </Layer>
+
+    <Layer>
+      <texture>clouds_vakttorn1</texture>
+      <position>220</position>
+      <scroll_multiplier>1.8</scroll_multiplier>
+    </Layer>
+
+  </layers>
+</ScrollingBGdata>

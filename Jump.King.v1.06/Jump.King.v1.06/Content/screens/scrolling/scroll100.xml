@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<ScrollingBGdata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <scroll_speed>10</scroll_speed>
+
+  <layers>
+
+    <Layer>
+      <texture>sky_dt_top</texture>
+      <position>360</position>
+      <scroll_multiplier>3.7</scroll_multiplier>
+    </Layer>
+
+    <Layer>
+      <texture>sky_dt_top2</texture>
+      <position>360</position>
+      <scroll_multiplier>-3.2</scroll_multiplier>
+    </Layer>
+
+  </layers>
+</ScrollingBGdata>

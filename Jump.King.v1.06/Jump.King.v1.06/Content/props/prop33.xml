@@ -1,0 +1,532 @@
+<?xml version="1.0"?>
+<PropCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+  <!-- Bonfire, DungeonTorch, Candle -->
+
+  <Props>
+Crown1
+
+Row top
+    <PropData>
+      <type>Candle</type>
+      <Position>
+        <X>126</X>
+        <Y>226</Y>
+      </Position>
+      <flipped>false</flipped>
+    </PropData>
+
+    <PropData>
+      <type>Candle</type>
+      <Position>
+        <X>141</X>
+        <Y>226</Y>
+      </Position>
+      <flipped>false</flipped>
+    </PropData>
+
+    <PropData>
+      <type>Candle</type>
+      <Position>
+        <X>156</X>
+        <Y>226</Y>
+      </Position>
+      <flipped>false</flipped>
+    </PropData>
+
+    <PropData>
+      <type>Candle</type>
+      <Position>
+        <X>172</X>
+        <Y>226</Y>
+      </Position>
+      <flipped>true</flipped>
+    </PropData>
+
+Row bottom
+    <PropData>
+      <type>Candle</type>
+      <Position>
+        <X>132</X>
+        <Y>243</Y>
+      </Position>
+      <flipped>true</flipped>
+    </PropData>
+
+    <PropData>
+      <type>Candle</type>
+      <Position>
+        <X>165</X>
+        <Y>243</Y>
+      </Position>
+      <flipped> false</flipped>
+    </PropData>
+
+    <PropData>
+      <type>Candle</type>
+      <Position>
+        <X>141</X>
+        <Y>243</Y>
+      </Position>
+      <flipped>true</flipped>
+    </PropData>
+
+    <PropData>
+      <type>Candle</type>
+      <Position>
+        <X>156</X>
+        <Y>243</Y>
+      </Position>
+      <flipped>false</flipped>
+    </PropData>
+
+Crown2
+
+    <PropData>
+      <type>Candle</type>
+      <Position>
+        <X>212</X>
+        <Y>215</Y>
+      </Position>
+      <flipped>false</flipped>
+    </PropData>
+
+    <PropData>
+      <type>Candle</type>
+      <Position>
+        <X>245</X>
+        <Y>215</Y>
+      </Position>
+      <flipped>true</flipped>
+    </PropData>
+
+    <PropData>
+      <type>Candle</type>
+      <Position>
+        <X>221</X>
+        <Y>215</Y>
+      </Position>
+      <flipped>false</flipped>
+    </PropData>
+
+    <PropData>
+      <type>Candle</type>
+      <Position>
+        <X>236</X>
+        <Y>215</Y>
+      </Position>
+      <flipped>false</flipped>
+    </PropData>
+
+    <PropData>
+      <type>Candle</type>
+      <Position>
+        <X>217</X>
+        <Y>223</Y>
+      </Position>
+      <flipped>true</flipped>
+    </PropData>
+
+    <PropData>
+      <type>Candle</type>
+      <Position>
+        <X>241</X>
+        <Y>223</Y>
+      </Position>
+      <flipped>false</flipped>
+    </PropData>
+
+Crown3
+
+    <PropData>
+      <type>Candle</type>
+      <Position>
+        <X>267</X>
+        <Y>151</Y>
+      </Position>
+      <flipped>false</flipped>
+    </PropData>
+
+    <PropData>
+      <type>Candle</type>
+      <Position>
+        <X>300</X>
+        <Y>151</Y>
+      </Position>
+      <flipped>false</flipped>
+    </PropData>
+
+    <PropData>
+      <type>Candle</type>
+      <Position>
+        <X>276</X>
+        <Y>151</Y>
+      </Position>
+      <flipped>true</flipped>
+    </PropData>
+
+    <PropData>
+      <type>Candle</type>
+      <Position>
+        <X>291</X>
+        <Y>151</Y>
+      </Position>
+      <flipped>false</flipped>
+    </PropData>
+
+    <PropData>
+      <type>Candle</type>
+      <Position>
+        <X>272</X>
+        <Y>159</Y>
+      </Position>
+      <flipped>true</flipped>
+    </PropData>
+
+    <PropData>
+      <type>Candle</type>
+      <Position>
+        <X>296</X>
+        <Y>159</Y>
+      </Position>
+      <flipped>false</flipped>
+    </PropData>
+
+Crown4
+
+    <PropData>
+      <type>Candle</type>
+      <Position>
+        <X>388</X>
+        <Y>79</Y>
+      </Position>
+      <flipped>false</flipped>
+    </PropData>
+
+    <PropData>
+      <type>Candle</type>
+      <Position>
+        <X>421</X>
+        <Y>79</Y>
+      </Position>
+      <flipped>false</flipped>
+    </PropData>
+
+    <PropData>
+      <type>Candle</type>
+      <Position>
+        <X>397</X>
+        <Y>79</Y>
+      </Position>
+      <flipped>true</flipped>
+    </PropData>
+
+    <PropData>
+      <type>Candle</type>
+      <Position>
+        <X>412</X>
+        <Y>79</Y>
+      </Position>
+      <flipped>false</flipped>
+    </PropData>
+
+    <PropData>
+      <type>Candle</type>
+      <Position>
+        <X>393</X>
+        <Y>87</Y>
+      </Position>
+      <flipped>true</flipped>
+    </PropData>
+
+    <PropData>
+      <type>Candle</type>
+      <Position>
+        <X>412</X>
+        <Y>87</Y>
+      </Position>
+      <flipped>false</flipped>
+    </PropData>
+
+Crown5
+
+    <PropData>
+      <type>Candle</type>
+      <Position>
+        <X>92</X>
+        <Y>135</Y>
+      </Position>
+      <flipped>false</flipped>
+    </PropData>
+
+    <PropData>
+      <type>Candle</type>
+      <Position>
+        <X>125</X>
+        <Y>135</Y>
+      </Position>
+      <flipped>false</flipped>
+    </PropData>
+
+    <PropData>
+      <type>Candle</type>
+      <Position>
+        <X>101</X>
+        <Y>135</Y>
+      </Position>
+      <flipped>true</flipped>
+    </PropData>
+
+    <PropData>
+      <type>Candle</type>
+      <Position>
+        <X>116</X>
+        <Y>135</Y>
+      </Position>
+      <flipped>false</flipped>
+    </PropData>
+
+    <PropData>
+      <type>Candle</type>
+      <Position>
+        <X>97</X>
+        <Y>143</Y>
+      </Position>
+      <flipped>true</flipped>
+    </PropData>
+
+    <PropData>
+      <type>Candle</type>
+      <Position>
+        <X>121</X>
+        <Y>143</Y>
+      </Position>
+      <flipped>false</flipped>
+    </PropData>
+
+Crown6
+
+    <PropData>
+      <type>Candle</type>
+      <Position>
+        <X>165</X>
+        <Y>119</Y>
+      </Position>
+      <flipped>false</flipped>
+    </PropData>
+
+    <PropData>
+      <type>Candle</type>
+      <Position>
+        <X>198</X>
+        <Y>119</Y>
+      </Position>
+      <flipped>false</flipped>
+    </PropData>
+
+    <PropData>
+      <type>Candle</type>
+      <Position>
+        <X>174</X>
+        <Y>119</Y>
+      </Position>
+      <flipped>true</flipped>
+    </PropData>
+
+    <PropData>
+      <type>Candle</type>
+      <Position>
+        <X>189</X>
+        <Y>119</Y>
+      </Position>
+      <flipped>false</flipped>
+    </PropData>
+
+    <PropData>
+      <type>Candle</type>
+      <Position>
+        <X>170</X>
+        <Y>127</Y>
+      </Position>
+      <flipped>true</flipped>
+    </PropData>
+
+    <PropData>
+      <type>Candle</type>
+      <Position>
+        <X>194</X>
+        <Y>127</Y>
+      </Position>
+      <flipped>false</flipped>
+    </PropData>
+
+Crown7
+
+    <PropData>
+      <type>Candle</type>
+      <Position>
+        <X>292</X>
+        <Y>55</Y>
+      </Position>
+      <flipped>false</flipped>
+    </PropData>
+
+    <PropData>
+      <type>Candle</type>
+      <Position>
+        <X>325</X>
+        <Y>55</Y>
+      </Position>
+      <flipped>false</flipped>
+    </PropData>
+
+    <PropData>
+      <type>Candle</type>
+      <Position>
+        <X>301</X>
+        <Y>55</Y>
+      </Position>
+      <flipped>true</flipped>
+    </PropData>
+
+    <PropData>
+      <type>Candle</type>
+      <Position>
+        <X>316</X>
+        <Y>55</Y>
+      </Position>
+      <flipped>false</flipped>
+    </PropData>
+
+    <PropData>
+      <type>Candle</type>
+      <Position>
+        <X>297</X>
+        <Y>63</Y>
+      </Position>
+      <flipped>true</flipped>
+    </PropData>
+
+    <PropData>
+      <type>Candle</type>
+      <Position>
+        <X>321</X>
+        <Y>63</Y>
+      </Position>
+      <flipped>false</flipped>
+    </PropData>
+
+Crown8
+
+    <PropData>
+      <type>Candle</type>
+      <Position>
+        <X>332</X>
+        <Y>0</Y>
+      </Position>
+      <flipped>false</flipped>
+    </PropData>
+
+    <PropData>
+      <type>Candle</type>
+      <Position>
+        <X>365</X>
+        <Y>0</Y>
+      </Position>
+      <flipped>false</flipped>
+    </PropData>
+
+    <PropData>
+      <type>Candle</type>
+      <Position>
+        <X>341</X>
+        <Y>0</Y>
+      </Position>
+      <flipped>true</flipped>
+    </PropData>
+
+    <PropData>
+      <type>Candle</type>
+      <Position>
+        <X>356</X>
+        <Y>0</Y>
+      </Position>
+      <flipped>false</flipped>
+    </PropData>
+
+    <PropData>
+      <type>Candle</type>
+      <Position>
+        <X>337</X>
+        <Y>8</Y>
+      </Position>
+      <flipped>true</flipped>
+    </PropData>
+
+    <PropData>
+      <type>Candle</type>
+      <Position>
+        <X>361</X>
+        <Y>8</Y>
+      </Position>
+      <flipped>false</flipped>
+    </PropData>
+
+Crown9
+
+    <PropData>
+      <type>Candle</type>
+      <Position>
+        <X>108</X>
+        <Y>0</Y>
+      </Position>
+      <flipped>false</flipped>
+    </PropData>
+
+    <PropData>
+      <type>Candle</type>
+      <Position>
+        <X>141</X>
+        <Y>0</Y>
+      </Position>
+      <flipped>false</flipped>
+    </PropData>
+
+    <PropData>
+      <type>Candle</type>
+      <Position>
+        <X>117</X>
+        <Y>0</Y>
+      </Position>
+      <flipped>true</flipped>
+    </PropData>
+
+    <PropData>
+      <type>Candle</type>
+      <Position>
+        <X>132</X>
+        <Y>0</Y>
+      </Position>
+      <flipped>false</flipped>
+    </PropData>
+
+    <PropData>
+      <type>Candle</type>
+      <Position>
+        <X>113</X>
+        <Y>8</Y>
+      </Position>
+      <flipped>true</flipped>
+    </PropData>
+
+    <PropData>
+      <type>Candle</type>
+      <Position>
+        <X>137</X>
+        <Y>8</Y>
+      </Position>
+      <flipped>false</flipped>
+    </PropData>
+
+  </Props>
+</PropCollection>

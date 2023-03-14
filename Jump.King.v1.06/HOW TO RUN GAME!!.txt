@@ -1,0 +1,4 @@
+To play game, go inside the 'Jump.King.v1.06' folder, right click and run 'JumpKing' as administrator
+
+If you get any missing dll errors or the game isn't launching, go inside the _help folder and install all 8 programs in the folder
+

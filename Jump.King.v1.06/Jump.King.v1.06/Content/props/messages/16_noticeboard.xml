@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<RattmanSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+	<screen>16</screen>
+	<hitbox_center>
+		<X>0</X>
+		<Y>0</Y>
+	</hitbox_center>
+	<hitbox>
+		<X>328</X>
+		<Y>247</Y>
+		<Width>24</Width>
+		<Height>24</Height>
+	</hitbox>
+	<font>Default</font>
+	<text_anchor>
+        <X>280</X>
+        <Y>280</Y>
+	</text_anchor>
+	<bubble_format>
+	    <direction>Right</direction>
+	    <anchor>
+			<X>Left</X>
+			<Y>Down</Y>
+	    </anchor>
+	    <width>160</width>
+  	</bubble_format>
+	<text>
+		<lines>
+			<string>NOTICEBOARD_TOWNHALL_LINE_0</string>
+			<string>NOTICEBOARD_TOWNHALL_LINE_1</string>
+			<string>NOTICEBOARD_TOWNHALL_LINE_2</string>
+			<string>NOTICEBOARD_TOWNHALL_LINE_3</string>
+			<string>NOTICEBOARD_TOWNHALL_LINE_4</string>
+			<string>NOTICEBOARD_TOWNHALL_LINE_5</string>
+			<string>NOTICEBOARD_TOWNHALL_LINE_6</string>
+		</lines>
+	</text>
+
+</RattmanSettings>
